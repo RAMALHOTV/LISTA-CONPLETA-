@@ -1,749 +1,1086 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="BAND CAMPINAS ¹" tvg-logo="http://xcui.vitvabc.xyz:8880/images/0f93949112ab73ade96908054f233538.png" group-title="CANAIS: ABERTOS",BAND CAMPINAS ¹
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31059
-#EXTINF:-1 tvg-id="Band" tvg-name="BAND FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/0f93949112ab73ade96908054f233538.png" group-title="CANAIS: ABERTOS",BAND FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31060
-#EXTINF:-1 tvg-id="" tvg-name="BAND HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/0f93949112ab73ade96908054f233538.png" group-title="CANAIS: ABERTOS",BAND HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31061
-#EXTINF:-1 tvg-id="" tvg-name="BAND PA (RBATV)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/0f93949112ab73ade96908054f233538.png" group-title="CANAIS: ABERTOS",BAND PA (RBATV)
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31062
-#EXTINF:-1 tvg-id="Canal Brasil" tvg-name="CANAL BRASIL FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/99c99a1c36c4dc188705905b5471c263.png" group-title="CANAIS: ABERTOS",CANAL BRASIL FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31063
-#EXTINF:-1 tvg-id="Canal do Boi" tvg-name="CANAL DO BOI" tvg-logo="http://xcui.vitvabc.xyz:8880/images/62cb19c8de3b1ae6482f3e8bacdf9a59.png" group-title="CANAIS: ABERTOS",CANAL DO BOI
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31064
-#EXTINF:-1 tvg-id="" tvg-name="CLASSIQUE TV" tvg-logo="http://xcui.vitvabc.xyz:8880/images/e61827e47c8159264d13654819d019cd.png" group-title="CANAIS: ABERTOS",CLASSIQUE TV
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31066
-#EXTINF:-1 tvg-id="" tvg-name="CLASSIQUE TV 2" tvg-logo="http://xcui.vitvabc.xyz:8880/images/e61827e47c8159264d13654819d019cd.png" group-title="CANAIS: ABERTOS",CLASSIQUE TV 2
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31067
-#EXTINF:-1 tvg-id="" tvg-name="GAZETA ¹ SP" tvg-logo="http://xcui.vitvabc.xyz:8880/images/93f3f8456217740578e7c109767d6475.png" group-title="CANAIS: ABERTOS",GAZETA ¹ SP
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31069
-#EXTINF:-1 tvg-id="" tvg-name="GOSPEL CARTOON" tvg-logo="http://xcui.vitvabc.xyz:8880/images/336b8abfa862d4024c9730bc77b4e6ca.png" group-title="CANAIS: ABERTOS",GOSPEL CARTOON
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31070
-#EXTINF:-1 tvg-id="Rede TV" tvg-name="REDE TV FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/bc12f0ddd6fdcb7742bf4924ac4601fd.png" group-title="CANAIS: ABERTOS",REDE TV FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31071
-#EXTINF:-1 tvg-id="" tvg-name="REDE TV HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/bc12f0ddd6fdcb7742bf4924ac4601fd.png" group-title="CANAIS: ABERTOS",REDE TV HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31072
-#EXTINF:-1 tvg-id="" tvg-name="SBT" tvg-logo="http://xcui.vitvabc.xyz:8880/images/eadc1bacb17aea28d29fefc19868b5e1.png" group-title="CANAIS: ABERTOS",SBT
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31075
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/eadc1bacb17aea28d29fefc19868b5e1.png" group-title="CANAIS: ABERTOS",SBT FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31076
-#EXTINF:-1 tvg-id="" tvg-name="SBT RJ ¹" tvg-logo="http://xcui.vitvabc.xyz:8880/images/eadc1bacb17aea28d29fefc19868b5e1.png" group-title="CANAIS: ABERTOS",SBT RJ ¹
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31077
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT TV ALTEROSA HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/eadc1bacb17aea28d29fefc19868b5e1.png" group-title="CANAIS: ABERTOS",SBT TV ALTEROSA HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31078
-#EXTINF:-1 tvg-id="" tvg-name="SBT TV SERRA DOURADA FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/eadc1bacb17aea28d29fefc19868b5e1.png" group-title="CANAIS: ABERTOS",SBT TV SERRA DOURADA FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31080
-#EXTINF:-1 tvg-id="SBT" tvg-name="TV ARATU HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/368348074da9ebc3304ee57422374c60.png" group-title="CANAIS: ABERTOS",TV ARATU HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31082
-#EXTINF:-1 tvg-id="TV Cultura HD" tvg-name="TV CULTURA" tvg-logo="http://xcui.vitvabc.xyz:8880/images/071d4d7c98f1f4d43932abc07cc036cb.png" group-title="CANAIS: ABERTOS",TV CULTURA
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31083
-#EXTINF:-1 tvg-id="" tvg-name="TV CULTURA HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/071d4d7c98f1f4d43932abc07cc036cb.png" group-title="CANAIS: ABERTOS",TV CULTURA HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31084
-#EXTINF:-1 tvg-id="TV Diário" tvg-name="TV DIARIO FULLHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/TV_Di%C3%A1rio_logo.svg/3381px-TV_Di%C3%A1rio_logo.svg.png" group-title="CANAIS: ABERTOS",TV DIARIO FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31085
-#EXTINF:-1 tvg-id="" tvg-name="TV DIGITAL BIRIGUI" tvg-logo="http://xcui.vitvabc.xyz:8880/images/3aa80d46b1f263b142d99dfd54457593.png" group-title="CANAIS: ABERTOS",TV DIGITAL BIRIGUI
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31086
-#EXTINF:-1 tvg-id="" tvg-name="TV GAZETA" tvg-logo="http://xcui.vitvabc.xyz:8880/images/93f3f8456217740578e7c109767d6475.png" group-title="CANAIS: ABERTOS",TV GAZETA
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31087
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV GAZETA NORTE MINEIRA" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: ABERTOS",GLOBO TV GAZETA NORTE MINEIRA
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31088
-#EXTINF:-1 tvg-id="" tvg-name="TV JORNAL DO NORDESTE" tvg-logo="http://xcui.vitvabc.xyz:8880/images/cde7657893ad2af867542959b26d8147.png" group-title="CANAIS: ABERTOS",TV JORNAL DO NORDESTE
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31091
-#EXTINF:-1 tvg-id="TV Justiça" tvg-name="TV JUSTIÇA" tvg-logo="http://xcui.vitvabc.xyz:8880/images/e2ad7457629b14af4db0126cafb82927.png" group-title="CANAIS: ABERTOS",TV JUSTIÇA
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31092
-#EXTINF:-1 tvg-id="" tvg-name="TV NOVA ONDA" tvg-logo="http://xcui.vitvabc.xyz:8880/images/bb8664a14a14e60820d720840d9e24ea.png" group-title="CANAIS: ABERTOS",TV NOVA ONDA
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31097
-#EXTINF:-1 tvg-id="" tvg-name="TV SERRA VERDE" tvg-logo="http://xcui.vitvabc.xyz:8880/images/6ff9a8121d1da127296f38c282a9f065.png" group-title="CANAIS: ABERTOS",TV SERRA VERDE
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31099
-#EXTINF:-1 tvg-id="" tvg-name="TV UNIÃO DE NATAL" tvg-logo="http://xcui.vitvabc.xyz:8880/images/7aa421c5563e3e542201ef4700757219.png" group-title="CANAIS: ABERTOS",TV UNIÃO DE NATAL
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31101
-#EXTINF:-1 tvg-id="Animal  Planet FHD" tvg-name="ANIMAL PLANET FULLHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/animalplanet2019.png" group-title="CANAIS: DOCUMENTARIOS",ANIMAL PLANET FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31104
-#EXTINF:-1 tvg-id="Animal Planet HD" tvg-name="ANIMAL PLANET HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/40e4afcfd925c2e4ea83a767993ea8b0.png" group-title="CANAIS: DOCUMENTARIOS",ANIMAL PLANET HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31105
-#EXTINF:-1 tvg-id="Discovery Channel FHD" tvg-name="DISCOVERY CHANNEL FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/3f0a25c8c94296bd1563a0ece015ad4e.png" group-title="CANAIS: DOCUMENTARIOS",DISCOVERY CHANNEL FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31106
-#EXTINF:-1 tvg-id="Discovery Home Health FHD" tvg-name="DISCOVERY HOME & HEALTH FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/ef3cb160026aa53be9dc13e3f1844e25.png" group-title="CANAIS: DOCUMENTARIOS",DISCOVERY HOME & HEALTH FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31107
-#EXTINF:-1 tvg-id="Discovery Home Health HD" tvg-name="DISCOVERY HOME & HEALTH HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/ef3cb160026aa53be9dc13e3f1844e25.png" group-title="CANAIS: DOCUMENTARIOS",DISCOVERY HOME & HEALTH HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31108
-#EXTINF:-1 tvg-id="ID - Investigação Discovery HD" tvg-name="DISCOVERY ID FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/74dd868583b6f3eec92afef9e90545f4.png" group-title="CANAIS: DOCUMENTARIOS",DISCOVERY ID FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31109
-#EXTINF:-1 tvg-id="ID - Investigação Discovery HD" tvg-name="DISCOVERY ID HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/74dd868583b6f3eec92afef9e90545f4.png" group-title="CANAIS: DOCUMENTARIOS",DISCOVERY ID HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31110
-#EXTINF:-1 tvg-id="Discovery Science HD" tvg-name="DISCOVERY SCIENCE FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/6860c35d5f46884944f224c1b0370ad2.png" group-title="CANAIS: DOCUMENTARIOS",DISCOVERY SCIENCE FULL HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31111
-#EXTINF:-1 tvg-id="Discovery Science HD" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/6860c35d5f46884944f224c1b0370ad2.png" group-title="CANAIS: DOCUMENTARIOS",DISCOVERY SCIENCE HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31112
-#EXTINF:-1 tvg-id="Discovery Theater FHD" tvg-name="DISCOVERY THEATHER FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/e4ad6cd39eab23f795ff90d70934084e.png" group-title="CANAIS: DOCUMENTARIOS",DISCOVERY THEATHER FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31113
-#EXTINF:-1 tvg-id="Discovery Turbo FHD" tvg-name="DISCOVERY TURBO FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/ed542b4a969f744da2e53a4199d58739.png" group-title="CANAIS: DOCUMENTARIOS",DISCOVERY TURBO FULL HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31114
-#EXTINF:-1 tvg-id="Discovery Turbo HD" tvg-name="DISCOVERY TURBO HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/ed542b4a969f744da2e53a4199d58739.png" group-title="CANAIS: DOCUMENTARIOS",DISCOVERY TURBO HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31115
-#EXTINF:-1 tvg-id="Discovery World FHD" tvg-name="DISCOVERY WORLD FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/87a2b2aaf8ce3c9196ccddfaa99356bc.png" group-title="CANAIS: DOCUMENTARIOS",DISCOVERY WORLD FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31116
-#EXTINF:-1 tvg-id="Discovery World HD" tvg-name="DISCOVERY WORLD HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/87a2b2aaf8ce3c9196ccddfaa99356bc.png" group-title="CANAIS: DOCUMENTARIOS",DISCOVERY WORLD HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31117
-#EXTINF:-1 tvg-id="H2 HD" tvg-name="H2 FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/25fa91858b069b1652a8c0954a90ce60.png" group-title="CANAIS: DOCUMENTARIOS",H2 FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31118
-#EXTINF:-1 tvg-id="H2 HD" tvg-name="H2 HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/25fa91858b069b1652a8c0954a90ce60.png" group-title="CANAIS: DOCUMENTARIOS",H2 HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31119
-#EXTINF:-1 tvg-id="" tvg-name="HGTV HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/26e104754d63adb5a0f6ce026be7182b.png" group-title="CANAIS: DOCUMENTARIOS",HGTV HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31121
-#EXTINF:-1 tvg-id="The History Channel FHD" tvg-name="HISTORY FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/e54d2b4f42397dbed309964bd18be83e.png" group-title="CANAIS: DOCUMENTARIOS",HISTORY FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31122
-#EXTINF:-1 tvg-id="History Channel HD" tvg-name="HISTORY HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/e54d2b4f42397dbed309964bd18be83e.png" group-title="CANAIS: DOCUMENTARIOS",HISTORY HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31123
-#EXTINF:-1 tvg-id="Nat Geo 4K" tvg-name="NATGEO FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/2115ee8b4f1b5f0085f6c521decd1def.png" group-title="CANAIS: DOCUMENTARIOS",NATGEO FULL HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31124
-#EXTINF:-1 tvg-id="Natgeo FHD H.265" tvg-name="NATGEO HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/2115ee8b4f1b5f0085f6c521decd1def.png" group-title="CANAIS: DOCUMENTARIOS",NATGEO HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31125
-#EXTINF:-1 tvg-id="Nat Geo Wild FHD" tvg-name="NATGEO WILD FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/2115ee8b4f1b5f0085f6c521decd1def.png" group-title="CANAIS: DOCUMENTARIOS",NATGEO WILD FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31126
-#EXTINF:-1 tvg-id="NatGeo Wild [Alter]" tvg-name="NATGEO WILD HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/757a717ee2ade661c665276734c83b16.png" group-title="CANAIS: DOCUMENTARIOS",NATGEO WILD HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31127
-#EXTINF:-1 tvg-id="" tvg-name="SMITHSONIAN HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/52bd49d71d4c8b61c7769a9a19f9be25.png" group-title="CANAIS: DOCUMENTARIOS",SMITHSONIAN HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31128
-#EXTINF:-1 tvg-id="TLC HD" tvg-name="TLC FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/982d1d3f6c692b6e8fdba2eabf96bef2.png" group-title="CANAIS: DOCUMENTARIOS",TLC FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31129
-#EXTINF:-1 tvg-id="" tvg-name="TRAVEL BOX BRAZIL" tvg-logo="http://xcui.vitvabc.xyz:8880/images/c62e1fd857cc6c7eee73d63b8d82355b.png" group-title="CANAIS: DOCUMENTARIOS",TRAVEL BOX BRAZIL
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31130
-#EXTINF:-1 tvg-id="" tvg-name="ALL SPORTS TV²" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/all-sports.png" group-title="CANAIS: ESPORTES ESPECIAIS",ALL SPORTS TV²
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31131
-#EXTINF:-1 tvg-id="" tvg-name="ALL SPORTS" tvg-logo="http://xcui.vitvabc.xyz:8880/images/dd0adb2707019ec75c7ab58f6f9c0962.png" group-title="CANAIS: ESPORTES ESPECIAIS",ALL SPORTS
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31132
-#EXTINF:-1 tvg-id="Band Sports HD" tvg-name="BAND SPORTS FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/b92ca3bd619bfa5d2eed95d39938653d.png" group-title="CANAIS: ESPORTES ESPECIAIS",BAND SPORTS FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31133
-#EXTINF:-1 tvg-id="Band Sports HD" tvg-name="BAND SPORTS HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/b92ca3bd619bfa5d2eed95d39938653d.png" group-title="CANAIS: ESPORTES ESPECIAIS",BAND SPORTS HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31134
-#EXTINF:-1 tvg-id="Band Sports HD" tvg-name="BAND SPORTS HD*" tvg-logo="http://xcui.vitvabc.xyz:8880/images/b92ca3bd619bfa5d2eed95d39938653d.png" group-title="CANAIS: ESPORTES ESPECIAIS",BAND SPORTS HD*
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31135
-#EXTINF:-1 tvg-id="Combate FHD" tvg-name="COMBATE FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/758d8b1cbf0b6cee37110825fead0f77.png" group-title="CANAIS: ESPORTES ESPECIAIS",COMBATE FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31136
-#EXTINF:-1 tvg-id="Combate HD" tvg-name="COMBATE HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/758d8b1cbf0b6cee37110825fead0f77.png" group-title="CANAIS: ESPORTES ESPECIAIS",COMBATE HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31137
-#EXTINF:-1 tvg-id="Combate FHD" tvg-name="COMBATE HD*" tvg-logo="http://xcui.vitvabc.xyz:8880/images/758d8b1cbf0b6cee37110825fead0f77.png" group-title="CANAIS: ESPORTES ESPECIAIS",COMBATE HD*
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31138
-#EXTINF:-1 tvg-id="ESPN 2 FHD H.265" tvg-name="ESPN 2 FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/017f41a2ef4ff9d39f45f680b88cd23b.png" group-title="CANAIS: ESPORTES ESPECIAIS",ESPN 2 FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31139
-#EXTINF:-1 tvg-id="ESPN 2 FHD H.265" tvg-name="ESPN 2 HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/017f41a2ef4ff9d39f45f680b88cd23b.png" group-title="CANAIS: ESPORTES ESPECIAIS",ESPN 2 HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31140
-#EXTINF:-1 tvg-id="ESPN 2 FHD H.265" tvg-name="ESPN 2 HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/017f41a2ef4ff9d39f45f680b88cd23b.png" group-title="CANAIS: ESPORTES ESPECIAIS",ESPN 2 HD+
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31141
-#EXTINF:-1 tvg-id="ESPN Brasil HD" tvg-name="ESPN BRASIL FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/f86427073efd142c6d56d817ddbb556e.png" group-title="CANAIS: ESPORTES ESPECIAIS",ESPN BRASIL FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31142
-#EXTINF:-1 tvg-id="ESPN Brasil FHD" tvg-name="ESPN BRASIL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/f86427073efd142c6d56d817ddbb556e.png" group-title="CANAIS: ESPORTES ESPECIAIS",ESPN BRASIL HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31143
-#EXTINF:-1 tvg-id="ESPN Brasil FHD" tvg-name="ESPN BRASIL HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/f86427073efd142c6d56d817ddbb556e.png" group-title="CANAIS: ESPORTES ESPECIAIS",ESPN BRASIL HD+
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31144
-#EXTINF:-1 tvg-id="ESPN Extra FHD" tvg-name="ESPN EXTRA FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/96cd16ac96c2e6922d50de532d9380dd.png" group-title="CANAIS: ESPORTES ESPECIAIS",ESPN EXTRA FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31145
-#EXTINF:-1 tvg-id="ESPN Extra" tvg-name="ESPN EXTRA HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/96cd16ac96c2e6922d50de532d9380dd.png" group-title="CANAIS: ESPORTES ESPECIAIS",ESPN EXTRA HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31146
-#EXTINF:-1 tvg-id="ESPN Extra HD" tvg-name="ESPN EXTRA HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/96cd16ac96c2e6922d50de532d9380dd.png" group-title="CANAIS: ESPORTES ESPECIAIS",ESPN EXTRA HD+
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31147
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="CANAIS: ESPORTES ESPECIAIS",ESPN FULL HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31148
-#EXTINF:-1 tvg-id="ESPN FHD" tvg-name="ESPN HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="CANAIS: ESPORTES ESPECIAIS",ESPN HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31149
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="CANAIS: ESPORTES ESPECIAIS",ESPN HD+
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31150
-#EXTINF:-1 tvg-id="Fish TV HD [Alter]" tvg-name="FISH TV FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/b145d144ab6a49fe5c362c32b4b16dec.png" group-title="CANAIS: ESPORTES ESPECIAIS",FISH TV FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31151
-#EXTINF:-1 tvg-id="Fish TV" tvg-name="FISH TV HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/b145d144ab6a49fe5c362c32b4b16dec.png" group-title="CANAIS: ESPORTES ESPECIAIS",FISH TV HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31152
-#EXTINF:-1 tvg-id="FOX Sports 2 HD" tvg-name="FOX SPORTS 2 FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/0d5e8cc590d7d27052d14c315bff72a8.png" group-title="CANAIS: ESPORTES ESPECIAIS",FOX SPORTS 2 FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31153
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/0d5e8cc590d7d27052d14c315bff72a8.png" group-title="CANAIS: ESPORTES ESPECIAIS",FOX SPORTS 2 HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31154
-#EXTINF:-1 tvg-id="Fox Sports FHD" tvg-name="FOX SPORTS 1 FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/96e8f1dba8c6dfcf1379418173569f03.png" group-title="CANAIS: ESPORTES ESPECIAIS",FOX SPORTS 1 FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31155
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 1 HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/96e8f1dba8c6dfcf1379418173569f03.png" group-title="CANAIS: ESPORTES ESPECIAIS",FOX SPORTS 1 HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31156
-#EXTINF:-1 tvg-id="" tvg-name="GOLF CHANNEL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/d3f677104e3e511bcca3e147c2d2e674.png" group-title="CANAIS: ESPORTES ESPECIAIS",GOLF CHANNEL HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31158
-#EXTINF:-1 tvg-id="OFF HD" tvg-name="OFF FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/699567509ccfb16ff2f1faccc713be6a.png" group-title="CANAIS: ESPORTES ESPECIAIS",OFF FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31159
-#EXTINF:-1 tvg-id="OFF HD" tvg-name="OFF HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/699567509ccfb16ff2f1faccc713be6a.png" group-title="CANAIS: ESPORTES ESPECIAIS",OFF HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31160
-#EXTINF:-1 tvg-id="Sportv 2 FHD" tvg-name="SPORTV 2 FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/7cdd99f0f49e9148979d0c07bbbd3318.png" group-title="CANAIS: ESPORTES ESPECIAIS",SPORTV 2 FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31162
-#EXTINF:-1 tvg-id="SporTV 2" tvg-name="SPORTV 2 HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/7cdd99f0f49e9148979d0c07bbbd3318.png" group-title="CANAIS: ESPORTES ESPECIAIS",SPORTV 2 HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31163
-#EXTINF:-1 tvg-id="Sportv 3 FHD" tvg-name="SPORTV 3 FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/c18d8a3253e514c683a2c5e5c2ba1019.png" group-title="CANAIS: ESPORTES ESPECIAIS",SPORTV 3 FULL HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31165
-#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SPORTV 3 HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/c18d8a3253e514c683a2c5e5c2ba1019.png" group-title="CANAIS: ESPORTES ESPECIAIS",SPORTV 3 HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31166
-#EXTINF:-1 tvg-id="Sportv FHD" tvg-name="SPORTV FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/ef3f48d2e548940db0f144817f1295a0.png" group-title="CANAIS: ESPORTES ESPECIAIS",SPORTV FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31168
-#EXTINF:-1 tvg-id="SporTV" tvg-name="SPORTV HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/ef3f48d2e548940db0f144817f1295a0.png" group-title="CANAIS: ESPORTES ESPECIAIS",SPORTV HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31169
-#EXTINF:-1 tvg-id="Sportv FHD" tvg-name="SPORTV HD*" tvg-logo="http://xcui.vitvabc.xyz:8880/images/ef3f48d2e548940db0f144817f1295a0.png" group-title="CANAIS: ESPORTES ESPECIAIS",SPORTV HD*
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31170
-#EXTINF:-1 tvg-id="Woohoo HD" tvg-name="WOOHOO FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/3c705e3e1ad610efe2d136dd9d4a3e6a.png" group-title="CANAIS: ESPORTES ESPECIAIS",WOOHOO FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31171
-#EXTINF:-1 tvg-id="Woohoo HD" tvg-name="WOOHOO HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/3c705e3e1ad610efe2d136dd9d4a3e6a.png" group-title="CANAIS: ESPORTES ESPECIAIS",WOOHOO HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31172
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 3" tvg-logo="http://xcui.vitvabc.xyz:8880/images/49695cd1d14ce03a374f2f2f425780d4.png" group-title="CANAIS: ESPORTES ESPECIAIS",CONMEBOL 3
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31189
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 4" tvg-logo="http://xcui.vitvabc.xyz:8880/images/49695cd1d14ce03a374f2f2f425780d4.png" group-title="CANAIS: ESPORTES ESPECIAIS",CONMEBOL 4
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31191
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 2 HD" tvg-logo="http://51.222.46.117:80/images/5631eb07e7db08d61ba10d8907b937e4.png" group-title="CANAIS: ESPORTES ESPECIAIS",COPA DO NORDESTE 2 HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31203
-#EXTINF:-1 tvg-id="" tvg-name="DAZN2 FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/9f51d965d5ea8f13e610c6738752925b.png" group-title="CANAIS: ESPORTES ESPECIAIS",DAZN2 FULL HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31210
-#EXTINF:-1 tvg-id="" tvg-name="DAZN2 HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/9f51d965d5ea8f13e610c6738752925b.png" group-title="CANAIS: ESPORTES ESPECIAIS",DAZN2 HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31211
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 2" tvg-logo="http://xcui.vitvabc.xyz:8880/images/ef909288e84d11669db9d54d6e9177ec.png" group-title="CANAIS: ESPORTES ESPECIAIS",TNT SPORTS 2
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31223
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 2 HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/ef909288e84d11669db9d54d6e9177ec.png" group-title="CANAIS: ESPORTES ESPECIAIS",TNT SPORTS 2 HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31224
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 3 HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/ef909288e84d11669db9d54d6e9177ec.png" group-title="CANAIS: ESPORTES ESPECIAIS",TNT SPORTS 3 HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31226
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 4 HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/ef909288e84d11669db9d54d6e9177ec.png" group-title="CANAIS: ESPORTES ESPECIAIS",TNT SPORTS 4 HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31227
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 4 SD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/ef909288e84d11669db9d54d6e9177ec.png" group-title="CANAIS: ESPORTES ESPECIAIS",TNT SPORTS 4 SD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31228
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 5 HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/ef909288e84d11669db9d54d6e9177ec.png" group-title="CANAIS: ESPORTES ESPECIAIS",TNT SPORTS 5 HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31229
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 5 HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/ef909288e84d11669db9d54d6e9177ec.png" group-title="CANAIS: ESPORTES ESPECIAIS",TNT SPORTS 5 HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31230
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 6 HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/ef909288e84d11669db9d54d6e9177ec.png" group-title="CANAIS: ESPORTES ESPECIAIS",TNT SPORTS 6 HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31231
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 1 HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/ef909288e84d11669db9d54d6e9177ec.png" group-title="CANAIS: ESPORTES ESPECIAIS",TNT SPORTS 1 HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31237
-#EXTINF:-1 tvg-id="" tvg-name="CBTV" tvg-logo="http://xcui.vitvabc.xyz:8880/images/1829faa27007ab66fdca8caed1be2542.png" group-title="CANAIS: RELIGIOSOS",CBTV
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31242
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 1" tvg-logo="http://xcui.vitvabc.xyz:8880/images/19e6c50faf8e7eac2d14f46a5f55706e.png" group-title="CANAIS: ESPORTES ESPECIAIS",ELEVEN SPORTS 1
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31243
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 2" tvg-logo="http://xcui.vitvabc.xyz:8880/images/19e6c50faf8e7eac2d14f46a5f55706e.png" group-title="CANAIS: ESPORTES ESPECIAIS",ELEVEN SPORTS 2
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31244
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 3" tvg-logo="http://xcui.vitvabc.xyz:8880/images/19e6c50faf8e7eac2d14f46a5f55706e.png" group-title="CANAIS: ESPORTES ESPECIAIS",ELEVEN SPORTS 3
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31245
-#EXTINF:-1 tvg-id="" tvg-name="GOLF CHANNEL" tvg-logo="http://xcui.vitvabc.xyz:8880/images/d3f677104e3e511bcca3e147c2d2e674.png" group-title="CANAIS: ESPORTES ESPECIAIS",GOLF CHANNEL
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31246
-#EXTINF:-1 tvg-id="" tvg-name="MLB NETWORK" tvg-logo="http://xcui.vitvabc.xyz:8880/images/520d92e760446afb14e097e05e972849.png" group-title="CANAIS: ESPORTES ESPECIAIS",MLB NETWORK
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31247
-#EXTINF:-1 tvg-id="" tvg-name="NBA TV" tvg-logo="http://xcui.vitvabc.xyz:8880/images/ebf323cac56411c17e5ba272e6633267.png" group-title="CANAIS: ESPORTES ESPECIAIS",NBA TV
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31248
-#EXTINF:-1 tvg-id="" tvg-name="RED BULL TV" tvg-logo="http://xcui.vitvabc.xyz:8880/images/2d97c6fab3c83d78eda766397d4c88b3.png" group-title="CANAIS: ESPORTES ESPECIAIS",RED BULL TV
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31250
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV +" tvg-logo="http://xcui.vitvabc.xyz:8880/images/2fe8c2d049c14e311dd96b235d599c77.png" group-title="CANAIS: ESPORTES ESPECIAIS",SPORT TV +
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31251
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 2" tvg-logo="http://xcui.vitvabc.xyz:8880/images/03c3e40c0772afd58e2df9e2b56bd156.png" group-title="CANAIS: ESPORTES ESPECIAIS",SPORT TV 2
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31253
-#EXTINF:-1 tvg-id="" tvg-name="SPORTING TV" tvg-logo="http://xcui.vitvabc.xyz:8880/images/0a2c8bcaa56ae51e9bf71b560c16e12f.png" group-title="CANAIS: ESPORTES ESPECIAIS",SPORTING TV
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31258
-#EXTINF:-1 tvg-id="" tvg-name="AL KASS SPORTS 04" tvg-logo="http://xcui.vitvabc.xyz:8880/images/825bcc0c59864d117d82ade61e96b33b.png" group-title="CANAIS: ESPORTES ESPECIAIS",AL KASS SPORTS 04
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31266
-#EXTINF:-1 tvg-id="A&E HD" tvg-name="A&E FULLHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/A%26E_HD.png" group-title="CANAIS: FILMES E SERIES",A&E FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31268
-#EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/3654b34017508a963ccce2426e91e4cd.png" group-title="CANAIS: FILMES E SERIES",AMC HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31269
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXN FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/4db86620f1aff2df1aacbd1aef62656e.png" group-title="CANAIS: FILMES E SERIES",AXN FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31270
-#EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/4db86620f1aff2df1aacbd1aef62656e.png" group-title="CANAIS: FILMES E SERIES",AXN HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31271
-#EXTINF:-1 tvg-id="Canal Sony HD" tvg-name="CANAL SONY FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/e9fe8a96112a1c9d47652689a4282903.png" group-title="CANAIS: FILMES E SERIES",CANAL SONY FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31272
-#EXTINF:-1 tvg-id="" tvg-name="CANAL SONY HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/e9fe8a96112a1c9d47652689a4282903.png" group-title="CANAIS: FILMES E SERIES",CANAL SONY HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31273
-#EXTINF:-1 tvg-id="Cinemax" tvg-name="CINEMAX FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a772994da62e337a407bcfe212e11629.png" group-title="CANAIS: FILMES E SERIES",CINEMAX FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31274
-#EXTINF:-1 tvg-id="" tvg-name="CINEMAX HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a772994da62e337a407bcfe212e11629.png" group-title="CANAIS: FILMES E SERIES",CINEMAX HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31275
-#EXTINF:-1 tvg-id="FX" tvg-name="FX FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/6701d32367fa57ebf2a1c8ec8730badc.png" group-title="CANAIS: FILMES E SERIES",FX FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31276
-#EXTINF:-1 tvg-id="" tvg-name="FX HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/6701d32367fa57ebf2a1c8ec8730badc.png" group-title="CANAIS: FILMES E SERIES",FX HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31277
-#EXTINF:-1 tvg-id="Megapix" tvg-name="MEGAPIX FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/2207378837d00a6c521ef03245443607.png" group-title="CANAIS: FILMES E SERIES",MEGAPIX FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31278
-#EXTINF:-1 tvg-id="" tvg-name="MEGAPIX HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/2207378837d00a6c521ef03245443607.png" group-title="CANAIS: FILMES E SERIES",MEGAPIX HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31279
-#EXTINF:-1 tvg-id="Paramount" tvg-name="PARAMOUNT CHANNEL FULLHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Paramount.png/250px-Paramount.png" group-title="CANAIS: FILMES E SERIES",PARAMOUNT CHANNEL FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31280
-#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Paramount.png/250px-Paramount.png" group-title="CANAIS: FILMES E SERIES",PARAMOUNT CHANNEL HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31281
-#EXTINF:-1 tvg-id="Space HD" tvg-name="SPACE FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/596174fc20df4264ee4fa6e2b35e5022.png" group-title="CANAIS: FILMES E SERIES",SPACE FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31282
-#EXTINF:-1 tvg-id="" tvg-name="SPACE HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/596174fc20df4264ee4fa6e2b35e5022.png" group-title="CANAIS: FILMES E SERIES",SPACE HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31283
-#EXTINF:-1 tvg-id="" tvg-name="SPACE HD*" tvg-logo="http://xcui.vitvabc.xyz:8880/images/596174fc20df4264ee4fa6e2b35e5022.png" group-title="CANAIS: FILMES E SERIES",SPACE HD*
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31284
-#EXTINF:-1 tvg-id="Star Channel" tvg-name="STAR CHANNEL FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/09f75ae3398bd8390700f4704b9ebea8.png" group-title="CANAIS: FILMES E SERIES",STAR CHANNEL FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31285
-#EXTINF:-1 tvg-id="Star Channel" tvg-name="STAR CHANNEL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/09f75ae3398bd8390700f4704b9ebea8.png" group-title="CANAIS: FILMES E SERIES",STAR CHANNEL HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31286
-#EXTINF:-1 tvg-id="Star Hits 1 HD" tvg-name="STAR HITS 1 FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/57ca4e6a99fe37f6b6b5b07501bd758c.png" group-title="CANAIS: FILMES E SERIES",STAR HITS 1 FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31287
-#EXTINF:-1 tvg-id="Star Hits 2 HD" tvg-name="STAR HITS 2 FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/3c611079075ebbcf387fe0857bed309f.png" group-title="CANAIS: FILMES E SERIES",STAR HITS 2 FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31288
-#EXTINF:-1 tvg-id="" tvg-name="STAR HITS 2 HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/3c611079075ebbcf387fe0857bed309f.png" group-title="CANAIS: FILMES E SERIES",STAR HITS 2 HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31289
-#EXTINF:-1 tvg-id="" tvg-name="STAR HITS 1 HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/57ca4e6a99fe37f6b6b5b07501bd758c.png" group-title="CANAIS: FILMES E SERIES",STAR HITS 1 HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31290
-#EXTINF:-1 tvg-id="Studio Universal" tvg-name="STUDIO UNIVERSAL FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/d67d49568c51151403ab2aa0aa43801d.png" group-title="CANAIS: FILMES E SERIES",STUDIO UNIVERSAL FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31291
-#EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/d67d49568c51151403ab2aa0aa43801d.png" group-title="CANAIS: FILMES E SERIES",STUDIO UNIVERSAL HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31292
-#EXTINF:-1 tvg-id="Syfy HD" tvg-name="SYFY FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/8d4f17ac26b11aa97e5a28cac138b392.png" group-title="CANAIS: FILMES E SERIES",SYFY FULL HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31293
-#EXTINF:-1 tvg-id="" tvg-name="SYFY HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/8d4f17ac26b11aa97e5a28cac138b392.png" group-title="CANAIS: FILMES E SERIES",SYFY HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31294
-#EXTINF:-1 tvg-id="TBS" tvg-name="TBS FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/b830b40478efd1395ffa550bdf276b1c.png" group-title="CANAIS: FILMES E SERIES",TBS FULL HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31295
-#EXTINF:-1 tvg-id="" tvg-name="TBS HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/b830b40478efd1395ffa550bdf276b1c.png" group-title="CANAIS: FILMES E SERIES",TBS HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31296
-#EXTINF:-1 tvg-id="TCM" tvg-name="TCM FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/35ea90f53b9ab170a70143cd66830ac8.png" group-title="CANAIS: FILMES E SERIES",TCM FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31297
-#EXTINF:-1 tvg-id="" tvg-name="TCM HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/35ea90f53b9ab170a70143cd66830ac8.png" group-title="CANAIS: FILMES E SERIES",TCM HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31298
-#EXTINF:-1 tvg-id="TNT" tvg-name="TNT FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/c4912158d8c6eaeb95023d760f97a571.png" group-title="CANAIS: FILMES E SERIES",TNT FULL HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31299
-#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/c4912158d8c6eaeb95023d760f97a571.png" group-title="CANAIS: FILMES E SERIES",TNT HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31300
-#EXTINF:-1 tvg-id="TNT Series" tvg-name="TNT SERIES FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/8a22f76113da4e6d3a618d555fd1b14b.png" group-title="CANAIS: FILMES E SERIES",TNT SERIES FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31301
-#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/8a22f76113da4e6d3a618d555fd1b14b.png" group-title="CANAIS: FILMES E SERIES",TNT SERIES HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31302
-#EXTINF:-1 tvg-id="Universal Channel" tvg-name="UNIVERSAL CHANNEL FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5c8d2af36dbec982c74da70a4378e8c4.png" group-title="CANAIS: FILMES E SERIES",UNIVERSAL CHANNEL FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31303
-#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL TV HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5c8d2af36dbec982c74da70a4378e8c4.png" group-title="CANAIS: FILMES E SERIES",UNIVERSAL TV HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31304
-#EXTINF:-1 tvg-id="Warner Channel" tvg-name="WARNER CHANNEL FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/41d1f5c5b62b7ac7de31aeb45fc48756.png" group-title="CANAIS: FILMES E SERIES",WARNER CHANNEL FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31305
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA 1" tvg-logo="http://xcui.vitvabc.xyz:8880/images/bc9e20a156288e0d1c218eb3d31219b5.png" group-title="CANAIS: FILMES ESPECIAIS",CINEMA 1
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31316
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA 2" tvg-logo="http://xcui.vitvabc.xyz:8880/images/bc9e20a156288e0d1c218eb3d31219b5.png" group-title="CANAIS: FILMES ESPECIAIS",CINEMA 2
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31317
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA 3" tvg-logo="http://xcui.vitvabc.xyz:8880/images/bc9e20a156288e0d1c218eb3d31219b5.png" group-title="CANAIS: FILMES ESPECIAIS",CINEMA 3
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31318
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA 4" tvg-logo="http://xcui.vitvabc.xyz:8880/images/bc9e20a156288e0d1c218eb3d31219b5.png" group-title="CANAIS: FILMES ESPECIAIS",CINEMA 4
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31319
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA 5" tvg-logo="http://xcui.vitvabc.xyz:8880/images/bc9e20a156288e0d1c218eb3d31219b5.png" group-title="CANAIS: FILMES ESPECIAIS",CINEMA 5
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31320
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA 6" tvg-logo="http://xcui.vitvabc.xyz:8880/images/bc9e20a156288e0d1c218eb3d31219b5.png" group-title="CANAIS: FILMES ESPECIAIS",CINEMA 6
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31321
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA 7" tvg-logo="http://xcui.vitvabc.xyz:8880/images/bc9e20a156288e0d1c218eb3d31219b5.png" group-title="CANAIS: FILMES ESPECIAIS",CINEMA 7
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31322
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA 8" tvg-logo="http://xcui.vitvabc.xyz:8880/images/bc9e20a156288e0d1c218eb3d31219b5.png" group-title="CANAIS: FILMES ESPECIAIS",CINEMA 8
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31324
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 9 HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/bc9e20a156288e0d1c218eb3d31219b5.png" group-title="CANAIS: FILMES ESPECIAIS",CINE SKY 9 HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31325
-#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2 HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/10a8c26b1a68f70a0dc5d4bead2581b9.png" group-title="CANAIS: HBO",HBO 2 HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31460
-#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO FAMILY FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/7ac60ed5d6e929c81d0885b615c5fd60.png" group-title="CANAIS: HBO",HBO FAMILY FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31461
-#EXTINF:-1 tvg-id="HBO Family HD" tvg-name="HBO FAMILY HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/7ac60ed5d6e929c81d0885b615c5fd60.png" group-title="CANAIS: HBO",HBO FAMILY HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31462
-#EXTINF:-1 tvg-id="HBO Family HD" tvg-name="HBO FAMILY HD*" tvg-logo="http://xcui.vitvabc.xyz:8880/images/7ac60ed5d6e929c81d0885b615c5fd60.png" group-title="CANAIS: HBO",HBO FAMILY HD*
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31463
-#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/02533372af53048a55cf973c53c4ce87.png" group-title="CANAIS: HBO",HBO FULL HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31464
-#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO 1 HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/02533372af53048a55cf973c53c4ce87.png" group-title="CANAIS: HBO",HBO 1 HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31465
-#EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/4faa3e5e907c5cbebb62c10e904f15e9.png" group-title="CANAIS: HBO",HBO MUNDI FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31466
-#EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/4faa3e5e907c5cbebb62c10e904f15e9.png" group-title="CANAIS: HBO",HBO MUNDI HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31467
-#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/025d07370cb9c98aacd83e78e8b3a1a3.png" group-title="CANAIS: HBO",HBO PLUS FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31468
-#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/02533372af53048a55cf973c53c4ce87.png" group-title="CANAIS: HBO",HBO PLUS HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31469
-#EXTINF:-1 tvg-id="" tvg-name="HBO POP FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/6727955f428709d4a93f1176e63b9c31.png" group-title="CANAIS: HBO",HBO POP FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31470
-#EXTINF:-1 tvg-id="" tvg-name="HBO POP HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/6727955f428709d4a93f1176e63b9c31.png" group-title="CANAIS: HBO",HBO POP HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31471
-#EXTINF:-1 tvg-id="HBO Signature HD" tvg-name="HBO SIGNATURE FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/bd9bac19be8c161770a5ba7a4bb80b54.png" group-title="CANAIS: HBO",HBO SIGNATURE FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31472
-#EXTINF:-1 tvg-id="HBO Signature HD" tvg-name="HBO SIGNATURE HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/bd9bac19be8c161770a5ba7a4bb80b54.png" group-title="CANAIS: HBO",HBO SIGNATURE HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31473
-#EXTINF:-1 tvg-id="" tvg-name="HBO XTREAME HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/024401c0ada87effad15307707a8f652.png" group-title="CANAIS: HBO",HBO XTREAME HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31474
-#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/024401c0ada87effad15307707a8f652.png" group-title="CANAIS: HBO",HBO XTREME FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31475
-#EXTINF:-1 tvg-id="Baby TV" tvg-name="BABY TV FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/39292ca1f0992baeac472dda168e98e0.png" group-title="CANAIS: INFANTIS",BABY TV FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31476
-#EXTINF:-1 tvg-id="Baby TV" tvg-name="BABY TV HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/39292ca1f0992baeac472dda168e98e0.png" group-title="CANAIS: INFANTIS",BABY TV HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31477
-#EXTINF:-1 tvg-id="" tvg-name="BOOMERANG FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/bf146b1d1d7281749d2715c20bbb9c46.png" group-title="CANAIS: INFANTIS",BOOMERANG FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31478
-#EXTINF:-1 tvg-id="Cartoon Network FHD" tvg-name="CARTOON NETWORK FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/e3f342cb93eb9c19cb186ffd3ce94cef.png" group-title="CANAIS: INFANTIS",CARTOON NETWORK FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31479
-#EXTINF:-1 tvg-id="Cartoon Network FHD H.265" tvg-name="CARTOON NETWORK HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/e3f342cb93eb9c19cb186ffd3ce94cef.png" group-title="CANAIS: INFANTIS",CARTOON NETWORK HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31480
-#EXTINF:-1 tvg-id="Discovery Kids FHD" tvg-name="DISCOVERY KIDS FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/2cf562aad06214bf223ba170d269204f.png" group-title="CANAIS: INFANTIS",DISCOVERY KIDS FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31481
-#EXTINF:-1 tvg-id="Discovery Kids HD" tvg-name="DISCOVERY KIDS HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/2cf562aad06214bf223ba170d269204f.png" group-title="CANAIS: INFANTIS",DISCOVERY KIDS HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31482
-#EXTINF:-1 tvg-id="Discovery Channel FHD" tvg-name="DISNEY CHANNEL FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/9ebce74f862ad2d97a1979fd87df37d5.png" group-title="CANAIS: INFANTIS",DISNEY CHANNEL FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31483
-#EXTINF:-1 tvg-id="Disney Channel HD" tvg-name="DISNEY CHANNEL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/9ebce74f862ad2d97a1979fd87df37d5.png" group-title="CANAIS: INFANTIS",DISNEY CHANNEL HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31484
-#EXTINF:-1 tvg-id="Disney Junior HD" tvg-name="DISNEY JUNIOR FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/bfaa929c0c7c801d0a72e201e2f19513.png" group-title="CANAIS: INFANTIS",DISNEY JUNIOR FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31485
-#EXTINF:-1 tvg-id="Disney Junior HD" tvg-name="DISNEY JUNIOR HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/bfaa929c0c7c801d0a72e201e2f19513.png" group-title="CANAIS: INFANTIS",DISNEY JUNIOR HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31486
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY XD FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/88d38d7e606f3407449091e3f3349861.png" group-title="CANAIS: INFANTIS",DISNEY XD FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31487
-#EXTINF:-1 tvg-id="Disney XD" tvg-name="DISNEY XD HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/88d38d7e606f3407449091e3f3349861.png" group-title="CANAIS: INFANTIS",DISNEY XD HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31488
-#EXTINF:-1 tvg-id="Gloob FHD" tvg-name="GLOOB FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/7c8ef248f35b48190c1141213597608c.png" group-title="CANAIS: INFANTIS",GLOOB FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31491
-#EXTINF:-1 tvg-id="Gloob HD" tvg-name="GLOOB HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/7c8ef248f35b48190c1141213597608c.png" group-title="CANAIS: INFANTIS",GLOOB HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31492
-#EXTINF:-1 tvg-id="" tvg-name="LOADING TV" tvg-logo="http://xcui.vitvabc.xyz:8880/images/2390b3518e49cb46d70f3a1e5736e24a.png" group-title="CANAIS: INFANTIS",LOADING TV
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31494
-#EXTINF:-1 tvg-id="NatGeo Kids HD" tvg-name="NATGEO KIDS FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/7f2cd821ef90fa8874893fc2f01b696f.png" group-title="CANAIS: INFANTIS",NATGEO KIDS FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31495
-#EXTINF:-1 tvg-id="NatGeo Kids HD" tvg-name="NATGEO KIDS HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/7f2cd821ef90fa8874893fc2f01b696f.png" group-title="CANAIS: INFANTIS",NATGEO KIDS HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31496
-#EXTINF:-1 tvg-id="" tvg-name="NICK JR FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/200a9f7624250db261597116d5b4b1ff.png" group-title="CANAIS: INFANTIS",NICK JR FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31497
-#EXTINF:-1 tvg-id="Nick Jr HD" tvg-name="NICK JR HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/200a9f7624250db261597116d5b4b1ff.png" group-title="CANAIS: INFANTIS",NICK JR HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31498
-#EXTINF:-1 tvg-id="Nickelodeon FHD" tvg-name="NICKELODEON FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/10a2cfd71d2b73deb603d429e742f71d.png" group-title="CANAIS: INFANTIS",NICKELODEON FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31499
-#EXTINF:-1 tvg-id="Nickelodeon HD" tvg-name="NICKELODEON HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/10a2cfd71d2b73deb603d429e742f71d.png" group-title="CANAIS: INFANTIS",NICKELODEON HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31500
-#EXTINF:-1 tvg-id="Tooncast" tvg-name="TOONCAST FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/6fb0584a7141a9c2d339fb2c37aa485d.png" group-title="CANAIS: INFANTIS",TOONCAST FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31501
-#EXTINF:-1 tvg-id="" tvg-name="TV RA TIM BUM FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/d6da3e27b50b87d7c0c2616396080c36.png" group-title="CANAIS: INFANTIS",TV RA TIM BUM FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31502
-#EXTINF:-1 tvg-id="TV Ra tim bum" tvg-name="TV RA TIM BUM HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/d6da3e27b50b87d7c0c2616396080c36.png" group-title="CANAIS: INFANTIS",TV RA TIM BUM HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31503
-#EXTINF:-1 tvg-id="Zoomoo [Alter]" tvg-name="ZOOMOO HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a898f1f3d8f98f072b5c818272e1f38d.png" group-title="CANAIS: INFANTIS",ZOOMOO HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31504
-#EXTINF:-1 tvg-id="Band News" tvg-name="BAND NEWS FULLHD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandnews-logo.png" group-title="CANAIS: NOTICIAS",BAND NEWS FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31506
-#EXTINF:-1 tvg-id="" tvg-name="CNN BRASIL FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/c7fad716bdb5128ab32837e0a4e510a7.png" group-title="CANAIS: NOTICIAS",CNN BRASIL FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31508
-#EXTINF:-1 tvg-id="" tvg-name="CNN BRASIL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/c7fad716bdb5128ab32837e0a4e510a7.png" group-title="CANAIS: NOTICIAS",CNN BRASIL HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31509
-#EXTINF:-1 tvg-id="" tvg-name="CNN ESPANHOL FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/0cc868c6a0944152161312c53b4fa4f9.png" group-title="CANAIS: NOTICIAS",CNN ESPANHOL FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31510
-#EXTINF:-1 tvg-id="" tvg-name="CNN INTERNACIONAL FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/ea08aad287e0aa9e220607b3868bfa57.png" group-title="CANAIS: NOTICIAS",CNN INTERNACIONAL FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31511
-#EXTINF:-1 tvg-id="" tvg-name="DW DEUTSCHE" tvg-logo="http://xcui.vitvabc.xyz:8880/images/6abde93a29b0b98c8a047998240e3a9e.png" group-title="CANAIS: NOTICIAS",DW DEUTSCHE
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31512
-#EXTINF:-1 tvg-id="" tvg-name="DW ESPANHOL" tvg-logo="http://xcui.vitvabc.xyz:8880/images/6abde93a29b0b98c8a047998240e3a9e.png" group-title="CANAIS: NOTICIAS",DW ESPANHOL
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31513
-#EXTINF:-1 tvg-id="" tvg-name="FOX NEWS FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/de48ada29f411f11338a77b2d5e8dc46.png" group-title="CANAIS: NOTICIAS",FOX NEWS FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31514
-#EXTINF:-1 tvg-id="" tvg-name="FOX NEWS HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/de48ada29f411f11338a77b2d5e8dc46.png" group-title="CANAIS: NOTICIAS",FOX NEWS HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31515
-#EXTINF:-1 tvg-id="Globo News" tvg-name="GLOBO NEWS HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: NOTICIAS",GLOBO NEWS HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31518
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NEWS HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: NOTICIAS",GLOBO NEWS HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31519
-#EXTINF:-1 tvg-id="NHK" tvg-name="NHK JAPÃO  HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/dafcab550ebba8121dc48b28b5cf6033.png" group-title="CANAIS: NOTICIAS",NHK JAPÃO  HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31520
-#EXTINF:-1 tvg-id="Record News" tvg-name="RECORD NEWS FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/83c8d9c5f77bb532343d417188302a37.png" group-title="CANAIS: NOTICIAS",RECORD NEWS FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31522
-#EXTINF:-1 tvg-id="Record News" tvg-name="RECORD NEWS HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/83c8d9c5f77bb532343d417188302a37.png" group-title="CANAIS: NOTICIAS",RECORD NEWS HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31523
-#EXTINF:-1 tvg-id="" tvg-name="SIC INTERNACIONAL²" tvg-logo="http://xcui.vitvabc.xyz:8880/images/8c77d086394858fd5c7c67583aa33d99.png" group-title="CANAIS: NOTICIAS",SIC INTERNACIONAL²
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31524
-#EXTINF:-1 tvg-id="Premiere Clubes FHD" tvg-name="PREMIERE CLUBES FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a4c651f79f10b15504b1b50c5ca91802.png" group-title="CANAIS: PREMIERE",PREMIERE CLUBES FULL HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31525
-#EXTINF:-1 tvg-id="Premiere Clubes HD" tvg-name="PREMIERE CLUBES HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a4c651f79f10b15504b1b50c5ca91802.png" group-title="CANAIS: PREMIERE",PREMIERE CLUBES HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31526
-#EXTINF:-1 tvg-id="Premiere Clubes HD [Alter 2]" tvg-name="PREMIERE CLUBES HD²" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a4c651f79f10b15504b1b50c5ca91802.png" group-title="CANAIS: PREMIERE",PREMIERE CLUBES HD²
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31527
-#EXTINF:-1 tvg-id="Premiere 2 FHD" tvg-name="PREMIERE 2 FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a4c651f79f10b15504b1b50c5ca91802.png" group-title="CANAIS: PREMIERE",PREMIERE 2 FULL HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31528
-#EXTINF:-1 tvg-id="Premiere 2 HD" tvg-name="PREMIERE 2 HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a4c651f79f10b15504b1b50c5ca91802.png" group-title="CANAIS: PREMIERE",PREMIERE 2 HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31529
-#EXTINF:-1 tvg-id="Premiere 2 HD" tvg-name="PREMIERE 2 UHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a4c651f79f10b15504b1b50c5ca91802.png" group-title="CANAIS: PREMIERE",PREMIERE 2 UHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31531
-#EXTINF:-1 tvg-id="Premiere 3 FHD" tvg-name="PREMIERE 3 FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a4c651f79f10b15504b1b50c5ca91802.png" group-title="CANAIS: PREMIERE",PREMIERE 3 FULL HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31532
-#EXTINF:-1 tvg-id="Premiere 3 HD" tvg-name="PREMIERE 3 HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a4c651f79f10b15504b1b50c5ca91802.png" group-title="CANAIS: PREMIERE",PREMIERE 3 HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31533
-#EXTINF:-1 tvg-id="Premiere 3 HD" tvg-name="PREMIERE 3 UHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a4c651f79f10b15504b1b50c5ca91802.png" group-title="CANAIS: PREMIERE",PREMIERE 3 UHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31535
-#EXTINF:-1 tvg-id="Premiere 4 FHD" tvg-name="PREMIERE 4 FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a4c651f79f10b15504b1b50c5ca91802.png" group-title="CANAIS: PREMIERE",PREMIERE 4 FULL HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31536
-#EXTINF:-1 tvg-id="Premiere 4 HD" tvg-name="PREMIERE 4 HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a4c651f79f10b15504b1b50c5ca91802.png" group-title="CANAIS: PREMIERE",PREMIERE 4 HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31537
-#EXTINF:-1 tvg-id="Premiere 5 FHD" tvg-name="PREMIERE 5 FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a4c651f79f10b15504b1b50c5ca91802.png" group-title="CANAIS: PREMIERE",PREMIERE 5 FULL HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31539
-#EXTINF:-1 tvg-id="Premiere 5 HD" tvg-name="PREMIERE 5 HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a4c651f79f10b15504b1b50c5ca91802.png" group-title="CANAIS: PREMIERE",PREMIERE 5 HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31540
-#EXTINF:-1 tvg-id="Premiere 6 FHD" tvg-name="PREMIERE 6 FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a4c651f79f10b15504b1b50c5ca91802.png" group-title="CANAIS: PREMIERE",PREMIERE 6 FULL HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31542
-#EXTINF:-1 tvg-id="Premiere 6 HD" tvg-name="PREMIERE 6 HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a4c651f79f10b15504b1b50c5ca91802.png" group-title="CANAIS: PREMIERE",PREMIERE 6 HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31543
-#EXTINF:-1 tvg-id="Premiere 7" tvg-name="PREMIERE 7 FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a4c651f79f10b15504b1b50c5ca91802.png" group-title="CANAIS: PREMIERE",PREMIERE 7 FULL HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31544
-#EXTINF:-1 tvg-id="Premiere 7 HD [Alter]" tvg-name="PREMIERE 7 HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a4c651f79f10b15504b1b50c5ca91802.png" group-title="CANAIS: PREMIERE",PREMIERE 7 HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31545
-#EXTINF:-1 tvg-id="" tvg-name="BR: RECORD CAMPINAS HD²" tvg-logo="http://xcui.vitvabc.xyz:8880/images/83c8d9c5f77bb532343d417188302a37.png" group-title="CANAIS: RECORD",BR: RECORD CAMPINAS HD²
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31553
-#EXTINF:-1 tvg-id="" tvg-name="BR: RECORD RJ HD²" tvg-logo="http://xcui.vitvabc.xyz:8880/images/83c8d9c5f77bb532343d417188302a37.png" group-title="CANAIS: RECORD",BR: RECORD RJ HD²
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31555
-#EXTINF:-1 tvg-id="" tvg-name="BR: RECORD SP HD²" tvg-logo="http://xcui.vitvabc.xyz:8880/images/83c8d9c5f77bb532343d417188302a37.png" group-title="CANAIS: RECORD",BR: RECORD SP HD²
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31556
-#EXTINF:-1 tvg-id="Record" tvg-name="RECORD RS" tvg-logo="http://xcui.vitvabc.xyz:8880/images/f38444c569dc24df0ab9c4f9911e7305.png" group-title="CANAIS: RECORD",RECORD RS
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31557
-#EXTINF:-1 tvg-id="Record" tvg-name="RECORD BAHIA HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: RECORD",RECORD BAHIA HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31558
-#EXTINF:-1 tvg-id="Record" tvg-name="RECORD BRASILIA" tvg-logo="http://xcui.vitvabc.xyz:8880/images/83c8d9c5f77bb532343d417188302a37.png" group-title="CANAIS: RECORD",RECORD BRASILIA
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31560
-#EXTINF:-1 tvg-id="" tvg-name="RECORD BRASILIA HD¹" tvg-logo="http://xcui.vitvabc.xyz:8880/images/83c8d9c5f77bb532343d417188302a37.png" group-title="CANAIS: RECORD",RECORD BRASILIA HD¹
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31561
-#EXTINF:-1 tvg-id="Record" tvg-name="RECORD FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/83c8d9c5f77bb532343d417188302a37.png" group-title="CANAIS: RECORD",RECORD FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31562
-#EXTINF:-1 tvg-id="Record" tvg-name="RECORD GOIAS" tvg-logo="http://xcui.vitvabc.xyz:8880/images/83c8d9c5f77bb532343d417188302a37.png" group-title="CANAIS: RECORD",RECORD GOIAS
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31563
-#EXTINF:-1 tvg-id="Record" tvg-name="RECORD MINAS HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: RECORD",RECORD MINAS HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31565
-#EXTINF:-1 tvg-id="Record RJ" tvg-name="RECORD RJ HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/83c8d9c5f77bb532343d417188302a37.png" group-title="CANAIS: RECORD",RECORD RJ HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31566
-#EXTINF:-1 tvg-id="" tvg-name="RECORD RS HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/83c8d9c5f77bb532343d417188302a37.png" group-title="CANAIS: RECORD",RECORD RS HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31567
-#EXTINF:-1 tvg-id="" tvg-name="RECORD SP HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/83c8d9c5f77bb532343d417188302a37.png" group-title="CANAIS: RECORD",RECORD SP HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31568
-#EXTINF:-1 tvg-id="Record" tvg-name="RECORD¹" tvg-logo="http://xcui.vitvabc.xyz:8880/images/f38444c569dc24df0ab9c4f9911e7305.png" group-title="CANAIS: RECORD",RECORD¹
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31569
-#EXTINF:-1 tvg-id="" tvg-name="TV EVANGELIZAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/TV_Evangelizar_logo_2019.png" group-title="CANAIS: RELIGIOSOS",TV EVANGELIZAR
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31570
-#EXTINF:-1 tvg-id="Cancao Nova" tvg-name="CANCAO NOVA" tvg-logo="http://xcui.vitvabc.xyz:8880/images/9785aab110ace3b4b445d48d66c014bc.png" group-title="CANAIS: RELIGIOSOS",CANCAO NOVA
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31571
-#EXTINF:-1 tvg-id="NovoTempo" tvg-name="NOVO TEMPO" tvg-logo="http://xcui.vitvabc.xyz:8880/images/fad7c9ee73fffcfb31e8a89487972388.png" group-title="CANAIS: RELIGIOSOS",NOVO TEMPO
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31573
-#EXTINF:-1 tvg-id="" tvg-name="REDE GOSPEL FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/2b7e0669485ac77041a6bc8f2429aec2.png" group-title="CANAIS: RELIGIOSOS",REDE GOSPEL FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31575
-#EXTINF:-1 tvg-id="Rede Vida" tvg-name="REDE VIDA" tvg-logo="http://xcui.vitvabc.xyz:8880/images/089fa864e8828996702587b383f939b7.png" group-title="CANAIS: RELIGIOSOS",REDE VIDA
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31577
-#EXTINF:-1 tvg-id="" tvg-name="RIT FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5f52be58b6eacc0bb3b209d1c7acdc9f.png" group-title="CANAIS: RELIGIOSOS",RIT FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31578
-#EXTINF:-1 tvg-id="TV Aparecida [Alter]" tvg-name="TV APARECIDA LIVRE" tvg-logo="http://xcui.vitvabc.xyz:8880/images/f1cad40f81a2f40c3c884a42a1083b47.png" group-title="CANAIS: RELIGIOSOS",TV APARECIDA LIVRE
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31579
-#EXTINF:-1 tvg-id="" tvg-name="TV GOSPEL CEARÁ" tvg-logo="http://xcui.vitvabc.xyz:8880/images/ea860bfd655fc4157edd1b40a66058f1.png" group-title="CANAIS: RELIGIOSOS",TV GOSPEL CEARÁ
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31580
-#EXTINF:-1 tvg-id="" tvg-name="CBTV Now" tvg-logo="http://xcui.vitvabc.xyz:8880/images/1829faa27007ab66fdca8caed1be2542.png" group-title="CANAIS: RELIGIOSOS",CBTV Now
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31581
-#EXTINF:-1 tvg-id="Telecine Action HD" tvg-name="TELECINE ACTION FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/75793f999c2b92fd99177083cde18017.png" group-title="CANAIS: TELECINE",TELECINE ACTION FULL HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31582
-#EXTINF:-1 tvg-id="Telecine Action HD" tvg-name="TELECINE ACTION HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/75793f999c2b92fd99177083cde18017.png" group-title="CANAIS: TELECINE",TELECINE ACTION HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31583
-#EXTINF:-1 tvg-id="Telecine Cult HD" tvg-name="TELECINE CULT FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/aa9e2822814cc61a4be9f0b3b9180f00.png" group-title="CANAIS: TELECINE",TELECINE CULT FULL HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31584
-#EXTINF:-1 tvg-id="Telecine Cult HD" tvg-name="TELECINE CULT HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/aa9e2822814cc61a4be9f0b3b9180f00.png" group-title="CANAIS: TELECINE",TELECINE CULT HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31585
-#EXTINF:-1 tvg-id="Telecine Fun" tvg-name="TELECINE FUN FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/2a70d332d9b49953b6a48827ecd9a254.png" group-title="CANAIS: TELECINE",TELECINE FUN FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31587
-#EXTINF:-1 tvg-id="Telecine Fun HD" tvg-name="TELECINE FUN HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/2a70d332d9b49953b6a48827ecd9a254.png" group-title="CANAIS: TELECINE",TELECINE FUN HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31588
-#EXTINF:-1 tvg-id="Telecine Pipoca" tvg-name="TELECINE PIPOCA FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/78cf91f49d0c208befeabf8ed37de67b.png" group-title="CANAIS: TELECINE",TELECINE PIPOCA FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31589
-#EXTINF:-1 tvg-id="Telecine Pipoca HD" tvg-name="TELECINE PIPOCA HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/78cf91f49d0c208befeabf8ed37de67b.png" group-title="CANAIS: TELECINE",TELECINE PIPOCA HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31590
-#EXTINF:-1 tvg-id="Telecine Premium HD" tvg-name="TELECINE PREMIUM FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/2e31ce17a394e94e2089fcf435e0c142.png" group-title="CANAIS: TELECINE",TELECINE PREMIUM FULL HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31591
-#EXTINF:-1 tvg-id="Telecine Premium HD" tvg-name="TELECINE PREMIUM HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/2e31ce17a394e94e2089fcf435e0c142.png" group-title="CANAIS: TELECINE",TELECINE PREMIUM HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31592
-#EXTINF:-1 tvg-id="Telecine Touch" tvg-name="TELECINE TOUCH FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/132fed2c428e1178f53d456fbabeb044.png" group-title="CANAIS: TELECINE",TELECINE TOUCH FULL HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31593
-#EXTINF:-1 tvg-id="Telecine Touch HD" tvg-name="TELECINE TOUCH HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/132fed2c428e1178f53d456fbabeb044.png" group-title="CANAIS: TELECINE",TELECINE TOUCH HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31594
-#EXTINF:-1 tvg-id="Arte 1 HD [Alter]" tvg-name="Arte 1 FULLHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Arte_1_logo.svg/1024px-Arte_1_logo.svg.png" group-title="CANAIS: VARIEDADES",Arte 1 FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31595
-#EXTINF:-1 tvg-id="BIS HD" tvg-name="BIS FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/227cee183f9b009e2f81f2f8339e281b.png" group-title="CANAIS: VARIEDADES",BIS FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31596
-#EXTINF:-1 tvg-id="BIS HD" tvg-name="BIS HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/227cee183f9b009e2f81f2f8339e281b.png" group-title="CANAIS: VARIEDADES",BIS HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31597
-#EXTINF:-1 tvg-id="Example" tvg-name="CHEF TV FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/6f34b5afe74309dc18660fdcf5a397cf.png" group-title="CANAIS: VARIEDADES",CHEF TV FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31598
-#EXTINF:-1 tvg-id="Comedy Central HD" tvg-name="COMEDY CENTRAL FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/cde4858b66658752635d80766b1e2a6e.png" group-title="CANAIS: VARIEDADES",COMEDY CENTRAL FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31599
-#EXTINF:-1 tvg-id="Comedy Central HD" tvg-name="COMEDY CENTRAL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/cde4858b66658752635d80766b1e2a6e.png" group-title="CANAIS: VARIEDADES",COMEDY CENTRAL HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31600
-#EXTINF:-1 tvg-id="Curta" tvg-name="CURTA! FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/curta.png" group-title="CANAIS: VARIEDADES",CURTA! FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31601
-#EXTINF:-1 tvg-id="Curta HD [Alter]" tvg-name="CURTA! HD*" tvg-logo="http://xcui.vitvabc.xyz:8880/images/curta.png" group-title="CANAIS: VARIEDADES",CURTA! HD*
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31602
-#EXTINF:-1 tvg-id="E! Entertainment Television HD" tvg-name="E! FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/1828ac2961aa0c88b09c37589b1d1ec8.png" group-title="CANAIS: VARIEDADES",E! FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31604
-#EXTINF:-1 tvg-id="E! Entertainment Television HD" tvg-name="E! HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/1828ac2961aa0c88b09c37589b1d1ec8.png" group-title="CANAIS: VARIEDADES",E! HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31605
-#EXTINF:-1 tvg-id="Food Network HD" tvg-name="FOOD NETWORK FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/832c06ec85e08fe49d29d9afc9463e13.png" group-title="CANAIS: VARIEDADES",FOOD NETWORK FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31606
-#EXTINF:-1 tvg-id="Food Network HD" tvg-name="FOOD NETWORK HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/832c06ec85e08fe49d29d9afc9463e13.png" group-title="CANAIS: VARIEDADES",FOOD NETWORK HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31607
-#EXTINF:-1 tvg-id="GNT" tvg-name="GNT FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/21336ce48c2cf1b3b4b6464680e6c151.png" group-title="CANAIS: VARIEDADES",GNT FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31608
-#EXTINF:-1 tvg-id="GNT HD" tvg-name="GNT HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/21336ce48c2cf1b3b4b6464680e6c151.png" group-title="CANAIS: VARIEDADES",GNT HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31609
-#EXTINF:-1 tvg-id="" tvg-name="ISAT FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/599d89a71fd2107680db91ff858f733b.png" group-title="CANAIS: VARIEDADES",ISAT FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31610
-#EXTINF:-1 tvg-id="Lifetime HD" tvg-name="LIFETIME FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/501afa9f14a6d193b483e88ae8328b91.png" group-title="CANAIS: VARIEDADES",LIFETIME FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31611
-#EXTINF:-1 tvg-id="Lifetime HD" tvg-name="LIFETIME HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/501afa9f14a6d193b483e88ae8328b91.png" group-title="CANAIS: VARIEDADES",LIFETIME HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31612
-#EXTINF:-1 tvg-id="Mais Globosat HD" tvg-name="MAIS GLOBOSAT" tvg-logo="http://xcui.vitvabc.xyz:8880/images/c7488d245ac86f03363f7ae31245b909.png" group-title="CANAIS: VARIEDADES",MAIS GLOBOSAT
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31613
-#EXTINF:-1 tvg-id="Mais Globosat HD" tvg-name="MAIS GLOBOSAT FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/c7488d245ac86f03363f7ae31245b909.png" group-title="CANAIS: VARIEDADES",MAIS GLOBOSAT FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31614
-#EXTINF:-1 tvg-id="MTV HD" tvg-name="MTV FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/0de2ec803fc3459380222fcd29bfbad8.png" group-title="CANAIS: VARIEDADES",MTV FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31615
-#EXTINF:-1 tvg-id="MTV HD" tvg-name="MTV HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/0de2ec803fc3459380222fcd29bfbad8.png" group-title="CANAIS: VARIEDADES",MTV HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31616
-#EXTINF:-1 tvg-id="Multishow HD" tvg-name="MULTISHOW FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/9ad5cd04c24c03b9f8f2d4d80489513e.png" group-title="CANAIS: VARIEDADES",MULTISHOW FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31617
-#EXTINF:-1 tvg-id="Multishow" tvg-name="MULTSHOW HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/664ee9f90b5808c439bd2b098f6de3c2.png" group-title="CANAIS: VARIEDADES",MULTSHOW HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31618
-#EXTINF:-1 tvg-id="Music Box Brazil" tvg-name="MUSIC BOX BRASIL FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/8e6879f4d0b210477c75636b27e078dd.png" group-title="CANAIS: VARIEDADES",MUSIC BOX BRASIL FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31619
-#EXTINF:-1 tvg-id="Play TV" tvg-name="PLAY TV FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/d8c4e9b7a4220393d7b99224af769b53.png" group-title="CANAIS: VARIEDADES",PLAY TV FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31620
-#EXTINF:-1 tvg-id="Prime Box Brazil" tvg-name="PRIME BOX BRASIL FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/288f181ad41fed795f4d9660f0e554df.png" group-title="CANAIS: VARIEDADES",PRIME BOX BRASIL FULL HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31621
-#EXTINF:-1 tvg-id="" tvg-name="SHOPTIME HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/051fafd84038f7345f0e92ee558ffa08.png" group-title="CANAIS: VARIEDADES",SHOPTIME HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31622
-#EXTINF:-1 tvg-id="Star Life HD" tvg-name="STAR LIFE FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/4b2e3e73c605a033172fb82b08928d0c.png" group-title="CANAIS: VARIEDADES",STAR LIFE FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31623
-#EXTINF:-1 tvg-id="Star Life HD" tvg-name="STAR LIFE HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/4b2e3e73c605a033172fb82b08928d0c.png" group-title="CANAIS: VARIEDADES",STAR LIFE HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31624
-#EXTINF:-1 tvg-id="TruTV" tvg-name="TRU TV FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/6641ccf1119a231cfce47e2c913a3443.png" group-title="CANAIS: VARIEDADES",TRU TV FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31626
-#EXTINF:-1 tvg-id="TruTV" tvg-name="TRUTV HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/6641ccf1119a231cfce47e2c913a3443.png" group-title="CANAIS: VARIEDADES",TRUTV HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31627
-#EXTINF:-1 tvg-id="VH1 HD [Alter]" tvg-name="VH1 HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5782d58554458b8542a5f80778fc71b3.png" group-title="CANAIS: VARIEDADES",VH1 HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31628
-#EXTINF:-1 tvg-id="VH1 HD [Alter]" tvg-name="VH1 MEGA HITS FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5782d58554458b8542a5f80778fc71b3.png" group-title="CANAIS: VARIEDADES",VH1 MEGA HITS FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31629
-#EXTINF:-1 tvg-id="Viva" tvg-name="VIVA FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a3f61473d7a74dd439b3c132ec666fe.png" group-title="CANAIS: VARIEDADES",VIVA FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31630
-#EXTINF:-1 tvg-id="Viva HD" tvg-name="VIVA HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a3f61473d7a74dd439b3c132ec666fe.png" group-title="CANAIS: VARIEDADES",VIVA HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31631
-#EXTINF:-1 tvg-id="" tvg-name="THE BIG BANG THEORY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TBBT_logo.svg/828px-TBBT_logo.svg.png" group-title="CANAIS: 24HS ALTER",THE BIG BANG THEORY
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31632
-#EXTINF:-1 tvg-id="" tvg-name="Tom & Jerry" tvg-logo="http://xcui.vitvabc.xyz:8880/images/f744e4566e9a28722b080de69d866117.png" group-title="CANAIS: 24HS ALTER",Tom & Jerry
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31633
-#EXTINF:-1 tvg-id="" tvg-name="3 ESPIÃS DEMAIS" tvg-logo="http://xcui.vitvabc.xyz:8880/images/6ba2d2b3be6f6d3e11e124689cd6eeda.png" group-title="CANAIS: 24HS ALTER",3 ESPIÃS DEMAIS
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31634
-#EXTINF:-1 tvg-id="" tvg-name="3 PALAVRINHAS" tvg-logo="http://51.222.46.117:80/images/d29e01bdf86931eee9dde4aad25d1940.png" group-title="CANAIS: 24HS ALTER",3 PALAVRINHAS
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31635
-#EXTINF:-1 tvg-id="" tvg-name="A TURMA DO ZÉ COLMÉIA" tvg-logo="http://xcui.vitvabc.xyz:8880/images/d66b0807811d337f160c70e097fac514.png" group-title="CANAIS: 24HS ALTER",A TURMA DO ZÉ COLMÉIA
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31636
-#EXTINF:-1 tvg-id="" tvg-name="A PANTERA COR-DE-ROSA" tvg-logo="http://xcui.vitvabc.xyz:8880/images/d3b3f9870ecfbaab197d185e3dffcbf3.png" group-title="CANAIS: 24HS ALTER",A PANTERA COR-DE-ROSA
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31637
-#EXTINF:-1 tvg-id="" tvg-name="A PEQUENA SEREIA" tvg-logo="http://xcui.vitvabc.xyz:8880/images/1b224e130823455abb643cf883670136.png" group-title="CANAIS: 24HS ALTER",A PEQUENA SEREIA
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31638
-#EXTINF:-1 tvg-id="" tvg-name="A PEQUENA SEREIA" tvg-logo="http://xcui.vitvabc.xyz:8880/images/e3cd80584c24e0d13b92c3aefe23cc9e.png" group-title="CANAIS: 24HS ALTER",A PEQUENA SEREIA
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31639
-#EXTINF:-1 tvg-id="" tvg-name="A TURMA DO MANDA CHUVA" tvg-logo="http://xcui.vitvabc.xyz:8880/images/0ec7cb71407c1f3658fd4e5d68e1e338.png" group-title="CANAIS: 24HS ALTER",A TURMA DO MANDA CHUVA
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31640
-#EXTINF:-1 tvg-id="" tvg-name="A VACA E O FRANGO" tvg-logo="http://xcui.vitvabc.xyz:8880/images/84ef4c6bd83ecbf8af993f267253d4c6.png" group-title="CANAIS: 24HS ALTER",A VACA E O FRANGO
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31641
-#EXTINF:-1 tvg-id="" tvg-name="ALADDIN" tvg-logo="http://xcui.vitvabc.xyz:8880/images/1833c616f990bfac10d5d974dde4aeca.png" group-title="CANAIS: 24HS ALTER",ALADDIN
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31642
-#EXTINF:-1 tvg-id="" tvg-name="ALF, O ETEIMOSO" tvg-logo="http://xcui.vitvabc.xyz:8880/images/2524d198575514a830d822df724956ab.png" group-title="CANAIS: 24HS ALTER",ALF, O ETEIMOSO
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31643
-#EXTINF:-1 tvg-id="" tvg-name="ANIMANIACS" tvg-logo="http://xcui.vitvabc.xyz:8880/images/2fc2cd454b298b9dd75ec51d96f5b240.png" group-title="CANAIS: 24HS ALTER",ANIMANIACS
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31644
-#EXTINF:-1 tvg-id="" tvg-name="AS AVENTURAS DE JACKIE CHAN" tvg-logo="http://xcui.vitvabc.xyz:8880/images/4db0898370772dca680985d491b62ab5.png" group-title="CANAIS: 24HS ALTER",AS AVENTURAS DE JACKIE CHAN
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31646
-#EXTINF:-1 tvg-id="" tvg-name="AS AVENTURAS DE TINTIM" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a87ff679a2f3e71d9181a67b7542122c.png" group-title="CANAIS: 24HS ALTER",AS AVENTURAS DE TINTIM
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31647
-#EXTINF:-1 tvg-id="" tvg-name="AS TARTARUGAS NINJAS" tvg-logo="http://51.222.46.117:80/images/92eb5ffee6ae2fec3ad71c777531578f.png" group-title="CANAIS: 24HS ALTER",AS TARTARUGAS NINJAS
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31649
-#EXTINF:-1 tvg-id="" tvg-name="BABY LOONEY TUNES" tvg-logo="http://xcui.vitvabc.xyz:8880/images/ed12c257767a00883d0dbd28760ee52b.png" group-title="CANAIS: 24HS ALTER",BABY LOONEY TUNES
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31650
-#EXTINF:-1 tvg-id="" tvg-name="BABY LOONEY TUNES" tvg-logo="http://xcui.vitvabc.xyz:8880/images/ed12c257767a00883d0dbd28760ee52b.png" group-title="CANAIS: 24HS ALTER",BABY LOONEY TUNES
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31651
-#EXTINF:-1 tvg-id="" tvg-name="BATMAN - SÉRIE ANIMADA" tvg-logo="http://xcui.vitvabc.xyz:8880/images/2b1b4086ebb6b4792ecb6b7d7069b669.png" group-title="CANAIS: 24HS ALTER",BATMAN - SÉRIE ANIMADA
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31652
-#EXTINF:-1 tvg-id="" tvg-name="BEN 10" tvg-logo="http://xcui.vitvabc.xyz:8880/images/891a36d72ddc473d7b3ffd60ccbe5feb.png" group-title="CANAIS: 24HS ALTER",BEN 10
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31653
-#EXTINF:-1 tvg-id="" tvg-name="BEN 10 (2005)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/891a36d72ddc473d7b3ffd60ccbe5feb.png" group-title="CANAIS: 24HS ALTER",BEN 10 (2005)
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31654
-#EXTINF:-1 tvg-id="" tvg-name="BIBO PAI E BOBI FILHO" tvg-logo="http://xcui.vitvabc.xyz:8880/images/c51ce410c124a10e0db5e4b97fc2af39.png" group-title="CANAIS: 24HS ALTER",BIBO PAI E BOBI FILHO
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31656
-#EXTINF:-1 tvg-id="" tvg-name="BANANAS DE PIJAMAS" tvg-logo="http://xcui.vitvabc.xyz:8880/images/aeae9c93435441532b491274bec4ac0d.png" group-title="CANAIS: 24HS ALTER",BANANAS DE PIJAMAS
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31657
-#EXTINF:-1 tvg-id="" tvg-name="OS THUNDERMANS" tvg-logo="http://xcui.vitvabc.xyz:8880/images/acdade66e20643aec134735e88515b6f.png" group-title="CANAIS: 24HS ALTER",OS THUNDERMANS
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31658
-#EXTINF:-1 tvg-id="" tvg-name="BLACK KAMEN RIDER" tvg-logo="http://xcui.vitvabc.xyz:8880/images/743494af01eea667e0abfa5d5953454e.png" group-title="CANAIS: 24HS ALTER",BLACK KAMEN RIDER
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31659
-#EXTINF:-1 tvg-id="" tvg-name="BOB ESPONJA" tvg-logo="http://xcui.vitvabc.xyz:8880/images/80176ad2631747fe693d79962c1b125c.png" group-title="CANAIS: 24HS ALTER",BOB ESPONJA
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31660
-#EXTINF:-1 tvg-id="" tvg-name="BOB ZOOM" tvg-logo="http://51.222.46.117:80/images/69d8642942fde75978bf8d13941beb33.png" group-title="CANAIS: 24HS ALTER",BOB ZOOM
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31661
-#EXTINF:-1 tvg-id="" tvg-name="BREAKING BAD ¹" tvg-logo="http://xcui.vitvabc.xyz:8880/images/1806c6bb3f965fea97d25f3320d86c96.png" group-title="CANAIS: 24HS ALTER",BREAKING BAD ¹
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31663
-#EXTINF:-1 tvg-id="" tvg-name="CARANGOS E MOTOCAS" tvg-logo="http://xcui.vitvabc.xyz:8880/images/6c9a9d750f55b34fb8d64300e50da0e1.png" group-title="CANAIS: 24HS ALTER",CARANGOS E MOTOCAS
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31665
-#EXTINF:-1 tvg-id="" tvg-name="CASA DO MICKEY" tvg-logo="http://xcui.vitvabc.xyz:8880/images/48bc7a304d9b07944676a40d287cfc89.png" group-title="CANAIS: 24HS ALTER",CASA DO MICKEY
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31666
-#EXTINF:-1 tvg-id="" tvg-name="SCOOBY DOO" tvg-logo="http://xcui.vitvabc.xyz:8880/images/3efa1550342fbbedee17d4935d43d0e2.png" group-title="CANAIS: 24HS ALTER",SCOOBY DOO
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31667
-#EXTINF:-1 tvg-id="" tvg-name="CAVALEIROS DO ZODÍACO - BATALHA DAS 12 CASAS" tvg-logo="http://xcui.vitvabc.xyz:8880/images/eeffb0e3c3754c7941d6cdef845b71eb.png" group-title="CANAIS: 24HS ALTER",CAVALEIROS DO ZODÍACO - BATALHA DAS 12 CASAS
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31668
-#EXTINF:-1 tvg-id="" tvg-name="CAVALEIROS DO ZODÍACO - SAGA DE ASGARD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/eeffb0e3c3754c7941d6cdef845b71eb.png" group-title="CANAIS: 24HS ALTER",CAVALEIROS DO ZODÍACO - SAGA DE ASGARD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31669
-#EXTINF:-1 tvg-id="" tvg-name="CAVALEIROS DO ZODÍACO - SAGA DE HADES" tvg-logo="http://xcui.vitvabc.xyz:8880/images/eeffb0e3c3754c7941d6cdef845b71eb.png" group-title="CANAIS: 24HS ALTER",CAVALEIROS DO ZODÍACO - SAGA DE HADES
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31670
-#EXTINF:-1 tvg-id="" tvg-name="CAVALEIROS DO ZODÍACO - SAGA DE POSEIDON" tvg-logo="http://xcui.vitvabc.xyz:8880/images/eeffb0e3c3754c7941d6cdef845b71eb.png" group-title="CANAIS: 24HS ALTER",CAVALEIROS DO ZODÍACO - SAGA DE POSEIDON
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31671
-#EXTINF:-1 tvg-id="" tvg-name="CAVALEIROS DO ZODÍACO - SAGA SANTUÁRIO" tvg-logo="http://xcui.vitvabc.xyz:8880/images/eeffb0e3c3754c7941d6cdef845b71eb.png" group-title="CANAIS: 24HS ALTER",CAVALEIROS DO ZODÍACO - SAGA SANTUÁRIO
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31672
-#EXTINF:-1 tvg-id="" tvg-name="CAVALO DE FOGO" tvg-logo="http://xcui.vitvabc.xyz:8880/images/254e05c746c7ac24b0b66be67739d74c.png" group-title="CANAIS: 24HS ALTER",CAVALO DE FOGO
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31673
-#EXTINF:-1 tvg-id="" tvg-name="CAVERNA DO DRAGÃO" tvg-logo="http://51.222.46.117:80/images/5937bd9505234b866fa7e40b3cc52d63.png" group-title="CANAIS: 24HS ALTER",CAVERNA DO DRAGÃO
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31674
-#EXTINF:-1 tvg-id="" tvg-name="CHAPOLIN" tvg-logo="http://xcui.vitvabc.xyz:8880/images/b5bf77c52a20f81917e9e7d31693a24a.png" group-title="CANAIS: 24HS ALTER",CHAPOLIN
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31675
-#EXTINF:-1 tvg-id="" tvg-name="CHAVES" tvg-logo="http://xcui.vitvabc.xyz:8880/images/11fa22bd9c5aa4a0e7f769edb69122d4.png" group-title="CANAIS: 24HS ALTER",CHAVES
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31676
-#EXTINF:-1 tvg-id="" tvg-name="CHAVES DESENHO" tvg-logo="http://xcui.vitvabc.xyz:8880/images/192cac41ceec2363f2afc18724147cc7.png" group-title="CANAIS: 24HS ALTER",CHAVES DESENHO
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31677
-#EXTINF:-1 tvg-id="" tvg-name="Os Padrinhos Mágicos" tvg-logo="https://e7.pngegg.com/pngimages/637/575/png-clipart-nickelodeon-cosmo-and-wanda-cosma-cartoon-drawing-others-nickelodeon-cosmo-thumbnail.png" group-title="CANAIS: 24HS ALTER",Os Padrinhos Mágicos
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31678
-#EXTINF:-1 tvg-id="" tvg-name="COMÉDIA SELVAGEM" tvg-logo="http://xcui.vitvabc.xyz:8880/images/62dfe069c44d5ef285458c75d0534a1a.png" group-title="CANAIS: 24HS ALTER",COMÉDIA SELVAGEM
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31679
-#EXTINF:-1 tvg-id="" tvg-name="CORAGEM CAO COVARDE" tvg-logo="http://51.222.46.117:80/images/b040df6b4facc3c57e6526ae7104fc75.png" group-title="CANAIS: 24HS ALTER",CORAGEM CAO COVARDE
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31680
-#EXTINF:-1 tvg-id="" tvg-name="DE VOLTA PARA O FUTURO" tvg-logo="https://storage.googleapis.com/makestories-202705.appspot.com/ffl7lHjirxRYJVyxQBpUO3aHKc32/unnamed.png" group-title="CANAIS: 24HS ALTER",DE VOLTA PARA O FUTURO
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31681
-#EXTINF:-1 tvg-id="" tvg-name="DOIS HOMENS E MEIO" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5608df94701fcf43bc0f55de64ac4326.png" group-title="CANAIS: 24HS ALTER",DOIS HOMENS E MEIO
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31684
-#EXTINF:-1 tvg-id="" tvg-name="GARFIELD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/4f9954f43d09c7cf43eda125ab2c2fac.png" group-title="CANAIS: 24HS ALTER",GARFIELD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31702
-#EXTINF:-1 tvg-id="" tvg-name="ICARLY" tvg-logo="http://xcui.vitvabc.xyz:8880/images/cea75a97186309c6d7ab71f8ac7c2a6e.png" group-title="CANAIS: 24HS ALTER",ICARLY
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31708
-#EXTINF:-1 tvg-id="" tvg-name="CARTOON GOSPEL" tvg-logo="http://xcui.vitvabc.xyz:8880/images/dbe85364ea51ae6a8da6a886a2664bd6.png" group-title="CANAIS: 24HS ALTER",CARTOON GOSPEL
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31713
-#EXTINF:-1 tvg-id="" tvg-name="LOONEY TUNES" tvg-logo="http://xcui.vitvabc.xyz:8880/images/85efe2bad551cde78e8bdaf1ca4ece5f.png" group-title="CANAIS: 24HS ALTER",LOONEY TUNES
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31720
-#EXTINF:-1 tvg-id="" tvg-name="LOONEY TUNES" tvg-logo="http://51.222.46.117:80/images/84b082dc612d8ad6dfc36b8816411097.png" group-title="CANAIS: 24HS ALTER",LOONEY TUNES
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31721
-#EXTINF:-1 tvg-id="" tvg-name="MASHA E O URSO" tvg-logo="http://51.222.46.117:80/images/a110f681be78953084a356d784f45452.png" group-title="CANAIS: 24HS ALTER",MASHA E O URSO
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31724
-#EXTINF:-1 tvg-id="" tvg-name="O INCRÍVEL MUNDO DE GUMBALL" tvg-logo="http://xcui.vitvabc.xyz:8880/images/1b4ab133f91ccf9dffff2e2b45703545.png" group-title="CANAIS: 24HS ALTER",O INCRÍVEL MUNDO DE GUMBALL
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31731
-#EXTINF:-1 tvg-id="" tvg-name="OS JOVENS TITÃS EM AÇÃO" tvg-logo="http://xcui.vitvabc.xyz:8880/images/c4ca4238a0b923820dcc509a6f75849b.png" group-title="CANAIS: 24HS ALTER",OS JOVENS TITÃS EM AÇÃO
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31740
-#EXTINF:-1 tvg-id="" tvg-name="OS SMURFS" tvg-logo="http://xcui.vitvabc.xyz:8880/images/edb19479cf3a345fee911161d15a239e.png" group-title="CANAIS: 24HS ALTER",OS SMURFS
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31742
-#EXTINF:-1 tvg-id="" tvg-name="PATRULHA CANINA 24H" tvg-logo="http://xcui.vitvabc.xyz:8880/images/69addbc18c14ec75f0a18aa8011f4ae3.png" group-title="CANAIS: 24HS ALTER",PATRULHA CANINA 24H
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31746
-#EXTINF:-1 tvg-id="" tvg-name="A CASA DO MICKEY MOUSE" tvg-logo="http://xcui.vitvabc.xyz:8880/images/40d71e919d1e9926c770485c9cac49a9.png" group-title="CANAIS: 24HS ALTER",A CASA DO MICKEY MOUSE
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31748
-#EXTINF:-1 tvg-id="" tvg-name="POWER RANGERS" tvg-logo="http://51.222.46.117:80/images/c2b931974cdc4dd161c379f017226ed9.png" group-title="CANAIS: 24HS ALTER",POWER RANGERS
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31754
-#EXTINF:-1 tvg-id="" tvg-name="DIGIMON" tvg-logo="http://xcui.vitvabc.xyz:8880/images/6dff8967dfdc2e0be6133c0a8d50a932.png" group-title="CANAIS: 24HS ALTER",DIGIMON
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31757
-#EXTINF:-1 tvg-id="" tvg-name="SOBRENATURAL" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5cafad622865c953ef43ebd7f03df760.png" group-title="CANAIS: 24HS ALTER",SOBRENATURAL
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31758
-#EXTINF:-1 tvg-id="" tvg-name="STREET FIGTHER" tvg-logo="http://51.222.46.117:80/images/0bd31b0cda59de051da19a00510db7cf.png" group-title="CANAIS: 24HS ALTER",STREET FIGTHER
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31761
-#EXTINF:-1 tvg-id="" tvg-name="TODO MUNDO ODEIA O CHRIS" tvg-logo="http://xcui.vitvabc.xyz:8880/images/e6e328104ef8a6a9d8315d8725a654e0.png" group-title="CANAIS: 24HS ALTER",TODO MUNDO ODEIA O CHRIS
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31765
-#EXTINF:-1 tvg-id="" tvg-name="FÁBULAS DA DISNEY" tvg-logo="http://xcui.vitvabc.xyz:8880/images/092d101c0e0fcea0deece1a0565016a4.png" group-title="CANAIS: 24HS ALTER",FÁBULAS DA DISNEY
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31768
-#EXTINF:-1 tvg-id="" tvg-name="UM MALUCO NO PEDAÇO" tvg-logo="http://xcui.vitvabc.xyz:8880/images/1effbf1c22863c5e9203c1ad008f7a1d.png" group-title="CANAIS: 24HS ALTER",UM MALUCO NO PEDAÇO
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/31769
+#EXTINF:-1 tvg-ID="MDH" tvg-name="A&E" tvg-logo="http://img.miptv.ws/A&E.png" group-title="Filmes e Séries",A&E
+http://a.srvbr.me:8880/marcela123/marcela123/898
+#EXTINF:-1 tvg-ID="MDH" tvg-name="A&E HD" tvg-logo="http://img.miptv.ws/A&E.png" group-title="Filmes e Séries",A&E HD
+http://a.srvbr.me:8880/marcela123/marcela123/4203
+#EXTINF:-1 tvg-ID="MDH" tvg-name="A&E [PLUS]" tvg-logo="http://img.miptv.ws/A&E.png" group-title="Filmes e Séries",A&E [PLUS]
+http://a.srvbr.me:8880/marcela123/marcela123/4167
+#EXTINF:-1 tvg-ID="MGH" tvg-name="AMC" tvg-logo="http://img.miptv.ws/AMC_HD.png" group-title="Filmes e Séries",AMC
+http://a.srvbr.me:8880/marcela123/marcela123/5077
+#EXTINF:-1 tvg-ID="MGM" tvg-name="AMC HD" tvg-logo="http://img.miptv.ws/AMC_HD.png" group-title="Filmes e Séries",AMC HD
+http://a.srvbr.me:8880/marcela123/marcela123/5076
+#EXTINF:-1 tvg-ID="MGH" tvg-name="AMC [PLUS]" tvg-logo="http://img.miptv.ws/AMC_HD.png" group-title="Filmes e Séries",AMC [PLUS]
+http://a.srvbr.me:8880/marcela123/marcela123/4644
+#EXTINF:-1 tvg-ID="AXN" tvg-name="AXN" tvg-logo="http://img.miptv.ws/AXN_HD.png" group-title="Filmes e Séries",AXN
+http://a.srvbr.me:8880/marcela123/marcela123/893
+#EXTINF:-1 tvg-ID="AXN" tvg-name="AXN HD" tvg-logo="http://img.miptv.ws/AXN_HD.png" group-title="Filmes e Séries",AXN HD
+http://a.srvbr.me:8880/marcela123/marcela123/892
+#EXTINF:-1 tvg-ID="AXN" tvg-name="AXN HD [PLUS]" tvg-logo="http://img.miptv.ws/AXN_HD.png" group-title="Filmes e Séries",AXN HD [PLUS]
+http://a.srvbr.me:8880/marcela123/marcela123/4165
+#EXTINF:-1 tvg-ID="APL" tvg-name="Animal Planet" tvg-logo="http://img.miptv.ws/Animal_Planet_HD.png" group-title="Documentários",Animal Planet
+http://a.srvbr.me:8880/marcela123/marcela123/897
+#EXTINF:-1 tvg-ID="APL" tvg-name="Animal Planet HD" tvg-logo="http://img.miptv.ws/Animal_Planet_HD.png" group-title="Documentários",Animal Planet HD
+http://a.srvbr.me:8880/marcela123/marcela123/896
+#EXTINF:-1 tvg-ID="APL" tvg-name="Animal Planet Full HD" tvg-logo="http://img.miptv.ws/Animal_Planet.png" group-title="Documentários",Animal Planet Full HD
+http://a.srvbr.me:8880/marcela123/marcela123/5436
+#EXTINF:-1 tvg-ID="APL" tvg-name="Animal Planet [PLUS]" tvg-logo="http://img.miptv.ws/Animal_Planet_HD.png" group-title="Documentários",Animal Planet [PLUS]
+http://a.srvbr.me:8880/marcela123/marcela123/4166
+#EXTINF:-1 tvg-ID="BQ5" tvg-name="Arte 1" tvg-logo="http://img.miptv.ws/Arte_1.png" group-title="Documentários",Arte 1
+http://a.srvbr.me:8880/marcela123/marcela123/894
+#EXTINF:-1 tvg-ID="BQ5" tvg-name="Arte 1 HD" tvg-logo="http://img.miptv.ws/Arte_1.png" group-title="Documentários",Arte 1 HD
+http://a.srvbr.me:8880/marcela123/marcela123/5329
+#EXTINF:-1 tvg-ID="BAB" tvg-name="Baby TV" tvg-logo="http://img.miptv.ws/Baby_TV.png" group-title="Infantil",Baby TV
+http://a.srvbr.me:8880/marcela123/marcela123/5078
+#EXTINF:-1 tvg-ID="MSH" tvg-name="BIS" tvg-logo="http://img.miptv.ws/BIS.png" group-title="Variedades",BIS
+http://a.srvbr.me:8880/marcela123/marcela123/886
+#EXTINF:-1 tvg-ID="MSH" tvg-name="BIS HD" tvg-logo="http://img.miptv.ws/BIS.png" group-title="Variedades",BIS HD
+http://a.srvbr.me:8880/marcela123/marcela123/885
+#EXTINF:-1 tvg-ID="MSH" tvg-name="BIS Full HD" tvg-logo="http://img.miptv.ws/BIS.png" group-title="Variedades",BIS Full HD
+http://a.srvbr.me:8880/marcela123/marcela123/5447
+#EXTINF:-1 tvg-ID="MSH" tvg-name="BIS HD [PLUS]" tvg-logo="http://img.miptv.ws/BIS.png" group-title="Variedades",BIS HD [PLUS]
+http://a.srvbr.me:8880/marcela123/marcela123/4162
+#EXTINF:-1 tvg-ID="BAN" tvg-name="Band" tvg-logo="http://img.miptv.ws/Band_HD.png" group-title="TV Aberta",Band
+http://a.srvbr.me:8880/marcela123/marcela123/887
+#EXTINF:-1 tvg-ID="BAN" tvg-name="Band HD" tvg-logo="http://img.miptv.ws/Band_HD.png" group-title="TV Aberta",Band HD
+http://a.srvbr.me:8880/marcela123/marcela123/891
+#EXTINF:-1 tvg-ID="BAN" tvg-name="Band Full HD" tvg-logo="http://img.miptv.ws/Band_HD.png" group-title="TV Aberta",Band Full HD
+http://a.srvbr.me:8880/marcela123/marcela123/5475
+#EXTINF:-1 tvg-ID="BAN" tvg-name="Band HD [PLUS]" tvg-logo="http://img.miptv.ws/Band_HD.png" group-title="TV Aberta",Band HD [PLUS]
+http://a.srvbr.me:8880/marcela123/marcela123/4164
+#EXTINF:-1 tvg-ID="NEW" tvg-name="Band News" tvg-logo="http://img.miptv.ws/BandNews.png" group-title="Notícias",Band News
+http://a.srvbr.me:8880/marcela123/marcela123/890
+#EXTINF:-1 tvg-ID="NEW" tvg-name="Band News HD" tvg-logo="http://img.miptv.ws/BandNews.png" group-title="Notícias",Band News HD
+http://a.srvbr.me:8880/marcela123/marcela123/5162
+#EXTINF:-1 tvg-ID="NEW" tvg-name="Band News Full HD" tvg-logo="http://img.miptv.ws/BandNews.png" group-title="Notícias",Band News Full HD
+http://a.srvbr.me:8880/marcela123/marcela123/5435
+#EXTINF:-1 tvg-ID="NEW" tvg-name="Band News [PLUS]" tvg-logo="http://img.miptv.ws/BandNews.png" group-title="Notícias",Band News [PLUS]
+http://a.srvbr.me:8880/marcela123/marcela123/4163
+#EXTINF:-1 tvg-ID="BSU" tvg-name="Band Sports" tvg-logo="http://img.miptv.ws/BandSports.png" group-title="Esportes",Band Sports
+http://a.srvbr.me:8880/marcela123/marcela123/889
+#EXTINF:-1 tvg-ID="BSP" tvg-name="Band Sports HD" tvg-logo="http://img.miptv.ws/BandSports.png" group-title="Esportes",Band Sports HD
+http://a.srvbr.me:8880/marcela123/marcela123/888
+#EXTINF:-1 tvg-ID="BSP" tvg-name="Band Sports [PLUS]" tvg-logo="http://img.miptv.ws/BandSports.png" group-title="Esportes",Band Sports [PLUS]
+http://a.srvbr.me:8880/marcela123/marcela123/1831
+#EXTINF:-1 tvg-ID="CBR" tvg-name="Canal Brasil" tvg-logo="http://img.miptv.ws/Canal_Brasil.png" group-title="Filmes e Séries",Canal Brasil
+http://a.srvbr.me:8880/marcela123/marcela123/883
+#EXTINF:-1 tvg-ID="LBV" tvg-name="Rede Boa Vontade" tvg-logo="http://img.miptv.ws/lbv.png" group-title="Religiosos",Rede Boa Vontade
+http://a.srvbr.me:8880/marcela123/marcela123/5328
+#EXTINF:-1 tvg-ID="BMG" tvg-name="Boomerang" tvg-logo="http://img.miptv.ws/Boomerang_HD.png" group-title="Infantil",Boomerang
+http://a.srvbr.me:8880/marcela123/marcela123/884
+#EXTINF:-1 tvg-ID="BMF" tvg-name="Boomerang HD" tvg-logo="http://img.miptv.ws/Boomerang.png" group-title="Infantil",Boomerang HD
+http://a.srvbr.me:8880/marcela123/marcela123/5327
+#EXTINF:-1 tvg-ID="BMG" tvg-name="Boomerang Full HD" tvg-logo="http://img.miptv.ws/Boomerang.png" group-title="Infantil",Boomerang Full HD
+http://a.srvbr.me:8880/marcela123/marcela123/5434
+#EXTINF:-1 tvg-ID="CNV" tvg-name="Canção Nova" tvg-logo="http://img.miptv.ws/Cancao_Nova.png" group-title="Religiosos",Canção Nova
+http://a.srvbr.me:8880/marcela123/marcela123/879
+#EXTINF:-1 tvg-ID="CAR" tvg-name="Cartoon Network" tvg-logo="http://img.miptv.ws/Cartoon_Network.png" group-title="Infantil",Cartoon Network
+http://a.srvbr.me:8880/marcela123/marcela123/878
+#EXTINF:-1 tvg-ID="CAR" tvg-name="Cartoon Network HD" tvg-logo="http://img.miptv.ws/Cartoon_Network.png" group-title="Infantil",Cartoon Network HD
+http://a.srvbr.me:8880/marcela123/marcela123/877
+#EXTINF:-1 tvg-ID="CAR" tvg-name="Cartoon Network [PLUS]" tvg-logo="http://img.miptv.ws/Cartoon_Network.png" group-title="Infantil",Cartoon Network [PLUS]
+http://a.srvbr.me:8880/marcela123/marcela123/4159
+#EXTINF:-1 tvg-ID="MNX" tvg-name="Cinemax" tvg-logo="http://img.miptv.ws/Cinemax.png" group-title="Filmes e Séries",Cinemax
+http://a.srvbr.me:8880/marcela123/marcela123/876
+#EXTINF:-1 tvg-ID="MNX" tvg-name="Cinemax HD" tvg-logo="http://img.miptv.ws/Cinemax.png" group-title="Filmes e Séries",Cinemax HD
+http://a.srvbr.me:8880/marcela123/marcela123/1495
+#EXTINF:-1 tvg-ID="MNX" tvg-name="Cinemax HD [PLUS]" tvg-logo="http://img.miptv.ws/Cinemax.png" group-title="Filmes e Séries",Cinemax HD [PLUS]
+http://a.srvbr.me:8880/marcela123/marcela123/5124
+#EXTINF:-1 tvg-ID="CCE" tvg-name="Comedy Central" tvg-logo="http://img.miptv.ws/Comedy_Central.png" group-title="Variedades",Comedy Central
+http://a.srvbr.me:8880/marcela123/marcela123/873
+#EXTINF:-1 tvg-ID="CCE" tvg-name="Comedy Central HD" tvg-logo="http://img.miptv.ws/Comedy_Central.png" group-title="Variedades",Comedy Central HD
+http://a.srvbr.me:8880/marcela123/marcela123/5326
+#EXTINF:-1 tvg-ID="CCE" tvg-name="Comedy Central HD [PLUS]" tvg-logo="http://img.miptv.ws/Comedy_Central.png" group-title="Variedades",Comedy Central HD [PLUS]
+http://a.srvbr.me:8880/marcela123/marcela123/1833
+#EXTINF:-1 tvg-ID="135" tvg-name="Combate" tvg-logo="http://img.miptv.ws/Combate.png" group-title="Esportes",Combate
+http://a.srvbr.me:8880/marcela123/marcela123/875
+#EXTINF:-1 tvg-ID="135" tvg-name="Combate HD" tvg-logo="http://img.miptv.ws/Combate.png" group-title="Esportes",Combate HD
+http://a.srvbr.me:8880/marcela123/marcela123/874
+#EXTINF:-1 tvg-ID="135" tvg-name="Combate Full HD" tvg-logo="http://img.miptv.ws/Combate_HD.png" group-title="Esportes",Combate Full HD
+http://a.srvbr.me:8880/marcela123/marcela123/5474
+#EXTINF:-1 tvg-ID="135" tvg-name="Combate HD [PLUS]" tvg-logo="http://img.miptv.ws/Combate.png" group-title="Esportes",Combate HD [PLUS]
+http://a.srvbr.me:8880/marcela123/marcela123/1832
+#EXTINF:-1 tvg-ID="NOEPG English" tvg-name="COPA LIBERTADORES HD" tvg-logo="https://img.miptv.ws/1552071549m.jpg" group-title="ESPECIAL / ESPORTES",COPA LIBERTADORES HD
+http://a.srvbr.me:8880/marcela123/marcela123/11444
+#EXTINF:-1 tvg-ID="NOEPG English" tvg-name="DAZN HD" tvg-logo="https://img.miptv.ws/9AAq0LjW_400x400.jpg" group-title="ESPECIAL / ESPORTES",DAZN HD
+http://a.srvbr.me:8880/marcela123/marcela123/11443
+#EXTINF:-1 tvg-ID="BQ4" tvg-name="Curta!" tvg-logo="http://img.miptv.ws/Curta!.png" group-title="Variedades",Curta!
+http://a.srvbr.me:8880/marcela123/marcela123/872
+#EXTINF:-1 tvg-ID="BQ4" tvg-name="Curta! HD" tvg-logo="http://img.miptv.ws/Curta!.png" group-title="Variedades",Curta! HD
+http://a.srvbr.me:8880/marcela123/marcela123/5325
+#EXTINF:-1 tvg-ID="HEA" tvg-name="Discovery Home & Health" tvg-logo="http://img.miptv.ws/Discovery_Home_Health.png" group-title="Variedades",Discovery Home & Health
+http://a.srvbr.me:8880/marcela123/marcela123/868
+#EXTINF:-1 tvg-ID="HEA" tvg-name="Discovery Home & Health HD" tvg-logo="http://img.miptv.ws/Discovery_Home_Health.png" group-title="Variedades",Discovery Home & Health HD
+http://a.srvbr.me:8880/marcela123/marcela123/867
+#EXTINF:-1 tvg-ID="HEA" tvg-name="Discovery Home & Health Full HD" tvg-logo="http://img.miptv.ws/Discovery_Home_Health.png" group-title="Variedades",Discovery Home & Health Full HD
+http://a.srvbr.me:8880/marcela123/marcela123/5433
+#EXTINF:-1 tvg-ID="HEA" tvg-name="Discovery Home & Health [PLUS]" tvg-logo="http://img.miptv.ws/Discovery_Home_Health.png" group-title="Variedades",Discovery Home & Health [PLUS]
+http://a.srvbr.me:8880/marcela123/marcela123/4156
+#EXTINF:-1 tvg-ID="DCI" tvg-name="Discovery Civilization" tvg-logo="http://img.miptv.ws/Discovery_Civilization.png" group-title="Documentários",Discovery Civilization
+http://a.srvbr.me:8880/marcela123/marcela123/869
+#EXTINF:-1 tvg-ID="DCI" tvg-name="Discovery Civilization HD" tvg-logo="http://img.miptv.ws/Discovery_Civilization.png" group-title="Documentários",Discovery Civilization HD
+http://a.srvbr.me:8880/marcela123/marcela123/5324
+#EXTINF:-1 tvg-ID="DCI" tvg-name="Discovery Civilization [PLUS]" tvg-logo="http://img.miptv.ws/Discovery_Civilization.png" group-title="Documentários",Discovery Civilization [PLUS]
+http://a.srvbr.me:8880/marcela123/marcela123/4157
+#EXTINF:-1 tvg-ID="DIS" tvg-name="Discovery Channel" tvg-logo="http://img.miptv.ws/Discovery_Channel_HD.png" group-title="Documentários",Discovery Channel
+http://a.srvbr.me:8880/marcela123/marcela123/871
+#EXTINF:-1 tvg-ID="DIS" tvg-name="Discovery Channel HD" tvg-logo="http://img.miptv.ws/Discovery_Channel_HD.png" group-title="Documentários",Discovery Channel HD
+http://a.srvbr.me:8880/marcela123/marcela123/870
+#EXTINF:-1 tvg-ID="DIH" tvg-name="Discovery Channel Full HD" tvg-logo="http://img.miptv.ws/Discovery_Channel.png" group-title="Documentários",Discovery Channel Full HD
+http://a.srvbr.me:8880/marcela123/marcela123/5448
+#EXTINF:-1 tvg-ID="DIH" tvg-name="Discovery Channel HD [PLUS]" tvg-logo="http://img.miptv.ws/Discovery_Channel.png" group-title="Documentários",Discovery Channel HD [PLUS]
+http://a.srvbr.me:8880/marcela123/marcela123/1834
+#EXTINF:-1 tvg-ID="DIK" tvg-name="Discovery Kids" tvg-logo="http://img.miptv.ws/Discovery_Kids.png" group-title="Infantil",Discovery Kids
+http://a.srvbr.me:8880/marcela123/marcela123/866
+#EXTINF:-1 tvg-ID="DIK" tvg-name="Discovery Kids HD" tvg-logo="http://img.miptv.ws/Discovery_Kids.png" group-title="Infantil",Discovery Kids HD
+http://a.srvbr.me:8880/marcela123/marcela123/1494
+#EXTINF:-1 tvg-ID="DIK" tvg-name="Discovery kids Full HD" tvg-logo="http://img.miptv.ws/Discovery_Kids.png" group-title="Infantil",Discovery kids Full HD
+http://a.srvbr.me:8880/marcela123/marcela123/5432
+#EXTINF:-1 tvg-ID="DIK" tvg-name="Discovery Kids HD [PLUS]" tvg-logo="http://img.miptv.ws/Discovery_Kids.png" group-title="Infantil",Discovery Kids HD [PLUS]
+http://a.srvbr.me:8880/marcela123/marcela123/1835
+#EXTINF:-1 tvg-ID="DSC" tvg-name="Discovery Science" tvg-logo="http://img.miptv.ws/Discovery_Science.png" group-title="Documentários",Discovery Science
+http://a.srvbr.me:8880/marcela123/marcela123/865
+#EXTINF:-1 tvg-ID="DSC" tvg-name="Discovery Science HD" tvg-logo="http://img.miptv.ws/Discovery_Science.png" group-title="Documentários",Discovery Science HD
+http://a.srvbr.me:8880/marcela123/marcela123/5075
+#EXTINF:-1 tvg-ID="DSC" tvg-name="Discovery Science [PLUS]" tvg-logo="http://img.miptv.ws/Discovery_Science.png" group-title="Documentários",Discovery Science [PLUS]
+http://a.srvbr.me:8880/marcela123/marcela123/4154
+#EXTINF:-1 tvg-ID="DHD" tvg-name="Discovery Theater" tvg-logo="http://img.miptv.ws/Discovery_Theater.png" group-title="Documentários",Discovery Theater
+http://a.srvbr.me:8880/marcela123/marcela123/5323
+#EXTINF:-1 tvg-ID="DHD" tvg-name="Discovery Theater HD" tvg-logo="http://img.miptv.ws/Discovery_Theater.png" group-title="Documentários",Discovery Theater HD
+http://a.srvbr.me:8880/marcela123/marcela123/864
+#EXTINF:-1 tvg-ID="DHD" tvg-name="Discovery Theater HD [PLUS]" tvg-logo="http://img.miptv.ws/Discovery_Theater.png" group-title="Documentários",Discovery Theater HD [PLUS]
+http://a.srvbr.me:8880/marcela123/marcela123/4153
+#EXTINF:-1 tvg-ID="DIW" tvg-name="Discovery World" tvg-logo="http://img.miptv.ws/Discovery_World.png" group-title="Documentários",Discovery World
+http://a.srvbr.me:8880/marcela123/marcela123/5322
+#EXTINF:-1 tvg-ID="DIW" tvg-name="Discovery World HD" tvg-logo="http://img.miptv.ws/Discovery_World.png" group-title="Documentários",Discovery World HD
+http://a.srvbr.me:8880/marcela123/marcela123/861
+#EXTINF:-1 tvg-ID="DIW" tvg-name="Discovery World Full HD" tvg-logo="http://img.miptv.ws/Discovery_World.png" group-title="Documentários",Discovery World Full HD
+http://a.srvbr.me:8880/marcela123/marcela123/5430
+#EXTINF:-1 tvg-ID="DIW" tvg-name="Discovery World [PLUS]" tvg-logo="http://img.miptv.ws/Discovery_World.png" group-title="Documentários",Discovery World [PLUS]
+http://a.srvbr.me:8880/marcela123/marcela123/4151
+#EXTINF:-1 tvg-ID="DNY" tvg-name="Disney Channel" tvg-logo="http://img.miptv.ws/Disney_Channel.png" group-title="Infantil",Disney Channel
+http://a.srvbr.me:8880/marcela123/marcela123/860
+#EXTINF:-1 tvg-ID="DIH" tvg-name="Disney Channel HD" tvg-logo="http://img.miptv.ws/Disney_Channel.png" group-title="Infantil",Disney Channel HD
+http://a.srvbr.me:8880/marcela123/marcela123/1493
+#EXTINF:-1 tvg-ID="DNY" tvg-name="Disney Channel Full HD" tvg-logo="http://img.miptv.ws/Disney_Channel.png" group-title="Infantil",Disney Channel Full HD
+http://a.srvbr.me:8880/marcela123/marcela123/5446
+#EXTINF:-1 tvg-ID="DNY" tvg-name="Disney Channel HD [PLUS]" tvg-logo="http://img.miptv.ws/Disney_Channel.png" group-title="Infantil",Disney Channel HD [PLUS]
+http://a.srvbr.me:8880/marcela123/marcela123/4150
+#EXTINF:-1 tvg-ID="PHD" tvg-name="Disney Junior" tvg-logo="http://img.miptv.ws/Disney_Junior.png" group-title="Infantil",Disney Junior
+http://a.srvbr.me:8880/marcela123/marcela123/859
+#EXTINF:-1 tvg-ID="PHD" tvg-name="Disney Junior HD" tvg-logo="http://img.miptv.ws/Disney_Junior.png" group-title="Infantil",Disney Junior HD
+http://a.srvbr.me:8880/marcela123/marcela123/5562
+#EXTINF:-1 tvg-ID="DXD" tvg-name="Disney XD" tvg-logo="http://img.miptv.ws/Disney_XD.png" group-title="Infantil",Disney XD
+http://a.srvbr.me:8880/marcela123/marcela123/858
+#EXTINF:-1 tvg-ID="DXD" tvg-name="Disney XD [PLUS]" tvg-logo="http://img.miptv.ws/Disney_XD.png" group-title="Infantil",Disney XD [PLUS]
+http://a.srvbr.me:8880/marcela123/marcela123/4149
+#EXTINF:-1 tvg-ID="DTU" tvg-name="Discovery Turbo" tvg-logo="http://img.miptv.ws/Discovery_Turbo_HD.png" group-title="Variedades",Discovery Turbo
+http://a.srvbr.me:8880/marcela123/marcela123/863
+#EXTINF:-1 tvg-ID="DTU" tvg-name="Discovery Turbo HD" tvg-logo="http://img.miptv.ws/Discovery_Turbo_HD.png" group-title="Variedades",Discovery Turbo HD
+http://a.srvbr.me:8880/marcela123/marcela123/862
+#EXTINF:-1 tvg-ID="DTU" tvg-name="Discovery Turbo Full HD" tvg-logo="http://img.miptv.ws/Discovery_Turbo_HD.png" group-title="Variedades",Discovery Turbo Full HD
+http://a.srvbr.me:8880/marcela123/marcela123/5431
+#EXTINF:-1 tvg-ID="DTU" tvg-name="Discovery Turbo HD [PLUS]" tvg-logo="http://img.miptv.ws/Discovery_Turbo_HD.png" group-title="Variedades",Discovery Turbo HD [PLUS]
+http://a.srvbr.me:8880/marcela123/marcela123/4152
+#EXTINF:-1 tvg-ID="EET" tvg-name="E!" tvg-logo="http://img.miptv.ws/E!.png" group-title="Variedades",E!
+http://a.srvbr.me:8880/marcela123/marcela123/857
+#EXTINF:-1 tvg-ID="EET" tvg-name="E! HD" tvg-logo="http://img.miptv.ws/E!.png" group-title="Variedades",E! HD
+http://a.srvbr.me:8880/marcela123/marcela123/4204
+#EXTINF:-1 tvg-ID="NOEPG English" tvg-name="EI PLUS SD" tvg-logo="http://img.miptv.ws/eiplus.png" group-title="ESPECIAL / ESPORTES",EI PLUS SD
+http://a.srvbr.me:8880/marcela123/marcela123/11483
+#EXTINF:-1 tvg-ID="NOEPG English" tvg-name="EI PLUS HD" tvg-logo="http://img.miptv.ws/eiplus.png" group-title="ESPECIAL / ESPORTES",EI PLUS HD
+http://a.srvbr.me:8880/marcela123/marcela123/11484
+#EXTINF:-1 tvg-ID="ESQ" tvg-name="ESPN" tvg-logo="http://img.miptv.ws/ESPN.png" group-title="Esportes",ESPN
+http://a.srvbr.me:8880/marcela123/marcela123/4643
+#EXTINF:-1 tvg-ID="ESQ" tvg-name="ESPN HD" tvg-logo="http://img.miptv.ws/ESPN_HD.png" group-title="Esportes",ESPN HD
+http://a.srvbr.me:8880/marcela123/marcela123/848
+#EXTINF:-1 tvg-ID="ESQ" tvg-name="ESPN Full HD" tvg-logo="http://img.miptv.ws/ESPN.png" group-title="Esportes",ESPN Full HD
+http://a.srvbr.me:8880/marcela123/marcela123/5458
+#EXTINF:-1 tvg-ID="ESQ" tvg-name="ESPN HD [PLUS]" tvg-logo="http://img.miptv.ws/ESPN_HD.png" group-title="Esportes",ESPN HD [PLUS]
+http://a.srvbr.me:8880/marcela123/marcela123/1839
+#EXTINF:-1 tvg-ID="ESH" tvg-name="ESPN +  HD" tvg-logo="http://img.miptv.ws/ESPN_Mais.png" group-title="Esportes",ESPN +  HD
+http://a.srvbr.me:8880/marcela123/marcela123/851
+#EXTINF:-1 tvg-ID="ESH" tvg-name="ESPN EXTRA HD [PLUS]" tvg-logo="http://img.miptv.ws/ESPN_HD.png" group-title="Esportes",ESPN EXTRA HD [PLUS]
+http://a.srvbr.me:8880/marcela123/marcela123/1837
+#EXTINF:-1 tvg-ID="ESB" tvg-name="ESPN Brasil" tvg-logo="http://img.miptv.ws/ESPN_Brasil.png" group-title="Esportes",ESPN Brasil
+http://a.srvbr.me:8880/marcela123/marcela123/850
+#EXTINF:-1 tvg-ID="ESB" tvg-name="ESPN Brasil HD" tvg-logo="http://img.miptv.ws/ESPN_Brasil.png" group-title="Esportes",ESPN Brasil HD
+http://a.srvbr.me:8880/marcela123/marcela123/849
+#EXTINF:-1 tvg-ID="ESB" tvg-name="ESPN Brasil Full HD" tvg-logo="http://img.miptv.ws/ESPN_Brasil.png" group-title="Esportes",ESPN Brasil Full HD
+http://a.srvbr.me:8880/marcela123/marcela123/5459
+#EXTINF:-1 tvg-ID="ESB" tvg-name="ESPN Brasil HD [PLUS]" tvg-logo="http://img.miptv.ws/ESPN_Brasil.png" group-title="Esportes",ESPN Brasil HD [PLUS]
+http://a.srvbr.me:8880/marcela123/marcela123/1838
+#EXTINF:-1 tvg-ID="ESR" tvg-name="Espn Extra" tvg-logo="http://img.miptv.ws/ESPN_EXTRA.png" group-title="Esportes",Espn Extra
+http://a.srvbr.me:8880/marcela123/marcela123/5321
+#EXTINF:-1 tvg-ID="ESR" tvg-name="Espn Extra HD" tvg-logo="http://img.miptv.ws/ESPN_EXTRA.png" group-title="Esportes",Espn Extra HD
+http://a.srvbr.me:8880/marcela123/marcela123/5320
+#EXTINF:-1 tvg-ID="ESR" tvg-name="ESPN Extra Full HD" tvg-logo="http://img.miptv.ws/ESPN_EXTRA.png" group-title="Esportes",ESPN Extra Full HD
+http://a.srvbr.me:8880/marcela123/marcela123/5457
+#EXTINF:-1 tvg-ID="BQ6" tvg-name="Fish TV" tvg-logo="http://img.miptv.ws/FishTV.png" group-title="Esportes",Fish TV
+http://a.srvbr.me:8880/marcela123/marcela123/846
+#EXTINF:-1 tvg-ID="BQ6" tvg-name="Fish TV HD" tvg-logo="http://img.miptv.ws/FishTV.png" group-title="Esportes",Fish TV HD
+http://a.srvbr.me:8880/marcela123/marcela123/5319
+#EXTINF:-1 tvg-ID="FOD" tvg-name="Food Network" tvg-logo="http://img.miptv.ws/Food_Network.png" group-title="Variedades",Food Network
+http://a.srvbr.me:8880/marcela123/marcela123/845
+#EXTINF:-1 tvg-ID="FOD" tvg-name="Food Network HD" tvg-logo="http://img.miptv.ws/Food_Network.png" group-title="Variedades",Food Network HD
+http://a.srvbr.me:8880/marcela123/marcela123/1491
+#EXTINF:-1 tvg-ID="FOD" tvg-name="Food Network [PLUS]" tvg-logo="http://img.miptv.ws/Food_Network.png" group-title="Variedades",Food Network [PLUS]
+http://a.srvbr.me:8880/marcela123/marcela123/4145
+#EXTINF:-1 tvg-ID="FOX" tvg-name="FOX" tvg-logo="http://img.miptv.ws/FOX.png" group-title="Filmes e Séries",FOX
+http://a.srvbr.me:8880/marcela123/marcela123/844
+#EXTINF:-1 tvg-ID="FOX" tvg-name="FOX HD" tvg-logo="http://img.miptv.ws/FOX_HD.png" group-title="Filmes e Séries",FOX HD
+http://a.srvbr.me:8880/marcela123/marcela123/841
+#EXTINF:-1 tvg-ID="FOX" tvg-name="Fox Full HD" tvg-logo="http://img.miptv.ws/FOX_HD.png" group-title="Filmes e Séries",Fox Full HD
+http://a.srvbr.me:8880/marcela123/marcela123/5473
+#EXTINF:-1 tvg-ID="FOX" tvg-name="FOX [PLUS]" tvg-logo="http://img.miptv.ws/FOX_HD.png" group-title="Filmes e Séries",FOX [PLUS]
+http://a.srvbr.me:8880/marcela123/marcela123/1842
+#EXTINF:-1 tvg-ID="FO1" tvg-name="Fox Premium" tvg-logo="http://img.miptv.ws/FOX_Premium_1_HD.png" group-title="Filmes e Séries",Fox Premium
+http://a.srvbr.me:8880/marcela123/marcela123/5318
+#EXTINF:-1 tvg-ID="FO1" tvg-name="FOX Premium HD" tvg-logo="http://img.miptv.ws/FOX_Premium_1_HD.png" group-title="Filmes e Séries",FOX Premium HD
+http://a.srvbr.me:8880/marcela123/marcela123/843
+#EXTINF:-1 tvg-ID="FO1" tvg-name="FOX Premium HD [PLUS]" tvg-logo="http://img.miptv.ws/FOX_Premium_1_HD.png" group-title="Filmes e Séries",FOX Premium HD [PLUS]
+http://a.srvbr.me:8880/marcela123/marcela123/4144
+#EXTINF:-1 tvg-ID="FOA" tvg-name="Fox Premium 2" tvg-logo="http://img.miptv.ws/FOX_Premium_2_HD.png" group-title="Filmes e Séries",Fox Premium 2
+http://a.srvbr.me:8880/marcela123/marcela123/5317
+#EXTINF:-1 tvg-ID="FOA" tvg-name="FOX Premium 2 HD" tvg-logo="http://img.miptv.ws/FOX_Premium_2_HD.png" group-title="Filmes e Séries",FOX Premium 2 HD
+http://a.srvbr.me:8880/marcela123/marcela123/842
+#EXTINF:-1 tvg-ID="FOA" tvg-name="Fox Premium 2 Full HD" tvg-logo="http://img.miptv.ws/FOX_Premium_2_HD.png" group-title="Filmes e Séries",Fox Premium 2 Full HD
+http://a.srvbr.me:8880/marcela123/marcela123/5429
+#EXTINF:-1 tvg-ID="FOA" tvg-name="FOX Premium 2 HD [PLUS]" tvg-logo="http://img.miptv.ws/FOX_Premium_2_HD.png" group-title="Filmes e Séries",FOX Premium 2 HD [PLUS]
+http://a.srvbr.me:8880/marcela123/marcela123/4143
+#EXTINF:-1 tvg-ID="FLI" tvg-name="Fox Life" tvg-logo="http://img.miptv.ws/FOX_Life.png" group-title="Filmes e Séries",Fox Life
+http://a.srvbr.me:8880/marcela123/marcela123/840
+#EXTINF:-1 tvg-ID="FLI" tvg-name="FOX Life HD" tvg-logo="http://img.miptv.ws/FOX_Life.png" group-title="Filmes e Séries",FOX Life HD
+http://a.srvbr.me:8880/marcela123/marcela123/839
+#EXTINF:-1 tvg-ID="FSP" tvg-name="Fox Sports" tvg-logo="http://img.miptv.ws/Fox_Sports_HD.png" group-title="Esportes",Fox Sports
+http://a.srvbr.me:8880/marcela123/marcela123/837
+#EXTINF:-1 tvg-ID="FSP" tvg-name="Fox Sports HD" tvg-logo="http://img.miptv.ws/Fox_Sports_HD.png" group-title="Esportes",Fox Sports HD
+http://a.srvbr.me:8880/marcela123/marcela123/838
+#EXTINF:-1 tvg-ID="FSP" tvg-name="Fox Sports Full HD" tvg-logo="http://img.miptv.ws/Fox_Sports_HD.png" group-title="Esportes",Fox Sports Full HD
+http://a.srvbr.me:8880/marcela123/marcela123/5418
+#EXTINF:-1 tvg-ID="FSP" tvg-name="Fox Sports HD [PLUS]" tvg-logo="http://img.miptv.ws/FOX_Sports.png" group-title="Esportes",Fox Sports HD [PLUS]
+http://a.srvbr.me:8880/marcela123/marcela123/1844
+#EXTINF:-1 tvg-ID="FS2" tvg-name="Fox Sports 2" tvg-logo="http://img.miptv.ws/FOX_Sports_2_HD.png" group-title="Esportes",Fox Sports 2
+http://a.srvbr.me:8880/marcela123/marcela123/836
+#EXTINF:-1 tvg-ID="FS2" tvg-name="FOX Sports 2 HD" tvg-logo="http://img.miptv.ws/FOX_Sports_2_HD.png" group-title="Esportes",FOX Sports 2 HD
+http://a.srvbr.me:8880/marcela123/marcela123/835
+#EXTINF:-1 tvg-ID="FS2" tvg-name="Fox Sports 2 Full HD" tvg-logo="http://img.miptv.ws/FOX_Sports_2.png" group-title="Esportes",Fox Sports 2 Full HD
+http://a.srvbr.me:8880/marcela123/marcela123/5456
+#EXTINF:-1 tvg-ID="FS1" tvg-name="FOX Sports 2 HD [PLUS]" tvg-logo="http://img.miptv.ws/FOX_Sports_2.png" group-title="Esportes",FOX Sports 2 HD [PLUS]
+http://a.srvbr.me:8880/marcela123/marcela123/1843
+#EXTINF:-1 tvg-ID="FUT" tvg-name="Futura" tvg-logo="http://img.miptv.ws/Futura.png" group-title="TV Aberta",Futura
+http://a.srvbr.me:8880/marcela123/marcela123/834
+#EXTINF:-1 tvg-ID="FUT" tvg-name="Futura HD" tvg-logo="http://img.miptv.ws/Futura.png" group-title="TV Aberta",Futura HD
+http://a.srvbr.me:8880/marcela123/marcela123/5316
+#EXTINF:-1 tvg-ID="CFX" tvg-name="FX" tvg-logo="http://img.miptv.ws/FX.png" group-title="Filmes e Séries",FX
+http://a.srvbr.me:8880/marcela123/marcela123/833
+#EXTINF:-1 tvg-ID="CFX" tvg-name="FX HD" tvg-logo="http://img.miptv.ws/FX.png" group-title="Filmes e Séries",FX HD
+http://a.srvbr.me:8880/marcela123/marcela123/832
+#EXTINF:-1 tvg-ID="CFX" tvg-name="FX HD [PLUS]" tvg-logo="http://img.miptv.ws/FX_HD.png" group-title="Filmes e Séries",FX HD [PLUS]
+http://a.srvbr.me:8880/marcela123/marcela123/1845
+#EXTINF:-1 tvg-ID="GAZ" tvg-name="Gazeta HD" tvg-logo="http://img.miptv.ws/Gazeta_HD.png" group-title="TV Aberta",Gazeta HD
+http://a.srvbr.me:8880/marcela123/marcela123/400
+#EXTINF:-1 tvg-ID="GLB" tvg-name="Globo Brasília" tvg-logo="http://img.miptv.ws/Globo_Brasilia.png" group-title="TV Aberta",Globo Brasília
+http://a.srvbr.me:8880/marcela123/marcela123/831
+#EXTINF:-1 tvg-ID="GLB" tvg-name="Globo Brasilia HD" tvg-logo="http://img.miptv.ws/Globo_Brasilia.png" group-title="TV Aberta",Globo Brasilia HD
+http://a.srvbr.me:8880/marcela123/marcela123/5315
+#EXTINF:-1 tvg-ID="GCB" tvg-name="Globo TV Centro America" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo TV Centro America
+http://a.srvbr.me:8880/marcela123/marcela123/5127
+#EXTINF:-1 tvg-ID="GRC" tvg-name="Globo EPTV Campinas" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo EPTV Campinas
+http://a.srvbr.me:8880/marcela123/marcela123/5130
+#EXTINF:-1 tvg-ID="GRC" tvg-name="Globo EPTV Campinas HD" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo EPTV Campinas HD
+http://a.srvbr.me:8880/marcela123/marcela123/5314
+#EXTINF:-1 tvg-ID="GCR" tvg-name="Globo EPTV Sao Carlos" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo EPTV Sao Carlos
+http://a.srvbr.me:8880/marcela123/marcela123/5129
+#EXTINF:-1 tvg-ID="GRP" tvg-name="Globo Ribeirão Preto" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo Ribeirão Preto
+http://a.srvbr.me:8880/marcela123/marcela123/5312
+#EXTINF:-1 tvg-ID="GRP" tvg-name="Globo Ribeirão Preto HD" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo Ribeirão Preto HD
+http://a.srvbr.me:8880/marcela123/marcela123/5313
+#EXTINF:-1 tvg-ID="GBB" tvg-name="Globo - TV Bahia" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo - TV Bahia
+http://a.srvbr.me:8880/marcela123/marcela123/5071
+#EXTINF:-1 tvg-ID="GBB" tvg-name="Globo - TV Bahia HD" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo - TV Bahia HD
+http://a.srvbr.me:8880/marcela123/marcela123/5309
+#EXTINF:-1 tvg-ID="GBM" tvg-name="Globo Minas" tvg-logo="http://img.miptv.ws/Globo_Minas.png" group-title="TV Aberta",Globo Minas
+http://a.srvbr.me:8880/marcela123/marcela123/830
+#EXTINF:-1 tvg-ID="GBM" tvg-name="Globo Minas HD" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo Minas HD
+http://a.srvbr.me:8880/marcela123/marcela123/5093
+#EXTINF:-1 tvg-ID="GBM" tvg-name="Globo Minas Full HD" tvg-logo="http://img.miptv.ws/Globo_Minas.png" group-title="TV Aberta",Globo Minas Full HD
+http://a.srvbr.me:8880/marcela123/marcela123/5472
+#EXTINF:-1 tvg-ID="GLN" tvg-name="Globo News" tvg-logo="http://img.miptv.ws/GloboNews.png" group-title="Notícias",Globo News
+http://a.srvbr.me:8880/marcela123/marcela123/826
+#EXTINF:-1 tvg-ID="GLN" tvg-name="Globo News HD" tvg-logo="http://img.miptv.ws/GloboNews.png" group-title="Notícias",Globo News HD
+http://a.srvbr.me:8880/marcela123/marcela123/1498
+#EXTINF:-1 tvg-ID="GLN" tvg-name="Globo News Full HD" tvg-logo="http://img.miptv.ws/GloboNews.png" group-title="Notícias",Globo News Full HD
+http://a.srvbr.me:8880/marcela123/marcela123/5442
+#EXTINF:-1 tvg-ID="GLN" tvg-name="Globo News HD [PLUS]" tvg-logo="http://img.miptv.ws/GloboNews.png" group-title="Notícias",Globo News HD [PLUS]
+http://a.srvbr.me:8880/marcela123/marcela123/1846
+#EXTINF:-1 tvg-ID="GPE" tvg-name="Globo Nordeste" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo Nordeste
+http://a.srvbr.me:8880/marcela123/marcela123/5067
+#EXTINF:-1 tvg-ID="GPE" tvg-name="Globo Nordeste HD" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo Nordeste HD
+http://a.srvbr.me:8880/marcela123/marcela123/5073
+#EXTINF:-1 tvg-ID="POA" tvg-name="Globo - RBS TV" tvg-logo="http://img.miptv.ws/RBS_TV_Porto_Alegre.png" group-title="TV Aberta",Globo - RBS TV
+http://a.srvbr.me:8880/marcela123/marcela123/764
+#EXTINF:-1 tvg-ID="POA" tvg-name="Globo - RBS TV HD" tvg-logo="http://img.miptv.ws/RBS_TV_Porto_Alegre.png" group-title="TV Aberta",Globo - RBS TV HD
+http://a.srvbr.me:8880/marcela123/marcela123/5311
+#EXTINF:-1 tvg-ID="GRJ" tvg-name="Globo RJ" tvg-logo="http://img.miptv.ws/Globo_RJ_HD.png" group-title="TV Aberta",Globo RJ
+http://a.srvbr.me:8880/marcela123/marcela123/829
+#EXTINF:-1 tvg-ID="GRJ" tvg-name="Globo RJ HD" tvg-logo="http://img.miptv.ws/Globo_RJ_HD.png" group-title="TV Aberta",Globo RJ HD
+http://a.srvbr.me:8880/marcela123/marcela123/828
+#EXTINF:-1 tvg-ID="GRD" tvg-name="Globo RJ Full HD" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo RJ Full HD
+http://a.srvbr.me:8880/marcela123/marcela123/5471
+#EXTINF:-1 tvg-ID="GRD" tvg-name="Globo Rede HD [PLUS]" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo Rede HD [PLUS]
+http://a.srvbr.me:8880/marcela123/marcela123/1847
+#EXTINF:-1 tvg-ID="GSC" tvg-name="Globo NSC TV Florianopolis" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo NSC TV Florianopolis
+http://a.srvbr.me:8880/marcela123/marcela123/5421
+#EXTINF:-1 tvg-ID="GSC" tvg-name="Globo NSC TV Florianopolis HD" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo NSC TV Florianopolis HD
+http://a.srvbr.me:8880/marcela123/marcela123/5420
+#EXTINF:-1 tvg-ID="TPH" tvg-name="Globo Curitiba" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo Curitiba
+http://a.srvbr.me:8880/marcela123/marcela123/5128
+#EXTINF:-1 tvg-ID="TPH" tvg-name="Globo Curitiba HD" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo Curitiba HD
+http://a.srvbr.me:8880/marcela123/marcela123/5310
+#EXTINF:-1 tvg-ID="TPH" tvg-name="Globo RPC Curitiba Full HD" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo RPC Curitiba Full HD
+http://a.srvbr.me:8880/marcela123/marcela123/5469
+#EXTINF:-1 tvg-ID="GSP" tvg-name="Globo SP" tvg-logo="http://img.miptv.ws/Globo_SP.png" group-title="TV Aberta",Globo SP
+http://a.srvbr.me:8880/marcela123/marcela123/827
+#EXTINF:-1 tvg-ID="GSP" tvg-name="Globo SP HD" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo SP HD
+http://a.srvbr.me:8880/marcela123/marcela123/5095
+#EXTINF:-1 tvg-ID="" tvg-name="Globo TV Gazeta Vitória" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo TV Gazeta Vitória
+http://a.srvbr.me:8880/marcela123/marcela123/12077
+#EXTINF:-1 tvg-ID="" tvg-name="Globo TV Gazeta Vitória Full HD" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo TV Gazeta Vitória Full HD
+http://a.srvbr.me:8880/marcela123/marcela123/12078
+#EXTINF:-1 tvg-ID="" tvg-name="Globo TV Gazeta Vitória HD" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo TV Gazeta Vitória HD
+http://a.srvbr.me:8880/marcela123/marcela123/12079
+#EXTINF:-1 tvg-ID="" tvg-name="Globo TV Gazeta SUL ES Full HD" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo TV Gazeta SUL ES Full HD
+http://a.srvbr.me:8880/marcela123/marcela123/12080
+#EXTINF:-1 tvg-ID="" tvg-name="Globo TV Gazeta ES HD" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo TV Gazeta ES HD
+http://a.srvbr.me:8880/marcela123/marcela123/12081
+#EXTINF:-1 tvg-ID="GSP" tvg-name="Globo SP Full HD" tvg-logo="http://img.miptv.ws/Globo_SP.png" group-title="TV Aberta",Globo SP Full HD
+http://a.srvbr.me:8880/marcela123/marcela123/5470
+#EXTINF:-1 tvg-ID="GLH" tvg-name="Globo SP HD [PLUS]" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo SP HD [PLUS]
+http://a.srvbr.me:8880/marcela123/marcela123/5528
+#EXTINF:-1 tvg-ID="GBG" tvg-name="Globo Anhaguera Goiania" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo Anhaguera Goiania
+http://a.srvbr.me:8880/marcela123/marcela123/5074
+#EXTINF:-1 tvg-ID="GBG" tvg-name="Globo Goias - TV Anhanguera HD" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo Goias - TV Anhanguera HD
+http://a.srvbr.me:8880/marcela123/marcela123/5072
+#EXTINF:-1 tvg-ID="TVT" tvg-name="Globo TV Tribuna Santos" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo TV Tribuna Santos
+http://a.srvbr.me:8880/marcela123/marcela123/5126
+#EXTINF:-1 tvg-ID="GVA" tvg-name="TV Vanguarda Sao Jose dos Campos" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",TV Vanguarda Sao Jose dos Campos
+http://a.srvbr.me:8880/marcela123/marcela123/5125
+#EXTINF:-1 tvg-ID="GPA" tvg-name="Globo Para (Belem) - TV Liberal" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo Para (Belem) - TV Liberal
+http://a.srvbr.me:8880/marcela123/marcela123/5069
+#EXTINF:-1 tvg-ID="GJR" tvg-name="Globo TV TEM S.J. Rio Preto" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo TV TEM S.J. Rio Preto
+http://a.srvbr.me:8880/marcela123/marcela123/5307
+#EXTINF:-1 tvg-ID="GJR" tvg-name="Globo TV TEM S.J. Rio Preto HD" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo TV TEM S.J. Rio Preto HD
+http://a.srvbr.me:8880/marcela123/marcela123/5308
+#EXTINF:-1 tvg-ID="TEM" tvg-name="Globo - TV TEM Bauru" tvg-logo="http://img.miptv.ws/TV_Tem_Bauru.png" group-title="TV Aberta",Globo - TV TEM Bauru
+http://a.srvbr.me:8880/marcela123/marcela123/714
+#EXTINF:-1 tvg-ID="TEM" tvg-name="Globo - TV TEM Sorocaba" tvg-logo="http://img.miptv.ws/TV_Tem_Bauru.png" group-title="TV Aberta",Globo - TV TEM Sorocaba
+http://a.srvbr.me:8880/marcela123/marcela123/713
+#EXTINF:-1 tvg-ID="GBF" tvg-name="Globo - TV Verdes Mares" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo - TV Verdes Mares
+http://a.srvbr.me:8880/marcela123/marcela123/5068
+#EXTINF:-1 tvg-ID="GHS" tvg-name="+Globosat" tvg-logo="http://img.miptv.ws/Mais_Globosat.png" group-title="Filmes e Séries",+Globosat
+http://a.srvbr.me:8880/marcela123/marcela123/804
+#EXTINF:-1 tvg-ID="GHS" tvg-name="+Globosat HD" tvg-logo="http://img.miptv.ws/Mais_Globosat.png" group-title="Filmes e Séries",+Globosat HD
+http://a.srvbr.me:8880/marcela123/marcela123/1488
+#EXTINF:-1 tvg-ID="GHS" tvg-name="+Globosat HD [PLUS]" tvg-logo="http://img.miptv.ws/Mais_Globosat.png" group-title="Filmes e Séries",+Globosat HD [PLUS]
+http://a.srvbr.me:8880/marcela123/marcela123/4135
+#EXTINF:-1 tvg-ID="GOB" tvg-name="Gloob" tvg-logo="http://img.miptv.ws/Gloob.png" group-title="Infantil",Gloob
+http://a.srvbr.me:8880/marcela123/marcela123/825
+#EXTINF:-1 tvg-ID="GOB" tvg-name="Gloob HD" tvg-logo="http://img.miptv.ws/Gloob.png" group-title="Infantil",Gloob HD
+http://a.srvbr.me:8880/marcela123/marcela123/1490
+#EXTINF:-1 tvg-ID="GOB" tvg-name="Gloob Full HD" tvg-logo="http://img.miptv.ws/Gloob.png" group-title="Infantil",Gloob Full HD
+http://a.srvbr.me:8880/marcela123/marcela123/5441
+#EXTINF:-1 tvg-ID="GOB" tvg-name="Gloob HD [PLUS]" tvg-logo="http://img.miptv.ws/Gloob.png" group-title="Infantil",Gloob HD [PLUS]
+http://a.srvbr.me:8880/marcela123/marcela123/1848
+#EXTINF:-1 tvg-ID="NOEPG English" tvg-name="Gloobinho" tvg-logo="http://img.miptv.ws/Gloobinho.png" group-title="Infantil",Gloobinho
+http://a.srvbr.me:8880/marcela123/marcela123/5306
+#EXTINF:-1 tvg-ID="NOEPG English" tvg-name="Gloobinho HD" tvg-logo="http://img.miptv.ws/Gloobinho.png" group-title="Infantil",Gloobinho HD
+http://a.srvbr.me:8880/marcela123/marcela123/5305
+#EXTINF:-1 tvg-ID="GNT" tvg-name="GNT" tvg-logo="http://img.miptv.ws/GNT.png" group-title="Variedades",GNT
+http://a.srvbr.me:8880/marcela123/marcela123/824
+#EXTINF:-1 tvg-ID="GNT" tvg-name="GNT HD" tvg-logo="http://img.miptv.ws/GNT.png" group-title="Variedades",GNT HD
+http://a.srvbr.me:8880/marcela123/marcela123/823
+#EXTINF:-1 tvg-ID="GNT" tvg-name="GNT HD [PLUS]" tvg-logo="http://img.miptv.ws/GNT.png" group-title="Variedades",GNT HD [PLUS]
+http://a.srvbr.me:8880/marcela123/marcela123/4142
+#EXTINF:-1 tvg-ID="CH2" tvg-name="H2" tvg-logo="http://img.miptv.ws/H2.png" group-title="Documentários",H2
+http://a.srvbr.me:8880/marcela123/marcela123/822
+#EXTINF:-1 tvg-ID="CH2" tvg-name="H2 HD" tvg-logo="http://img.miptv.ws/H2.png" group-title="Documentários",H2 HD
+http://a.srvbr.me:8880/marcela123/marcela123/821
+#EXTINF:-1 tvg-ID="CH2" tvg-name="H2 [PLUS]" tvg-logo="http://img.miptv.ws/H2.png" group-title="Documentários",H2 [PLUS]
+http://a.srvbr.me:8880/marcela123/marcela123/4141
+#EXTINF:-1 tvg-ID="HBO" tvg-name="HBO" tvg-logo="http://img.miptv.ws/HBO.png" group-title="Filmes e Séries",HBO
+http://a.srvbr.me:8880/marcela123/marcela123/820
+#EXTINF:-1 tvg-ID="HBO" tvg-name="HBO HD" tvg-logo="http://img.miptv.ws/HBO.png" group-title="Filmes e Séries",HBO HD
+http://a.srvbr.me:8880/marcela123/marcela123/816
+#EXTINF:-1 tvg-ID="HBO" tvg-name="HBO Full HD" tvg-logo="http://img.miptv.ws/HBO.png" group-title="Filmes e Séries",HBO Full HD
+http://a.srvbr.me:8880/marcela123/marcela123/5467
+#EXTINF:-1 tvg-ID="HBO" tvg-name="HBO HD [PLUS]" tvg-logo="http://img.miptv.ws/HBO_HD.png" group-title="Filmes e Séries",HBO HD [PLUS]
+http://a.srvbr.me:8880/marcela123/marcela123/1850
+#EXTINF:-1 tvg-ID="HB2" tvg-name="HBO 2" tvg-logo="http://img.miptv.ws/HBO_2_HD.png" group-title="Filmes e Séries",HBO 2
+http://a.srvbr.me:8880/marcela123/marcela123/810
+#EXTINF:-1 tvg-ID="HB2" tvg-name="HBO 2 HD" tvg-logo="http://img.miptv.ws/HBO_2_HD.png" group-title="Filmes e Séries",HBO 2 HD
+http://a.srvbr.me:8880/marcela123/marcela123/819
+#EXTINF:-1 tvg-ID="H2H" tvg-name="HBO 2 Full HD" tvg-logo="http://img.miptv.ws/HBO_2.png" group-title="Filmes e Séries",HBO 2 Full HD
+http://a.srvbr.me:8880/marcela123/marcela123/5468
+#EXTINF:-1 tvg-ID="H2H" tvg-name="HBO 2 HD [PLUS]" tvg-logo="http://img.miptv.ws/HBO_2_HD.png" group-title="Filmes e Séries",HBO 2 HD [PLUS]
+http://a.srvbr.me:8880/marcela123/marcela123/1849
+#EXTINF:-1 tvg-ID="HFA" tvg-name="HBO Family" tvg-logo="http://img.miptv.ws/HBO_Family.png" group-title="Filmes e Séries",HBO Family
+http://a.srvbr.me:8880/marcela123/marcela123/818
+#EXTINF:-1 tvg-ID="HFA" tvg-name="HBO Family HD" tvg-logo="http://img.miptv.ws/HBO_Family.png" group-title="Filmes e Séries",HBO Family HD
+http://a.srvbr.me:8880/marcela123/marcela123/817
+#EXTINF:-1 tvg-ID="HFA" tvg-name="HBO Family HD [PLUS]" tvg-logo="http://img.miptv.ws/HBO_Family.png" group-title="Filmes e Séries",HBO Family HD [PLUS]
+http://a.srvbr.me:8880/marcela123/marcela123/4140
+#EXTINF:-1 tvg-ID="HPL" tvg-name="HBO Plus" tvg-logo="http://img.miptv.ws/HBO_Plus.png" group-title="Filmes e Séries",HBO Plus
+http://a.srvbr.me:8880/marcela123/marcela123/815
+#EXTINF:-1 tvg-ID="HPL" tvg-name="HBO Plus HD" tvg-logo="http://img.miptv.ws/HBO_Plus.png" group-title="Filmes e Séries",HBO Plus HD
+http://a.srvbr.me:8880/marcela123/marcela123/813
+#EXTINF:-1 tvg-ID="HPL" tvg-name="HBO Plus HD [PLUS]" tvg-logo="http://img.miptv.ws/HBO_Plus.png" group-title="Filmes e Séries",HBO Plus HD [PLUS]
+http://a.srvbr.me:8880/marcela123/marcela123/4139
+#EXTINF:-1 tvg-ID="HFE" tvg-name="HBO Signature" tvg-logo="http://img.miptv.ws/HBO_Signature_HD.png" group-title="Filmes e Séries",HBO Signature
+http://a.srvbr.me:8880/marcela123/marcela123/812
+#EXTINF:-1 tvg-ID="HFE" tvg-name="HBO Signature HD" tvg-logo="http://img.miptv.ws/HBO_Signature_HD.png" group-title="Filmes e Séries",HBO Signature HD
+http://a.srvbr.me:8880/marcela123/marcela123/811
+#EXTINF:-1 tvg-ID="HFE" tvg-name="HBO Signature HD [PLUS]" tvg-logo="http://img.miptv.ws/HBO_Signature_HD.png" group-title="Filmes e Séries",HBO Signature HD [PLUS]
+http://a.srvbr.me:8880/marcela123/marcela123/4138
+#EXTINF:-1 tvg-ID="HIS" tvg-name="History" tvg-logo="http://img.miptv.ws/History_Channel.png" group-title="Documentários",History
+http://a.srvbr.me:8880/marcela123/marcela123/726
+#EXTINF:-1 tvg-ID="HIS" tvg-name="History HD" tvg-logo="http://img.miptv.ws/History_Channel.png" group-title="Documentários",History HD
+http://a.srvbr.me:8880/marcela123/marcela123/809
+#EXTINF:-1 tvg-ID="HIS" tvg-name="History Full HD" tvg-logo="http://img.miptv.ws/History.png" group-title="Documentários",History Full HD
+http://a.srvbr.me:8880/marcela123/marcela123/5424
+#EXTINF:-1 tvg-ID="HIS" tvg-name="History HD [PLUS]" tvg-logo="http://img.miptv.ws/History_Channel.png" group-title="Documentários",History HD [PLUS]
+http://a.srvbr.me:8880/marcela123/marcela123/4137
+#EXTINF:-1 tvg-ID="LIV" tvg-name="ID" tvg-logo="http://img.miptv.ws/ID.png" group-title="Variedades",ID
+http://a.srvbr.me:8880/marcela123/marcela123/807
+#EXTINF:-1 tvg-ID="LIV" tvg-name="ID HD" tvg-logo="http://img.miptv.ws/ID.png" group-title="Variedades",ID HD
+http://a.srvbr.me:8880/marcela123/marcela123/806
+#EXTINF:-1 tvg-ID="LIV" tvg-name="ID HD [PLUS]" tvg-logo="http://img.miptv.ws/ID.png" group-title="Variedades",ID HD [PLUS]
+http://a.srvbr.me:8880/marcela123/marcela123/4155
+#EXTINF:-1 tvg-ID="ANX" tvg-name="Lifetime" tvg-logo="http://img.miptv.ws/Lifetime.png" group-title="Variedades",Lifetime
+http://a.srvbr.me:8880/marcela123/marcela123/805
+#EXTINF:-1 tvg-ID="ANX" tvg-name="Lifetime HD" tvg-logo="http://img.miptv.ws/Lifetime.png" group-title="Variedades",Lifetime HD
+http://a.srvbr.me:8880/marcela123/marcela123/1489
+#EXTINF:-1 tvg-ID="ANX" tvg-name="Lifetime [PLUS]" tvg-logo="http://img.miptv.ws/Lifetime.png" group-title="Variedades",Lifetime [PLUS]
+http://a.srvbr.me:8880/marcela123/marcela123/4136
+#EXTINF:-1 tvg-ID="MHD" tvg-name="HBO MUNDI" tvg-logo="http://img.miptv.ws/Max_HD.png" group-title="Filmes e Séries",HBO MUNDI
+http://a.srvbr.me:8880/marcela123/marcela123/803
+#EXTINF:-1 tvg-ID="MHD" tvg-name="HBO MUNDI HD" tvg-logo="http://img.miptv.ws/Max_HD.png" group-title="Filmes e Séries",HBO MUNDI HD
+http://a.srvbr.me:8880/marcela123/marcela123/1497
+#EXTINF:-1 tvg-ID="MAP" tvg-name="HBO XTREME" tvg-logo="http://img.miptv.ws/Max_Prime.png" group-title="Filmes e Séries",HBO XTREME
+http://a.srvbr.me:8880/marcela123/marcela123/802
+#EXTINF:-1 tvg-ID="SET" tvg-name="Sony" tvg-logo="http://img.miptv.ws/Canal_Sony.png" group-title="Filmes e Séries",Sony
+http://a.srvbr.me:8880/marcela123/marcela123/881
+#EXTINF:-1 tvg-ID="SEH" tvg-name="Sony HD" tvg-logo="http://img.miptv.ws/Canal_Sony.png" group-title="Filmes e Séries",Sony HD
+http://a.srvbr.me:8880/marcela123/marcela123/880
+#EXTINF:-1 tvg-ID="SEH" tvg-name="Sony HD [PLUS]" tvg-logo="http://img.miptv.ws/Canal_Sony.png" group-title="Filmes e Séries",Sony HD [PLUS]
+http://a.srvbr.me:8880/marcela123/marcela123/4115
+#EXTINF:-1 tvg-ID="MAP" tvg-name="HBO Xtreme HD" tvg-logo="http://img.miptv.ws/Max_Prime.png" group-title="Filmes e Séries",HBO Xtreme HD
+http://a.srvbr.me:8880/marcela123/marcela123/1487
+#EXTINF:-1 tvg-ID="MHD" tvg-name="Maxup HD [PLUS]" tvg-logo="http://img.miptv.ws/Max_UP.png" group-title="Filmes e Séries",Maxup HD [PLUS]
+http://a.srvbr.me:8880/marcela123/marcela123/4134
+#EXTINF:-1 tvg-ID="MPX" tvg-name="MegaPix" tvg-logo="http://img.miptv.ws/Megapix_HD.png" group-title="Filmes e Séries",MegaPix
+http://a.srvbr.me:8880/marcela123/marcela123/799
+#EXTINF:-1 tvg-ID="MPX" tvg-name="Megapix HD" tvg-logo="http://img.miptv.ws/Megapix_HD.png" group-title="Filmes e Séries",Megapix HD
+http://a.srvbr.me:8880/marcela123/marcela123/798
+#EXTINF:-1 tvg-ID="MPX" tvg-name="Megapix HD [PLUS]" tvg-logo="http://img.miptv.ws/Megapix_HD.png" group-title="Filmes e Séries",Megapix HD [PLUS]
+http://a.srvbr.me:8880/marcela123/marcela123/1851
+#EXTINF:-1 tvg-ID="MTV" tvg-name="MTV" tvg-logo="http://img.miptv.ws/MTV.png" group-title="Variedades",MTV
+http://a.srvbr.me:8880/marcela123/marcela123/797
+#EXTINF:-1 tvg-ID="MTV" tvg-name="MTV HD" tvg-logo="http://img.miptv.ws/MTV.png" group-title="Variedades",MTV HD
+http://a.srvbr.me:8880/marcela123/marcela123/1485
+#EXTINF:-1 tvg-ID="MTV" tvg-name="MTV HD [PLUS]" tvg-logo="http://img.miptv.ws/MTV.png" group-title="Variedades",MTV HD [PLUS]
+http://a.srvbr.me:8880/marcela123/marcela123/4133
+#EXTINF:-1 tvg-ID="MSW" tvg-name="Multishow" tvg-logo="http://img.miptv.ws/Multishow.png" group-title="Variedades",Multishow
+http://a.srvbr.me:8880/marcela123/marcela123/796
+#EXTINF:-1 tvg-ID="MSW" tvg-name="Multishow HD" tvg-logo="http://img.miptv.ws/Multishow.png" group-title="Variedades",Multishow HD
+http://a.srvbr.me:8880/marcela123/marcela123/795
+#EXTINF:-1 tvg-ID="MSW" tvg-name="Multishow HD [PLUS]" tvg-logo="http://img.miptv.ws/Multishow.png" group-title="Variedades",Multishow HD [PLUS]
+http://a.srvbr.me:8880/marcela123/marcela123/4131
+#EXTINF:-1 tvg-ID="MUB" tvg-name="Music Box Brasil" tvg-logo="http://img.miptv.ws/Music_Box_Brazil.png" group-title="Variedades",Music Box Brasil
+http://a.srvbr.me:8880/marcela123/marcela123/794
+#EXTINF:-1 tvg-ID="MUB" tvg-name="Music Box Brasil HD" tvg-logo="http://img.miptv.ws/Music_Box_Brazil.png" group-title="Variedades",Music Box Brasil HD
+http://a.srvbr.me:8880/marcela123/marcela123/5304
+#EXTINF:-1 tvg-ID="NGH" tvg-name="NatGeo Wild" tvg-logo="http://img.miptv.ws/Nat_Geo_Wild_HD.png" group-title="Documentários",NatGeo Wild
+http://a.srvbr.me:8880/marcela123/marcela123/793
+#EXTINF:-1 tvg-ID="NGH" tvg-name="NatGeo Wild HD" tvg-logo="http://img.miptv.ws/Nat_Geo_Wild_HD.png" group-title="Documentários",NatGeo Wild HD
+http://a.srvbr.me:8880/marcela123/marcela123/702
+#EXTINF:-1 tvg-ID="NGH" tvg-name="Nat Geo Wild Full HD" tvg-logo="http://img.miptv.ws/Nat_Geo_Wild_HD.png" group-title="Documentários",Nat Geo Wild Full HD
+http://a.srvbr.me:8880/marcela123/marcela123/5428
+#EXTINF:-1 tvg-ID="NOEPG English" tvg-name="Natgeo Kids" tvg-logo="http://img.miptv.ws/Natgeo_Kids.png" group-title="Infantil",Natgeo Kids
+http://a.srvbr.me:8880/marcela123/marcela123/5303
+#EXTINF:-1 tvg-ID="NOEPG English" tvg-name="Natgeo Kids HD" tvg-logo="http://img.miptv.ws/Natgeo_Kids.png" group-title="Infantil",Natgeo Kids HD
+http://a.srvbr.me:8880/marcela123/marcela123/5302
+#EXTINF:-1 tvg-ID="SUP" tvg-name="National Geographic" tvg-logo="http://img.miptv.ws/Nat_Geo_HD.png" group-title="Documentários",National Geographic
+http://a.srvbr.me:8880/marcela123/marcela123/792
+#EXTINF:-1 tvg-ID="SUP" tvg-name="National Geographic HD" tvg-logo="http://img.miptv.ws/Nat_Geo_HD.png" group-title="Documentários",National Geographic HD
+http://a.srvbr.me:8880/marcela123/marcela123/791
+#EXTINF:-1 tvg-ID="SUP" tvg-name="National Geographic [PLUS]" tvg-logo="http://img.miptv.ws/Nat_Geo_HD.png" group-title="Documentários",National Geographic [PLUS]
+http://a.srvbr.me:8880/marcela123/marcela123/4129
+#EXTINF:-1 tvg-ID="NHK" tvg-name="NHK" tvg-logo="http://img.miptv.ws/NHK.png" group-title="Internacional",NHK
+http://a.srvbr.me:8880/marcela123/marcela123/789
+#EXTINF:-1 tvg-ID="NIC" tvg-name="Nickelodeon" tvg-logo="http://img.miptv.ws/Nick.png" group-title="Infantil",Nickelodeon
+http://a.srvbr.me:8880/marcela123/marcela123/787
+#EXTINF:-1 tvg-ID="NIC" tvg-name="Nickelodeon HD" tvg-logo="http://img.miptv.ws/Nick.png" group-title="Infantil",Nickelodeon HD
+http://a.srvbr.me:8880/marcela123/marcela123/1484
+#EXTINF:-1 tvg-ID="NIC" tvg-name="Nicklodeon Full HD" tvg-logo="http://img.miptv.ws/Nick.png" group-title="Infantil",Nicklodeon Full HD
+http://a.srvbr.me:8880/marcela123/marcela123/5426
+#EXTINF:-1 tvg-ID="NIC" tvg-name="Nickelodeon HD [PLUS]" tvg-logo="http://img.miptv.ws/Nick.png" group-title="Infantil",Nickelodeon HD [PLUS]
+http://a.srvbr.me:8880/marcela123/marcela123/4128
+#EXTINF:-1 tvg-ID="NJR" tvg-name="Nick Jr." tvg-logo="http://img.miptv.ws/Nick_Jr..png" group-title="Infantil",Nick Jr.
+http://a.srvbr.me:8880/marcela123/marcela123/788
+#EXTINF:-1 tvg-ID="NJR" tvg-name="Nick Jr. HD" tvg-logo="http://img.miptv.ws/Nick_Jr..png" group-title="Infantil",Nick Jr. HD
+http://a.srvbr.me:8880/marcela123/marcela123/5301
+#EXTINF:-1 tvg-ID="NJR" tvg-name="Nick JR Full HD" tvg-logo="http://img.miptv.ws/Nick_Jr..png" group-title="Infantil",Nick JR Full HD
+http://a.srvbr.me:8880/marcela123/marcela123/5427
+#EXTINF:-1 tvg-ID="OFF" tvg-name="OFF" tvg-logo="http://img.miptv.ws/OFF.png" group-title="Esportes",OFF
+http://a.srvbr.me:8880/marcela123/marcela123/785
+#EXTINF:-1 tvg-ID="OFF" tvg-name="OFF HD" tvg-logo="http://img.miptv.ws/OFF.png" group-title="Esportes",OFF HD
+http://a.srvbr.me:8880/marcela123/marcela123/784
+#EXTINF:-1 tvg-ID="OFF" tvg-name="OFF HD [PLUS]" tvg-logo="http://img.miptv.ws/OFF.png" group-title="Esportes",OFF HD [PLUS]
+http://a.srvbr.me:8880/marcela123/marcela123/4125
+#EXTINF:-1 tvg-ID="PAR" tvg-name="Paramount Channel" tvg-logo="http://img.miptv.ws/Paramount.png" group-title="Filmes e Séries",Paramount Channel
+http://a.srvbr.me:8880/marcela123/marcela123/783
+#EXTINF:-1 tvg-ID="PAQ" tvg-name="Paramount Channel HD" tvg-logo="http://img.miptv.ws/Paramount.png" group-title="Filmes e Séries",Paramount Channel HD
+http://a.srvbr.me:8880/marcela123/marcela123/782
+#EXTINF:-1 tvg-ID="PAR" tvg-name="Paramount HD [PLUS]" tvg-logo="http://img.miptv.ws/Paramount.png" group-title="Filmes e Séries",Paramount HD [PLUS]
+http://a.srvbr.me:8880/marcela123/marcela123/4124
+#EXTINF:-1 tvg-ID="121" tvg-name="Premiere Clubes" tvg-logo="http://img.miptv.ws/Premiere_Clubes.png" group-title="Esportes",Premiere Clubes
+http://a.srvbr.me:8880/marcela123/marcela123/767
+#EXTINF:-1 tvg-ID="9A1" tvg-name="Premiere Clubes HD" tvg-logo="http://img.miptv.ws/Premiere_1_HD.png" group-title="Esportes",Premiere Clubes HD
+http://a.srvbr.me:8880/marcela123/marcela123/780
+#EXTINF:-1 tvg-ID="121" tvg-name="Premiere Clubes Full HD" tvg-logo="http://img.miptv.ws/Premiere_Clubes.png" group-title="Esportes",Premiere Clubes Full HD
+http://a.srvbr.me:8880/marcela123/marcela123/5455
+#EXTINF:-1 tvg-ID="121" tvg-name="Premiere Clubes HD [ALTERNATIVO]" tvg-logo="http://img.miptv.ws/Premiere_Clubes.png" group-title="Esportes",Premiere Clubes HD [ALTERNATIVO]
+http://a.srvbr.me:8880/marcela123/marcela123/1852
+#EXTINF:-1 tvg-ID="9A2" tvg-name="PFC 2" tvg-logo="http://img.miptv.ws/Premiere_2.png" group-title="Esportes",PFC 2
+http://a.srvbr.me:8880/marcela123/marcela123/779
+#EXTINF:-1 tvg-ID="9A2" tvg-name="PFC 2 HD" tvg-logo="http://img.miptv.ws/Premiere_2.png" group-title="Esportes",PFC 2 HD
+http://a.srvbr.me:8880/marcela123/marcela123/778
+#EXTINF:-1 tvg-ID="9A2" tvg-name="PFC 2 Full HD" tvg-logo="http://img.miptv.ws/Premiere_2.png" group-title="Esportes",PFC 2 Full HD
+http://a.srvbr.me:8880/marcela123/marcela123/5454
+#EXTINF:-1 tvg-ID="9A2" tvg-name="PFC 2 [ALTERNATIVO]" tvg-logo="http://img.miptv.ws/Premiere_Clubes.png" group-title="Esportes",PFC 2 [ALTERNATIVO]
+http://a.srvbr.me:8880/marcela123/marcela123/1853
+#EXTINF:-1 tvg-ID="9A3" tvg-name="PFC 3" tvg-logo="http://img.miptv.ws/Premiere_3.png" group-title="Esportes",PFC 3
+http://a.srvbr.me:8880/marcela123/marcela123/777
+#EXTINF:-1 tvg-ID="9A3" tvg-name="PFC 3 HD" tvg-logo="http://img.miptv.ws/Premiere_3.png" group-title="Esportes",PFC 3 HD
+http://a.srvbr.me:8880/marcela123/marcela123/776
+#EXTINF:-1 tvg-ID="9A3" tvg-name="PFC 3 Full HD" tvg-logo="http://img.miptv.ws/Premiere_3.png" group-title="Esportes",PFC 3 Full HD
+http://a.srvbr.me:8880/marcela123/marcela123/5453
+#EXTINF:-1 tvg-ID="9A3" tvg-name="PFC 3 [ALTERNATIVO]" tvg-logo="http://img.miptv.ws/Premiere_Clubes.png" group-title="Esportes",PFC 3 [ALTERNATIVO]
+http://a.srvbr.me:8880/marcela123/marcela123/1854
+#EXTINF:-1 tvg-ID="9A4" tvg-name="PFC 4" tvg-logo="http://img.miptv.ws/Premiere_4.png" group-title="Esportes",PFC 4
+http://a.srvbr.me:8880/marcela123/marcela123/775
+#EXTINF:-1 tvg-ID="9A4" tvg-name="PFC 4 HD" tvg-logo="http://img.miptv.ws/Premiere_4.png" group-title="Esportes",PFC 4 HD
+http://a.srvbr.me:8880/marcela123/marcela123/774
+#EXTINF:-1 tvg-ID="9A4" tvg-name="PFC 4 Full HD" tvg-logo="http://img.miptv.ws/Premiere_4.png" group-title="Esportes",PFC 4 Full HD
+http://a.srvbr.me:8880/marcela123/marcela123/5452
+#EXTINF:-1 tvg-ID="9A4" tvg-name="PFC 4 [ALTERNATIVO]" tvg-logo="http://img.miptv.ws/Premiere_Clubes.png" group-title="Esportes",PFC 4 [ALTERNATIVO]
+http://a.srvbr.me:8880/marcela123/marcela123/1855
+#EXTINF:-1 tvg-ID="9A5" tvg-name="PFC 5" tvg-logo="http://img.miptv.ws/Premiere_5.png" group-title="Esportes",PFC 5
+http://a.srvbr.me:8880/marcela123/marcela123/773
+#EXTINF:-1 tvg-ID="9A5" tvg-name="PFC 5 HD" tvg-logo="http://img.miptv.ws/Premiere_5.png" group-title="Esportes",PFC 5 HD
+http://a.srvbr.me:8880/marcela123/marcela123/772
+#EXTINF:-1 tvg-ID="9A5" tvg-name="PFC 5 Full HD" tvg-logo="http://img.miptv.ws/Premiere_5.png" group-title="Esportes",PFC 5 Full HD
+http://a.srvbr.me:8880/marcela123/marcela123/5451
+#EXTINF:-1 tvg-ID="9A5" tvg-name="PFC 5 [ALTERNATIVO]" tvg-logo="http://img.miptv.ws/Premiere_Clubes.png" group-title="Esportes",PFC 5 [ALTERNATIVO]
+http://a.srvbr.me:8880/marcela123/marcela123/1856
+#EXTINF:-1 tvg-ID="9A6" tvg-name="PFC 6" tvg-logo="http://img.miptv.ws/Premiere_6.png" group-title="Esportes",PFC 6
+http://a.srvbr.me:8880/marcela123/marcela123/771
+#EXTINF:-1 tvg-ID="9A6" tvg-name="PFC 6 HD" tvg-logo="http://img.miptv.ws/Premiere_6.png" group-title="Esportes",PFC 6 HD
+http://a.srvbr.me:8880/marcela123/marcela123/4123
+#EXTINF:-1 tvg-ID="9A6" tvg-name="PFC 6 Full HD" tvg-logo="http://img.miptv.ws/Premiere_6.png" group-title="Esportes",PFC 6 Full HD
+http://a.srvbr.me:8880/marcela123/marcela123/5450
+#EXTINF:-1 tvg-ID="9A6" tvg-name="PFC 6 [ALTERNATIVO]" tvg-logo="http://img.miptv.ws/Premiere_6.png" group-title="Esportes",PFC 6 [ALTERNATIVO]
+http://a.srvbr.me:8880/marcela123/marcela123/5330
+#EXTINF:-1 tvg-ID="9A7" tvg-name="PFC 7" tvg-logo="http://img.miptv.ws/Premiere_7.png" group-title="Esportes",PFC 7
+http://a.srvbr.me:8880/marcela123/marcela123/770
+#EXTINF:-1 tvg-ID="9A7" tvg-name="PFC 7 HD" tvg-logo="http://img.miptv.ws/Premiere_7.png" group-title="Esportes",PFC 7 HD
+http://a.srvbr.me:8880/marcela123/marcela123/4122
+#EXTINF:-1 tvg-ID="9A7" tvg-name="PFC 7 Full HD" tvg-logo="http://img.miptv.ws/Premiere_7.png" group-title="Esportes",PFC 7 Full HD
+http://a.srvbr.me:8880/marcela123/marcela123/5449
+#EXTINF:-1 tvg-ID="9A7" tvg-name="PFC 7 [ALTERNATIVO]" tvg-logo="http://img.miptv.ws/Premiere_7.png" group-title="Esportes",PFC 7 [ALTERNATIVO]
+http://a.srvbr.me:8880/marcela123/marcela123/5331
+#EXTINF:-1 tvg-ID="9A8" tvg-name="PFC 8" tvg-logo="http://img.miptv.ws/Premiere_8.png" group-title="Esportes",PFC 8
+http://a.srvbr.me:8880/marcela123/marcela123/769
+#EXTINF:-1 tvg-ID="781" tvg-name="PFC 9" tvg-logo="http://img.miptv.ws/Premiere_9.png" group-title="Esportes",PFC 9
+http://a.srvbr.me:8880/marcela123/marcela123/768
+#EXTINF:-1 tvg-ID="BQ7" tvg-name="Prime Box Brasil HD" tvg-logo="http://img.miptv.ws/Prime_Box_Brazil.png" group-title="Variedades",Prime Box Brasil HD
+http://a.srvbr.me:8880/marcela123/marcela123/5300
+#EXTINF:-1 tvg-ID="REC" tvg-name="Record" tvg-logo="http://img.miptv.ws/Record.png" group-title="TV Aberta",Record
+http://a.srvbr.me:8880/marcela123/marcela123/761
+#EXTINF:-1 tvg-ID="REC" tvg-name="Record HD" tvg-logo="http://img.miptv.ws/Record.png" group-title="TV Aberta",Record HD
+http://a.srvbr.me:8880/marcela123/marcela123/763
+#EXTINF:-1 tvg-ID="REC" tvg-name="Record Full HD" tvg-logo="http://img.miptv.ws/Record.png" group-title="TV Aberta",Record Full HD
+http://a.srvbr.me:8880/marcela123/marcela123/5466
+#EXTINF:-1 tvg-ID="" tvg-name="Globo Internacional" tvg-logo="http://img.miptv.ws/Globo_Internacional.png" group-title="Internacional",Globo Internacional
+http://a.srvbr.me:8880/marcela123/marcela123/604
+#EXTINF:-1 tvg-ID="REC" tvg-name="Record HD [PLUS]" tvg-logo="http://img.miptv.ws/Record.png" group-title="TV Aberta",Record HD [PLUS]
+http://a.srvbr.me:8880/marcela123/marcela123/1857
+#EXTINF:-1 tvg-ID="RSA" tvg-name="Record BA" tvg-logo="http://img.miptv.ws/Record.png" group-title="TV Aberta",Record BA
+http://a.srvbr.me:8880/marcela123/marcela123/11072
+#EXTINF:-1 tvg-ID="RSA" tvg-name="Record BA HD" tvg-logo="http://img.miptv.ws/Record.png" group-title="TV Aberta",Record BA HD
+http://a.srvbr.me:8880/marcela123/marcela123/11071
+#EXTINF:-1 tvg-ID="RBH" tvg-name="Record DF" tvg-logo="http://img.miptv.ws/Record.png" group-title="TV Aberta",Record DF
+http://a.srvbr.me:8880/marcela123/marcela123/11069
+#EXTINF:-1 tvg-ID="RBH" tvg-name="Record DF HD" tvg-logo="http://img.miptv.ws/Record.png" group-title="TV Aberta",Record DF HD
+http://a.srvbr.me:8880/marcela123/marcela123/11068
+#EXTINF:-1 tvg-ID="RMG" tvg-name="Record MG" tvg-logo="http://img.miptv.ws/Record.png" group-title="TV Aberta",Record MG
+http://a.srvbr.me:8880/marcela123/marcela123/7565
+#EXTINF:-1 tvg-ID="RMG" tvg-name="Record MG HD" tvg-logo="http://img.miptv.ws/Record.png" group-title="TV Aberta",Record MG HD
+http://a.srvbr.me:8880/marcela123/marcela123/7566
+#EXTINF:-1 tvg-ID="RJH" tvg-name="Record RJ" tvg-logo="http://img.miptv.ws/Record.png" group-title="TV Aberta",Record RJ
+http://a.srvbr.me:8880/marcela123/marcela123/7567
+#EXTINF:-1 tvg-ID="RJH" tvg-name="Record RJ HD" tvg-logo="http://img.miptv.ws/Record.png" group-title="TV Aberta",Record RJ HD
+http://a.srvbr.me:8880/marcela123/marcela123/7568
+#EXTINF:-1 tvg-ID="GUA" tvg-name="Record RS" tvg-logo="http://img.miptv.ws/Record.png" group-title="TV Aberta",Record RS
+http://a.srvbr.me:8880/marcela123/marcela123/11066
+#EXTINF:-1 tvg-ID="GUA" tvg-name="Record RS HD" tvg-logo="http://img.miptv.ws/Record.png" group-title="TV Aberta",Record RS HD
+http://a.srvbr.me:8880/marcela123/marcela123/11065
+#EXTINF:-1 tvg-ID="" tvg-name="Record Internacional" tvg-logo="https://img.miptv.ws/Record.png" group-title="Internacional",Record Internacional
+http://a.srvbr.me:8880/marcela123/marcela123/899
+#EXTINF:-1 tvg-ID="RCN" tvg-name="Record News" tvg-logo="http://img.miptv.ws/Record_News.png" group-title="Notícias",Record News
+http://a.srvbr.me:8880/marcela123/marcela123/762
+#EXTINF:-1 tvg-ID="TRV" tvg-name="RedeTV!" tvg-logo="http://img.miptv.ws/RedeTV!.png" group-title="TV Aberta",RedeTV!
+http://a.srvbr.me:8880/marcela123/marcela123/759
+#EXTINF:-1 tvg-ID="RTV" tvg-name="RedeTV! HD" tvg-logo="http://img.miptv.ws/RedeTV!.png" group-title="TV Aberta",RedeTV! HD
+http://a.srvbr.me:8880/marcela123/marcela123/758
+#EXTINF:-1 tvg-ID="RTV" tvg-name="RedeTV! HD [PLUS]" tvg-logo="http://img.miptv.ws/RedeTV!.png" group-title="TV Aberta",RedeTV! HD [PLUS]
+http://a.srvbr.me:8880/marcela123/marcela123/4119
+#EXTINF:-1 tvg-ID="VDA" tvg-name="Rede Vida" tvg-logo="http://img.miptv.ws/Rede_Vida.png" group-title="Religiosos",Rede Vida
+http://a.srvbr.me:8880/marcela123/marcela123/757
+#EXTINF:-1 tvg-ID="VDA" tvg-name="Rede Vida HD" tvg-logo="http://img.miptv.ws/Rede_Vida.png" group-title="Religiosos",Rede Vida HD
+http://a.srvbr.me:8880/marcela123/marcela123/5653
+#EXTINF:-1 tvg-ID="SBD" tvg-name="SBT" tvg-logo="http://img.miptv.ws/SBT.png" group-title="TV Aberta",SBT
+http://a.srvbr.me:8880/marcela123/marcela123/756
+#EXTINF:-1 tvg-ID="SBD" tvg-name="SBT HD" tvg-logo="http://img.miptv.ws/SBT.png" group-title="TV Aberta",SBT HD
+http://a.srvbr.me:8880/marcela123/marcela123/755
+#EXTINF:-1 tvg-ID="SBD" tvg-name="SBT Full HD" tvg-logo="http://img.miptv.ws/SBT.png" group-title="TV Aberta",SBT Full HD
+http://a.srvbr.me:8880/marcela123/marcela123/5465
+#EXTINF:-1 tvg-ID="SBD" tvg-name="SBT HD [PLUS]" tvg-logo="http://img.miptv.ws/SBT.png" group-title="TV Aberta",SBT HD [PLUS]
+http://a.srvbr.me:8880/marcela123/marcela123/1858
+#EXTINF:-1 tvg-ID="" tvg-name="SBT SP Interior" tvg-logo="http://img.miptv.ws/SBT_SP_HD.png" group-title="TV Aberta",SBT SP Interior
+http://a.srvbr.me:8880/marcela123/marcela123/5297
+#EXTINF:-1 tvg-ID="NOEPG English" tvg-name="Smithsonian Channel" tvg-logo="http://img.miptv.ws/smithsonianc1.png" group-title="Documentários",Smithsonian Channel
+http://a.srvbr.me:8880/marcela123/marcela123/11419
+#EXTINF:-1 tvg-ID="NOEPG English" tvg-name="Smithsonian Channel HD" tvg-logo="http://img.miptv.ws/smithsonianc1.png" group-title="Documentários",Smithsonian Channel HD
+http://a.srvbr.me:8880/marcela123/marcela123/11420
+#EXTINF:-1 tvg-ID="" tvg-name="RTP Internacional" tvg-logo="http://img.miptv.ws/RTP_Internacional.png" group-title="Internacional",RTP Internacional
+http://a.srvbr.me:8880/marcela123/marcela123/574
+#EXTINF:-1 tvg-ID="SPA" tvg-name="Space" tvg-logo="http://img.miptv.ws/Space_HD.png" group-title="Filmes e Séries",Space
+http://a.srvbr.me:8880/marcela123/marcela123/753
+#EXTINF:-1 tvg-ID="SPA" tvg-name="Space HD" tvg-logo="http://img.miptv.ws/Space_HD.png" group-title="Filmes e Séries",Space HD
+http://a.srvbr.me:8880/marcela123/marcela123/752
+#EXTINF:-1 tvg-ID="SPA" tvg-name="Space HD [PLUS]" tvg-logo="http://img.miptv.ws/Space_HD.png" group-title="Filmes e Séries",Space HD [PLUS]
+http://a.srvbr.me:8880/marcela123/marcela123/4114
+#EXTINF:-1 tvg-ID="SPO" tvg-name="SporTV" tvg-logo="http://img.miptv.ws/SporTV.png" group-title="Esportes",SporTV
+http://a.srvbr.me:8880/marcela123/marcela123/748
+#EXTINF:-1 tvg-ID="" tvg-name="SporTV HD" tvg-logo="http://img.miptv.ws/SporTV_3.png" group-title="Esportes",SporTV HD
+http://a.srvbr.me:8880/marcela123/marcela123/749
+#EXTINF:-1 tvg-ID="SPO" tvg-name="Sportv Full HD" tvg-logo="http://img.miptv.ws/SporTV.png" group-title="Esportes",Sportv Full HD
+http://a.srvbr.me:8880/marcela123/marcela123/5438
+#EXTINF:-1 tvg-ID="SPO" tvg-name="SporTV HD [PLUS]" tvg-logo="http://img.miptv.ws/SporTV_3.png" group-title="Esportes",SporTV HD [PLUS]
+http://a.srvbr.me:8880/marcela123/marcela123/1859
+#EXTINF:-1 tvg-ID="SP2" tvg-name="SporTV2" tvg-logo="http://img.miptv.ws/SporTV_2.png" group-title="Esportes",SporTV2
+http://a.srvbr.me:8880/marcela123/marcela123/747
+#EXTINF:-1 tvg-ID="SP2" tvg-name="SporTV2 HD" tvg-logo="http://img.miptv.ws/SporTV_2.png" group-title="Esportes",SporTV2 HD
+http://a.srvbr.me:8880/marcela123/marcela123/751
+#EXTINF:-1 tvg-ID="SP2" tvg-name="Sportv 2 Full HD" tvg-logo="http://img.miptv.ws/SporTV_2.png" group-title="Esportes",Sportv 2 Full HD
+http://a.srvbr.me:8880/marcela123/marcela123/5439
+#EXTINF:-1 tvg-ID="SP2" tvg-name="SporTV2 HD [PLUS]" tvg-logo="http://img.miptv.ws/SporTV_2.png" group-title="Esportes",SporTV2 HD [PLUS]
+http://a.srvbr.me:8880/marcela123/marcela123/1860
+#EXTINF:-1 tvg-ID="SP3" tvg-name="SporTV3" tvg-logo="http://img.miptv.ws/SporTV_3.png" group-title="Esportes",SporTV3
+http://a.srvbr.me:8880/marcela123/marcela123/745
+#EXTINF:-1 tvg-ID="SP3" tvg-name="SporTV3 HD" tvg-logo="http://img.miptv.ws/SporTV_3.png" group-title="Esportes",SporTV3 HD
+http://a.srvbr.me:8880/marcela123/marcela123/750
+#EXTINF:-1 tvg-ID="SP3" tvg-name="Sportv 3 Full HD" tvg-logo="http://img.miptv.ws/SporTV_3.png" group-title="Esportes",Sportv 3 Full HD
+http://a.srvbr.me:8880/marcela123/marcela123/5440
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTV 4 SD" tvg-logo="" group-title="Esportes",SPORTV 4 SD
+http://a.srvbr.me:8880/marcela123/marcela123/14913
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTV 4 HD" tvg-logo="" group-title="Esportes",SPORTV 4 HD
+http://a.srvbr.me:8880/marcela123/marcela123/14914
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTV 4 FHD" tvg-logo="" group-title="Esportes",SPORTV 4 FHD
+http://a.srvbr.me:8880/marcela123/marcela123/14915
+#EXTINF:-1 tvg-ID="SP3" tvg-name="SporTV3 HD [PLUS]" tvg-logo="http://img.miptv.ws/SporTV_3.png" group-title="Esportes",SporTV3 HD [PLUS]
+http://a.srvbr.me:8880/marcela123/marcela123/1861
+#EXTINF:-1 tvg-ID="HAL" tvg-name="Studio Universal" tvg-logo="http://img.miptv.ws/Studio_Universal_HD.png" group-title="Filmes e Séries",Studio Universal
+http://a.srvbr.me:8880/marcela123/marcela123/743
+#EXTINF:-1 tvg-ID="HAL" tvg-name="Studio Universal HD" tvg-logo="http://img.miptv.ws/Studio_Universal.png" group-title="Filmes e Séries",Studio Universal HD
+http://a.srvbr.me:8880/marcela123/marcela123/1480
+#EXTINF:-1 tvg-ID="HAL" tvg-name="Studio Universal HD [PLUS]" tvg-logo="http://img.miptv.ws/Studio_Universal_HD.png" group-title="Filmes e Séries",Studio Universal HD [PLUS]
+http://a.srvbr.me:8880/marcela123/marcela123/4113
+#EXTINF:-1 tvg-ID="SUN" tvg-name="SundanceTV" tvg-logo="http://img.miptv.ws/Sundance_TV.jpg" group-title="Variedades",SundanceTV
+http://a.srvbr.me:8880/marcela123/marcela123/5296
+#EXTINF:-1 tvg-ID="SUN" tvg-name="SundanceTV HD" tvg-logo="http://img.miptv.ws/Sundance_TV.jpg" group-title="Variedades",SundanceTV HD
+http://a.srvbr.me:8880/marcela123/marcela123/5295
+#EXTINF:-1 tvg-ID="SCI" tvg-name="Syfy" tvg-logo="http://img.miptv.ws/Syfy.png" group-title="Filmes e Séries",Syfy
+http://a.srvbr.me:8880/marcela123/marcela123/742
+#EXTINF:-1 tvg-ID="SCI" tvg-name="Syfy HD" tvg-logo="http://img.miptv.ws/Syfy.png" group-title="Filmes e Séries",Syfy HD
+http://a.srvbr.me:8880/marcela123/marcela123/1483
+#EXTINF:-1 tvg-ID="SCI" tvg-name="SyFy HD [PLUS]" tvg-logo="http://img.miptv.ws/Syfy.png" group-title="Filmes e Séries",SyFy HD [PLUS]
+http://a.srvbr.me:8880/marcela123/marcela123/4111
+#EXTINF:-1 tvg-ID="TBS" tvg-name="TBS" tvg-logo="http://img.miptv.ws/TBS.png" group-title="Filmes e Séries",TBS
+http://a.srvbr.me:8880/marcela123/marcela123/741
+#EXTINF:-1 tvg-ID="TBS" tvg-name="TBS HD" tvg-logo="http://img.miptv.ws/TBS.png" group-title="Filmes e Séries",TBS HD
+http://a.srvbr.me:8880/marcela123/marcela123/740
+#EXTINF:-1 tvg-ID="TBS" tvg-name="TBS [PLUS]" tvg-logo="http://img.miptv.ws/TBS.png" group-title="Filmes e Séries",TBS [PLUS]
+http://a.srvbr.me:8880/marcela123/marcela123/4110
+#EXTINF:-1 tvg-ID="TCM" tvg-name="TCM" tvg-logo="http://img.miptv.ws/TCM.png" group-title="Filmes e Séries",TCM
+http://a.srvbr.me:8880/marcela123/marcela123/734
+#EXTINF:-1 tvg-ID="TCM" tvg-name="TCM HD [PLUS]" tvg-logo="http://img.miptv.ws/TCM.png" group-title="Filmes e Séries",TCM HD [PLUS]
+http://a.srvbr.me:8880/marcela123/marcela123/4109
+#EXTINF:-1 tvg-ID="" tvg-name="TCV INTERNACIONAL" tvg-logo="http://img.miptv.ws/TCV_Internacional.png" group-title="Internacional",TCV INTERNACIONAL
+http://a.srvbr.me:8880/marcela123/marcela123/983
+#EXTINF:-1 tvg-ID="TC2" tvg-name="Telecine Action" tvg-logo="http://img.miptv.ws/Telecine_Action_HD.png" group-title="Filmes e Séries",Telecine Action
+http://a.srvbr.me:8880/marcela123/marcela123/733
+#EXTINF:-1 tvg-ID="TC2" tvg-name="Telecine Action HD" tvg-logo="http://img.miptv.ws/Telecine_Action_HD.png" group-title="Filmes e Séries",Telecine Action HD
+http://a.srvbr.me:8880/marcela123/marcela123/739
+#EXTINF:-1 tvg-ID="TC2" tvg-name="Telecine Action Full HD" tvg-logo="http://img.miptv.ws/Telecine_Action.png" group-title="Filmes e Séries",Telecine Action Full HD
+http://a.srvbr.me:8880/marcela123/marcela123/5464
+#EXTINF:-1 tvg-ID="T2H" tvg-name="Telecine Action HD [PLUS]" tvg-logo="http://img.miptv.ws/Telecine_Action_HD.png" group-title="Filmes e Séries",Telecine Action HD [PLUS]
+http://a.srvbr.me:8880/marcela123/marcela123/1862
+#EXTINF:-1 tvg-ID="TC5" tvg-name="Telecine Cult" tvg-logo="http://img.miptv.ws/Telecine_Cult.png" group-title="Filmes e Séries",Telecine Cult
+http://a.srvbr.me:8880/marcela123/marcela123/732
+#EXTINF:-1 tvg-ID="TC5" tvg-name="Telecine Cult HD" tvg-logo="http://img.miptv.ws/Telecine_Cult.png" group-title="Filmes e Séries",Telecine Cult HD
+http://a.srvbr.me:8880/marcela123/marcela123/1482
+#EXTINF:-1 tvg-ID="TC5" tvg-name="Telecine Cult HD [PLUS]" tvg-logo="http://img.miptv.ws/Telecine_Cult.png" group-title="Filmes e Séries",Telecine Cult HD [PLUS]
+http://a.srvbr.me:8880/marcela123/marcela123/4108
+#EXTINF:-1 tvg-ID="TC6" tvg-name="Telecine Fun" tvg-logo="http://img.miptv.ws/Telecine_Fun_HD.png" group-title="Filmes e Séries",Telecine Fun
+http://a.srvbr.me:8880/marcela123/marcela123/731
+#EXTINF:-1 tvg-ID="TC6" tvg-name="Telecine Fun HD" tvg-logo="http://img.miptv.ws/Telecine_Fun_HD.png" group-title="Filmes e Séries",Telecine Fun HD
+http://a.srvbr.me:8880/marcela123/marcela123/738
+#EXTINF:-1 tvg-ID="TC6" tvg-name="Telecine Fun Full HD" tvg-logo="http://img.miptv.ws/Telecine_Fun.png" group-title="Filmes e Séries",Telecine Fun Full HD
+http://a.srvbr.me:8880/marcela123/marcela123/5463
+#EXTINF:-1 tvg-ID="T6H" tvg-name="Telecine Fun HD [PLUS]" tvg-logo="http://img.miptv.ws/Telecine_Fun_HD.png" group-title="Filmes e Séries",Telecine Fun HD [PLUS]
+http://a.srvbr.me:8880/marcela123/marcela123/1863
+#EXTINF:-1 tvg-ID="TC4" tvg-name="Telecine Pipoca" tvg-logo="http://img.miptv.ws/Telecine_Pipoca_HD.png" group-title="Filmes e Séries",Telecine Pipoca
+http://a.srvbr.me:8880/marcela123/marcela123/730
+#EXTINF:-1 tvg-ID="TC4" tvg-name="Telecine Pipoca HD" tvg-logo="http://img.miptv.ws/Telecine_Pipoca_HD.png" group-title="Filmes e Séries",Telecine Pipoca HD
+http://a.srvbr.me:8880/marcela123/marcela123/737
+#EXTINF:-1 tvg-ID="TC4" tvg-name="Telecine Pipoca Full HD" tvg-logo="http://img.miptv.ws/Telecine_Pipoca.png" group-title="Filmes e Séries",Telecine Pipoca Full HD
+http://a.srvbr.me:8880/marcela123/marcela123/5462
+#EXTINF:-1 tvg-ID="T4H" tvg-name="Telecine Pipoca HD [PLUS]" tvg-logo="http://img.miptv.ws/Telecine_Pipoca_HD.png" group-title="Filmes e Séries",Telecine Pipoca HD [PLUS]
+http://a.srvbr.me:8880/marcela123/marcela123/1864
+#EXTINF:-1 tvg-ID="TC1" tvg-name="Telecine Premium" tvg-logo="http://img.miptv.ws/Telecine_Premium_HD.png" group-title="Filmes e Séries",Telecine Premium
+http://a.srvbr.me:8880/marcela123/marcela123/729
+#EXTINF:-1 tvg-ID="TC1" tvg-name="Telecine Premium HD" tvg-logo="http://img.miptv.ws/Telecine_Premium_HD.png" group-title="Filmes e Séries",Telecine Premium HD
+http://a.srvbr.me:8880/marcela123/marcela123/736
+#EXTINF:-1 tvg-ID="TC1" tvg-name="Telecine Premium Full HD" tvg-logo="http://img.miptv.ws/Telecine_Premium.png" group-title="Filmes e Séries",Telecine Premium Full HD
+http://a.srvbr.me:8880/marcela123/marcela123/5461
+#EXTINF:-1 tvg-ID="TCH" tvg-name="Telecine Premium HD [PLUS]" tvg-logo="http://img.miptv.ws/Telecine_Premium_HD.png" group-title="Filmes e Séries",Telecine Premium HD [PLUS]
+http://a.srvbr.me:8880/marcela123/marcela123/1865
+#EXTINF:-1 tvg-ID="TC3" tvg-name="Telecine Touch" tvg-logo="http://img.miptv.ws/Telecine_Touch_HD.png" group-title="Filmes e Séries",Telecine Touch
+http://a.srvbr.me:8880/marcela123/marcela123/728
+#EXTINF:-1 tvg-ID="TC3" tvg-name="Telecine Touch HD" tvg-logo="http://img.miptv.ws/Telecine_Touch_HD.png" group-title="Filmes e Séries",Telecine Touch HD
+http://a.srvbr.me:8880/marcela123/marcela123/735
+#EXTINF:-1 tvg-ID="TC3" tvg-name="Telecine Touch Full HD" tvg-logo="http://img.miptv.ws/Telecine_Touch.png" group-title="Filmes e Séries",Telecine Touch Full HD
+http://a.srvbr.me:8880/marcela123/marcela123/5460
+#EXTINF:-1 tvg-ID="T3H" tvg-name="Telecine Touch HD [PLUS]" tvg-logo="http://img.miptv.ws/Telecine_Touch_HD.png" group-title="Filmes e Séries",Telecine Touch HD [PLUS]
+http://a.srvbr.me:8880/marcela123/marcela123/1866
+#EXTINF:-1 tvg-ID="TVV" tvg-name="Terra Viva" tvg-logo="http://img.miptv.ws/Terra_Viva.png" group-title="TV Aberta",Terra Viva
+http://a.srvbr.me:8880/marcela123/marcela123/727
+#EXTINF:-1 tvg-ID="TRV" tvg-name="TLC" tvg-logo="http://img.miptv.ws/TLC.png" group-title="Variedades",TLC
+http://a.srvbr.me:8880/marcela123/marcela123/725
+#EXTINF:-1 tvg-ID="TRV" tvg-name="TLC HD" tvg-logo="http://img.miptv.ws/TLC.png" group-title="Variedades",TLC HD
+http://a.srvbr.me:8880/marcela123/marcela123/1481
+#EXTINF:-1 tvg-ID="TRV" tvg-name="TLC HD [PLUS]" tvg-logo="http://img.miptv.ws/TLC.png" group-title="Variedades",TLC HD [PLUS]
+http://a.srvbr.me:8880/marcela123/marcela123/1867
+#EXTINF:-1 tvg-ID="JUS" tvg-name="TV Justica" tvg-logo="http://img.miptv.ws/TV_Justica.png" group-title="TV Aberta",TV Justica
+http://a.srvbr.me:8880/marcela123/marcela123/5293
+#EXTINF:-1 tvg-ID="TNT" tvg-name="TNT" tvg-logo="http://img.miptv.ws/TNT.png" group-title="Filmes e Séries",TNT
+http://a.srvbr.me:8880/marcela123/marcela123/724
+#EXTINF:-1 tvg-ID="TNT" tvg-name="TNT HD" tvg-logo="http://img.miptv.ws/TNT.png" group-title="Filmes e Séries",TNT HD
+http://a.srvbr.me:8880/marcela123/marcela123/723
+#EXTINF:-1 tvg-ID="TNT" tvg-name="TNT HD [PLUS]" tvg-logo="http://img.miptv.ws/TNT.png" group-title="Filmes e Séries",TNT HD [PLUS]
+http://a.srvbr.me:8880/marcela123/marcela123/1868
+#EXTINF:-1 tvg-ID="TNS" tvg-name="TNT Séries" tvg-logo="http://img.miptv.ws/TNT_Series.png" group-title="Filmes e Séries",TNT Séries
+http://a.srvbr.me:8880/marcela123/marcela123/722
+#EXTINF:-1 tvg-ID="TNS" tvg-name="TNT Séries HD" tvg-logo="http://img.miptv.ws/TNT_Series.png" group-title="Filmes e Séries",TNT Séries HD
+http://a.srvbr.me:8880/marcela123/marcela123/721
+#EXTINF:-1 tvg-ID="TNS" tvg-name="TNT Series HD [PLUS]" tvg-logo="http://img.miptv.ws/TNT_Series.png" group-title="Filmes e Séries",TNT Series HD [PLUS]
+http://a.srvbr.me:8880/marcela123/marcela123/4107
+#EXTINF:-1 tvg-ID="NOEPG English" tvg-name="PlayKids" tvg-logo="http://img.miptv.ws/PlayKids.jpg" group-title="Infantil",PlayKids
+http://a.srvbr.me:8880/marcela123/marcela123/7563
+#EXTINF:-1 tvg-ID="NOEPG English" tvg-name="PlayKids HD" tvg-logo="http://img.miptv.ws/PlayKids.jpg" group-title="Infantil",PlayKids HD
+http://a.srvbr.me:8880/marcela123/marcela123/7564
+#EXTINF:-1 tvg-ID="TOC" tvg-name="Tooncast" tvg-logo="http://img.miptv.ws/Tooncast.png" group-title="Infantil",Tooncast
+http://a.srvbr.me:8880/marcela123/marcela123/720
+#EXTINF:-1 tvg-ID="TOC" tvg-name="Tooncast HD [PLUS]" tvg-logo="http://img.miptv.ws/Tooncast.png" group-title="Infantil",Tooncast HD [PLUS]
+http://a.srvbr.me:8880/marcela123/marcela123/4106
+#EXTINF:-1 tvg-ID="TRU" tvg-name="TruTV" tvg-logo="http://img.miptv.ws/TruTV.png" group-title="Variedades",TruTV
+http://a.srvbr.me:8880/marcela123/marcela123/719
+#EXTINF:-1 tvg-ID="TRU" tvg-name="TruTV HD" tvg-logo="http://img.miptv.ws/TruTV.png" group-title="Variedades",TruTV HD
+http://a.srvbr.me:8880/marcela123/marcela123/5291
+#EXTINF:-1 tvg-ID="APA" tvg-name="TV Aparecida" tvg-logo="http://img.miptv.ws/TV_Aparecida.png" group-title="Religiosos",TV Aparecida
+http://a.srvbr.me:8880/marcela123/marcela123/895
+#EXTINF:-1 tvg-ID="CUL" tvg-name="TV Cultura" tvg-logo="http://img.miptv.ws/TV_Cultura.png" group-title="Variedades",TV Cultura
+http://a.srvbr.me:8880/marcela123/marcela123/5161
+#EXTINF:-1 tvg-ID="CUL" tvg-name="TV Cultura HD" tvg-logo="http://img.miptv.ws/TV_Cultura.png" group-title="Variedades",TV Cultura HD
+http://a.srvbr.me:8880/marcela123/marcela123/5656
+#EXTINF:-1 tvg-ID="TED" tvg-name="TV Brasil" tvg-logo="http://img.miptv.ws/TV_Brasil.png" group-title="TV Aberta",TV Brasil
+http://a.srvbr.me:8880/marcela123/marcela123/717
+#EXTINF:-1 tvg-ID="CAM" tvg-name="TV Câmara" tvg-logo="http://img.miptv.ws/TV_Camara.png" group-title="TV Aberta",TV Câmara
+http://a.srvbr.me:8880/marcela123/marcela123/602
+#EXTINF:-1 tvg-ID="TDF" tvg-name="TV Diário Fortaleza" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/TV_Di%C3%A1rio_logo.svg/200px-TV_Di%C3%A1rio_logo.svg.png" group-title="TV Aberta",TV Diário Fortaleza
+http://a.srvbr.me:8880/marcela123/marcela123/11063
+#EXTINF:-1 tvg-ID="TDF" tvg-name="TV Diário Fortaleza HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/TV_Di%C3%A1rio_logo.svg/200px-TV_Di%C3%A1rio_logo.svg.png" group-title="TV Aberta",TV Diário Fortaleza HD
+http://a.srvbr.me:8880/marcela123/marcela123/11062
+#EXTINF:-1 tvg-ID="RTB" tvg-name="TV Rá Tim Bum" tvg-logo="http://img.miptv.ws/TV_Ra_Tim_Bum.png" group-title="Infantil",TV Rá Tim Bum
+http://a.srvbr.me:8880/marcela123/marcela123/715
+#EXTINF:-1 tvg-ID="RTB" tvg-name="TV Ra Tim Bum HD" tvg-logo="http://img.miptv.ws/TV_Ra_Tim_Bum.png" group-title="Infantil",TV Ra Tim Bum HD
+http://a.srvbr.me:8880/marcela123/marcela123/5292
+#EXTINF:-1 tvg-ID="USA" tvg-name="Universal Channel" tvg-logo="http://img.miptv.ws/Universal_Channel.png" group-title="Filmes e Séries",Universal Channel
+http://a.srvbr.me:8880/marcela123/marcela123/711
+#EXTINF:-1 tvg-ID="USA" tvg-name="Universal Channel HD" tvg-logo="http://img.miptv.ws/Universal_Channel.png" group-title="Filmes e Séries",Universal Channel HD
+http://a.srvbr.me:8880/marcela123/marcela123/710
+#EXTINF:-1 tvg-ID="USA" tvg-name="Universal Channel HD [PLUS]" tvg-logo="http://img.miptv.ws/Universal_Channel.png" group-title="Filmes e Séries",Universal Channel HD [PLUS]
+http://a.srvbr.me:8880/marcela123/marcela123/4103
+#EXTINF:-1 tvg-ID="VH1" tvg-name="VH1" tvg-logo="http://img.miptv.ws/VH1.png" group-title="Variedades",VH1
+http://a.srvbr.me:8880/marcela123/marcela123/5290
+#EXTINF:-1 tvg-ID="VH1" tvg-name="VH1 HD" tvg-logo="http://img.miptv.ws/VH1.png" group-title="Variedades",VH1 HD
+http://a.srvbr.me:8880/marcela123/marcela123/1479
+#EXTINF:-1 tvg-ID="VH1" tvg-name="VH1 HD [PLUS]" tvg-logo="http://img.miptv.ws/VH1_Channel.png" group-title="Variedades",VH1 HD [PLUS]
+http://a.srvbr.me:8880/marcela123/marcela123/4101
+#EXTINF:-1 tvg-ID="MTH" tvg-name="VH1 Mega Hits" tvg-logo="http://img.miptv.ws/VH1_MegaHits.png" group-title="Variedades",VH1 Mega Hits
+http://a.srvbr.me:8880/marcela123/marcela123/709
+#EXTINF:-1 tvg-ID="VIV" tvg-name="Viva" tvg-logo="http://img.miptv.ws/Viva.png" group-title="Variedades",Viva
+http://a.srvbr.me:8880/marcela123/marcela123/708
+#EXTINF:-1 tvg-ID="VIV" tvg-name="Viva HD" tvg-logo="http://img.miptv.ws/Viva.png" group-title="Variedades",Viva HD
+http://a.srvbr.me:8880/marcela123/marcela123/707
+#EXTINF:-1 tvg-ID="VIV" tvg-name="Viva Full HD" tvg-logo="http://img.miptv.ws/Viva.png" group-title="Variedades",Viva Full HD
+http://a.srvbr.me:8880/marcela123/marcela123/5437
+#EXTINF:-1 tvg-ID="VIV" tvg-name="Viva HD [PLUS]" tvg-logo="http://img.miptv.ws/Viva.png" group-title="Variedades",Viva HD [PLUS]
+http://a.srvbr.me:8880/marcela123/marcela123/4100
+#EXTINF:-1 tvg-ID="WBT" tvg-name="Warner Channel" tvg-logo="http://img.miptv.ws/Warner_Channel.png" group-title="Filmes e Séries",Warner Channel
+http://a.srvbr.me:8880/marcela123/marcela123/706
+#EXTINF:-1 tvg-ID="WBT" tvg-name="Warner Channel HD" tvg-logo="http://img.miptv.ws/Warner_Channel.png" group-title="Filmes e Séries",Warner Channel HD
+http://a.srvbr.me:8880/marcela123/marcela123/705
+#EXTINF:-1 tvg-ID="WBT" tvg-name="Warner Full HD" tvg-logo="http://img.miptv.ws/Warner_Channel.png" group-title="Filmes e Séries",Warner Full HD
+http://a.srvbr.me:8880/marcela123/marcela123/5425
+#EXTINF:-1 tvg-ID="WBT" tvg-name="Warner Channel HD [PLUS]" tvg-logo="http://img.miptv.ws/Warner_Channel.png" group-title="Filmes e Séries",Warner Channel HD [PLUS]
+http://a.srvbr.me:8880/marcela123/marcela123/4099
+#EXTINF:-1 tvg-ID="WOO" tvg-name="Woohoo" tvg-logo="http://img.miptv.ws/Woohoo.png" group-title="Esportes",Woohoo
+http://a.srvbr.me:8880/marcela123/marcela123/704
+#EXTINF:-1 tvg-ID="WOO" tvg-name="Woohoo HD" tvg-logo="http://img.miptv.ws/Woohoo.png" group-title="Esportes",Woohoo HD
+http://a.srvbr.me:8880/marcela123/marcela123/5657
+#EXTINF:-1 tvg-ID="" tvg-name="Sertanejo Universitário" tvg-logo="" group-title="Rádios",Sertanejo Universitário
+http://a.srvbr.me:8880/marcela123/marcela123/913
+#EXTINF:-1 tvg-ID="NOEPG English" tvg-name="Pica Pau" tvg-logo="http://img.miptv.ws/movies/Ana4VWt.jpg" group-title="Canais 24 Horas",Pica Pau
+http://a.srvbr.me:8880/marcela123/marcela123/5114
+#EXTINF:-1 tvg-ID="NOEPG English" tvg-name="Pokemon Sun and Moon 1º Temporada 2018" tvg-logo="http://img.miptv.ws/movies/pokemonsunandmon.jpg" group-title="Canais 24 Horas",Pokemon Sun and Moon 1º Temporada 2018
+http://a.srvbr.me:8880/marcela123/marcela123/5275
+#EXTINF:-1 tvg-ID="NOEPG English" tvg-name="Dragon Ball Super" tvg-logo="http://img.miptv.ws/movies/250px-Dragon_Ball_Super_artwork.jpg" group-title="Canais 24 Horas",Dragon Ball Super
+http://a.srvbr.me:8880/marcela123/marcela123/5277
+#EXTINF:-1 tvg-ID="NOEPG English" tvg-name="A.I.C.O. Incarnation 2018" tvg-logo="http://img.miptv.ws/movies/encarnation.jpg" group-title="Canais 24 Horas",A.I.C.O. Incarnation 2018
+http://a.srvbr.me:8880/marcela123/marcela123/5276
+#EXTINF:-1 tvg-ID="NOEPG English" tvg-name="Tom & Jerry" tvg-logo="http://img.miptv.ws/movies/Tom-And-Jerry-Cartoon-New-High-Quality-Picture-2.jpg" group-title="Canais 24 Horas",Tom & Jerry
+http://a.srvbr.me:8880/marcela123/marcela123/5115
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV RIO SUL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO TV RIO SUL HD
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32155
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO² AMAZONAS SD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO² AMAZONAS SD
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32157
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO² ANHANGUERA GOIANIA SD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO² ANHANGUERA GOIANIA SD
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32158
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO² BRASILIA SD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO² BRASILIA SD
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32159
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO² EPTV CAMPINAS HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO² EPTV CAMPINAS HD
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32161
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO² INTERNACIONAL SD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO² INTERNACIONAL SD
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32163
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO² MINAS SD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO² MINAS SD
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32164
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO² NORDESTE HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO² NORDESTE HD
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32165
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO² NSC FLORIANOPOLIS HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO² NSC FLORIANOPOLIS HD
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32167
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO² RBS PORTO ALEGRE SD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO² RBS PORTO ALEGRE SD
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32168
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO² RIBEIRÃO PRETO SD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO² RIBEIRÃO PRETO SD
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32169
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO² RJ HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5885d823ad13eadd64a8a8f05c795956.png" group-title="CANAIS: GLOBO",GLOBO² RJ HD
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32170
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO² RPC TV HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO² RPC TV HD
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32172
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO² SP HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO² SP HD
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32174
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO² SP SD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO² SP SD
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32175
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO² TV BAHIA SD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO² TV BAHIA SD
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32176
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO² TV Sergipe HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO² TV Sergipe HD
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32178
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO² TV TEM BAURU SD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO² TV TEM BAURU SD
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32179
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO² TV Tem Rio Preto SD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO² TV Tem Rio Preto SD
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32180
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO² TV TEM SOROCABA SD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO² TV TEM SOROCABA SD
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32181
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO² TV VANGUARDA S.J DOS CAMPOS SD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO² TV VANGUARDA S.J DOS CAMPOS SD
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32182
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO² TV VERDES MARES FORTALEZA SD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO² TV VERDES MARES FORTALEZA SD
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32183
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO³  NSC JOINVILLE  HDD SC" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO³  NSC JOINVILLE  HDD SC
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32184
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ BRASILIA FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO³ BRASILIA FULL HD
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32191
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ CHAPECO HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO³ CHAPECO HD
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32194
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ CURITIBA FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO³ CURITIBA FULL HD
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32198
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ EPTV CAMPINAS FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO³ EPTV CAMPINAS FULL HD
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32203
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ EPTV RIBEIRAO PRETO SD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO³ EPTV RIBEIRAO PRETO SD
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32206
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ FLORIANOPOLIS FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO³ FLORIANOPOLIS FULL HD
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32208
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ FOZ DO IGUAÇU FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO³ FOZ DO IGUAÇU FULL HD
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32215
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ FULLHD SP H.265" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO³ FULLHD SP H.265
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32216
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ GAZETA SUL ALEGRE ES FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO³ GAZETA SUL ALEGRE ES FULL HD
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32217
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ GAZETA VITORIA SD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO³ GAZETA VITORIA SD
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32220
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ GOIANIA FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO³ GOIANIA FULL HD
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32221
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ GOIANIA SD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO³ GOIANIA SD
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32223
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ INTEGRACAO ARAXA HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO³ INTEGRACAO ARAXA HD
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32224
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ INTER TV  CABUGI FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO³ INTER TV  CABUGI FULLHD
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32226
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ INTER TV ALTO LITORAL FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO³ INTER TV ALTO LITORAL FULL HD
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32227
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ INTER TV CABUGI SD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO³ INTER TV CABUGI SD
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32230
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ NORDESTE FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO³ NORDESTE FULL HD
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32241
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ NSC CHAPECO FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO³ NSC CHAPECO FULLHD
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32243
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ NSC JOINVILLE  FULLHD SC" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO³ NSC JOINVILLE  FULLHD SC
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32244
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ PORTO ALEGRE FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO³ PORTO ALEGRE FULL HD
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32247
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ RBS TV CAXIAS DO SUL FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO³ RBS TV CAXIAS DO SUL FULL HD
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32251
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ RPC MARINGA FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO³ RPC MARINGA FULLHD
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32265
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ RPC PONTA GROSSA FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO³ RPC PONTA GROSSA FULLHD
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32266
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ RPC TV PARANAVAI FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO³ RPC TV PARANAVAI FULL HD
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32267
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ SP FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO³ SP FULL HD
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32276
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ TV ASA BRANCA FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO³ TV ASA BRANCA FULL HD
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32279
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ TV CABO BRANCO FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO³ TV CABO BRANCO FULL HD
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32281
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ TV CENTRO AMERICA HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO³ TV CENTRO AMERICA HD
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32284
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ TV CLUBE PI HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO³ TV CLUBE PI HD
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32286
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ TV GAZETA ALAGOAS FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO³ TV GAZETA ALAGOAS FULLHD
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32290
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ TV GAZETA VITORIA FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO³ TV GAZETA VITORIA FULLHD
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32291
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ TV INTER CABUGI HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO³ TV INTER CABUGI HD
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32297
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ TV MIRANTE FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO³ TV MIRANTE FULL HD
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32298
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ TV MIRANTE" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO³ TV MIRANTE
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32300
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ TV RIO SUL FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO³ TV RIO SUL FULL HD
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32301
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ TV SANTA CRUZ FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO³ TV SANTA CRUZ FULLHD
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32304
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ TV SERGIPE FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO³ TV SERGIPE FULL HD
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32307
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ tv sergipe sd" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO³ tv sergipe sd
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32309
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ CENTRO AMÉRICA FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO¹ CENTRO AMÉRICA FULLHD
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32319
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ EPTV CAMPINAS FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO¹ EPTV CAMPINAS FULL HD
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32320
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ EPTV SUL DE MINAS FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO¹ EPTV SUL DE MINAS FULL HD
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32323
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ INTER TV ALTO LITORAL FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO¹ INTER TV ALTO LITORAL FULLHD
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32325
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ INTER TV CABUGI FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO¹ INTER TV CABUGI FULLHD
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32326
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ INTER TV DOS VALES FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO¹ INTER TV DOS VALES FULLHD
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32327
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ INTER TV GRANDE MINAS FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO¹ INTER TV GRANDE MINAS FULLHD
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32328
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ MINAS FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO¹ MINAS FULLHD
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32330
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ MINAS HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO¹ MINAS HD
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32331
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ NACIONAL FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO¹ NACIONAL FULLHD
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32333
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ NORDESTE FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO¹ NORDESTE FULL HD
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32335
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ NSC FLORIANÓPOLIS FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO¹ NSC FLORIANÓPOLIS FULL HD
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32339
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ NSC TV BLUMENAU FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO¹ NSC TV BLUMENAU FULLHD
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32340
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ NSC TV CRICIÚMA FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO¹ NSC TV CRICIÚMA FULLHD
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32341
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ RBS CAXIAS DO SUL FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO¹ RBS CAXIAS DO SUL FULLHD
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32343
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ RBS TV POA FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO¹ RBS TV POA FULLHD
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32344
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ RBS TV POA HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO¹ RBS TV POA HD
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32345
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ REDE AMAZONICA FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO¹ REDE AMAZONICA FULLHD
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32347
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ RJ FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5885d823ad13eadd64a8a8f05c795956.png" group-title="CANAIS: GLOBO",GLOBO¹ RJ FULL HD
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32348
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ RPC CURITIBA FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO¹ RPC CURITIBA FULLHD
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32351
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ RPC FOZ DO IGUAÇU FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO¹ RPC FOZ DO IGUAÇU FULLHD
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32352
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ RPC MARINGÁ FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO¹ RPC MARINGÁ FULLHD
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32353
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ RPC PARANAENSE FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO¹ RPC PARANAENSE FULL HD
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32354
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ RPC PONTA GROSSA FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO¹ RPC PONTA GROSSA FULLHD
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32356
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ RPC TV CURITIBA SD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO¹ RPC TV CURITIBA SD
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32357
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ SP FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO¹ SP FULL HD
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32358
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ SP HD¹" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO¹ SP HD¹
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32360
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ TV ANHANGUERA FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO¹ TV ANHANGUERA FULL HD
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32362
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ TV ASA BRANCA FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO¹ TV ASA BRANCA FULL HD
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32365
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ TV BAHIA FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO¹ TV BAHIA FULL HD
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32367
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ TV BRASILIA FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO¹ TV BRASILIA FULLHD
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32370
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ TV CABO BRANCO FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO¹ TV CABO BRANCO FULLHD
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32371
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ TV CENTRO AMÉRICA SD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO¹ TV CENTRO AMÉRICA SD
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32372
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ TV CLUBE TERESINA FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO¹ TV CLUBE TERESINA FULLHD
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32373
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ TV GAZETA DE ALAGOAS FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO¹ TV GAZETA DE ALAGOAS FULLHD
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32374
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ TV GAZETA ES FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO¹ TV GAZETA ES FULLHD
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32375
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ TV INTEGRAÇÃO JUIZ DE FORA FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO¹ TV INTEGRAÇÃO JUIZ DE FORA FULLHD
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32376
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ TV MIRANTE FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO¹ TV MIRANTE FULL HD
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32380
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ TV MORENA FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO¹ TV MORENA FULL HD
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32383
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ TV RECIFE FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO¹ TV RECIFE FULLHD
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32386
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ TV RIO SUL FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO¹ TV RIO SUL FULL HD
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32387
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ TV SANTA CRUZ FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO¹ TV SANTA CRUZ FULL HD
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32389
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ TV SERGIPE FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO¹ TV SERGIPE FULLHD
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32391
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ TV VERDES MARES FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO¹ TV VERDES MARES FULL HD
+http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32393
+
