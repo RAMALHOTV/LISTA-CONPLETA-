@@ -1,1086 +1,691 @@
 #EXTM3U
-#EXTINF:-1 tvg-ID="MDH" tvg-name="A&E" tvg-logo="http://img.miptv.ws/A&E.png" group-title="Filmes e Séries",A&E
-http://a.srvbr.me:8880/marcela123/marcela123/898
-#EXTINF:-1 tvg-ID="MDH" tvg-name="A&E HD" tvg-logo="http://img.miptv.ws/A&E.png" group-title="Filmes e Séries",A&E HD
-http://a.srvbr.me:8880/marcela123/marcela123/4203
-#EXTINF:-1 tvg-ID="MDH" tvg-name="A&E [PLUS]" tvg-logo="http://img.miptv.ws/A&E.png" group-title="Filmes e Séries",A&E [PLUS]
-http://a.srvbr.me:8880/marcela123/marcela123/4167
-#EXTINF:-1 tvg-ID="MGH" tvg-name="AMC" tvg-logo="http://img.miptv.ws/AMC_HD.png" group-title="Filmes e Séries",AMC
-http://a.srvbr.me:8880/marcela123/marcela123/5077
-#EXTINF:-1 tvg-ID="MGM" tvg-name="AMC HD" tvg-logo="http://img.miptv.ws/AMC_HD.png" group-title="Filmes e Séries",AMC HD
-http://a.srvbr.me:8880/marcela123/marcela123/5076
-#EXTINF:-1 tvg-ID="MGH" tvg-name="AMC [PLUS]" tvg-logo="http://img.miptv.ws/AMC_HD.png" group-title="Filmes e Séries",AMC [PLUS]
-http://a.srvbr.me:8880/marcela123/marcela123/4644
-#EXTINF:-1 tvg-ID="AXN" tvg-name="AXN" tvg-logo="http://img.miptv.ws/AXN_HD.png" group-title="Filmes e Séries",AXN
-http://a.srvbr.me:8880/marcela123/marcela123/893
-#EXTINF:-1 tvg-ID="AXN" tvg-name="AXN HD" tvg-logo="http://img.miptv.ws/AXN_HD.png" group-title="Filmes e Séries",AXN HD
-http://a.srvbr.me:8880/marcela123/marcela123/892
-#EXTINF:-1 tvg-ID="AXN" tvg-name="AXN HD [PLUS]" tvg-logo="http://img.miptv.ws/AXN_HD.png" group-title="Filmes e Séries",AXN HD [PLUS]
-http://a.srvbr.me:8880/marcela123/marcela123/4165
-#EXTINF:-1 tvg-ID="APL" tvg-name="Animal Planet" tvg-logo="http://img.miptv.ws/Animal_Planet_HD.png" group-title="Documentários",Animal Planet
-http://a.srvbr.me:8880/marcela123/marcela123/897
-#EXTINF:-1 tvg-ID="APL" tvg-name="Animal Planet HD" tvg-logo="http://img.miptv.ws/Animal_Planet_HD.png" group-title="Documentários",Animal Planet HD
-http://a.srvbr.me:8880/marcela123/marcela123/896
-#EXTINF:-1 tvg-ID="APL" tvg-name="Animal Planet Full HD" tvg-logo="http://img.miptv.ws/Animal_Planet.png" group-title="Documentários",Animal Planet Full HD
-http://a.srvbr.me:8880/marcela123/marcela123/5436
-#EXTINF:-1 tvg-ID="APL" tvg-name="Animal Planet [PLUS]" tvg-logo="http://img.miptv.ws/Animal_Planet_HD.png" group-title="Documentários",Animal Planet [PLUS]
-http://a.srvbr.me:8880/marcela123/marcela123/4166
-#EXTINF:-1 tvg-ID="BQ5" tvg-name="Arte 1" tvg-logo="http://img.miptv.ws/Arte_1.png" group-title="Documentários",Arte 1
-http://a.srvbr.me:8880/marcela123/marcela123/894
-#EXTINF:-1 tvg-ID="BQ5" tvg-name="Arte 1 HD" tvg-logo="http://img.miptv.ws/Arte_1.png" group-title="Documentários",Arte 1 HD
-http://a.srvbr.me:8880/marcela123/marcela123/5329
-#EXTINF:-1 tvg-ID="BAB" tvg-name="Baby TV" tvg-logo="http://img.miptv.ws/Baby_TV.png" group-title="Infantil",Baby TV
-http://a.srvbr.me:8880/marcela123/marcela123/5078
-#EXTINF:-1 tvg-ID="MSH" tvg-name="BIS" tvg-logo="http://img.miptv.ws/BIS.png" group-title="Variedades",BIS
-http://a.srvbr.me:8880/marcela123/marcela123/886
-#EXTINF:-1 tvg-ID="MSH" tvg-name="BIS HD" tvg-logo="http://img.miptv.ws/BIS.png" group-title="Variedades",BIS HD
-http://a.srvbr.me:8880/marcela123/marcela123/885
-#EXTINF:-1 tvg-ID="MSH" tvg-name="BIS Full HD" tvg-logo="http://img.miptv.ws/BIS.png" group-title="Variedades",BIS Full HD
-http://a.srvbr.me:8880/marcela123/marcela123/5447
-#EXTINF:-1 tvg-ID="MSH" tvg-name="BIS HD [PLUS]" tvg-logo="http://img.miptv.ws/BIS.png" group-title="Variedades",BIS HD [PLUS]
-http://a.srvbr.me:8880/marcela123/marcela123/4162
-#EXTINF:-1 tvg-ID="BAN" tvg-name="Band" tvg-logo="http://img.miptv.ws/Band_HD.png" group-title="TV Aberta",Band
-http://a.srvbr.me:8880/marcela123/marcela123/887
-#EXTINF:-1 tvg-ID="BAN" tvg-name="Band HD" tvg-logo="http://img.miptv.ws/Band_HD.png" group-title="TV Aberta",Band HD
-http://a.srvbr.me:8880/marcela123/marcela123/891
-#EXTINF:-1 tvg-ID="BAN" tvg-name="Band Full HD" tvg-logo="http://img.miptv.ws/Band_HD.png" group-title="TV Aberta",Band Full HD
-http://a.srvbr.me:8880/marcela123/marcela123/5475
-#EXTINF:-1 tvg-ID="BAN" tvg-name="Band HD [PLUS]" tvg-logo="http://img.miptv.ws/Band_HD.png" group-title="TV Aberta",Band HD [PLUS]
-http://a.srvbr.me:8880/marcela123/marcela123/4164
-#EXTINF:-1 tvg-ID="NEW" tvg-name="Band News" tvg-logo="http://img.miptv.ws/BandNews.png" group-title="Notícias",Band News
-http://a.srvbr.me:8880/marcela123/marcela123/890
-#EXTINF:-1 tvg-ID="NEW" tvg-name="Band News HD" tvg-logo="http://img.miptv.ws/BandNews.png" group-title="Notícias",Band News HD
-http://a.srvbr.me:8880/marcela123/marcela123/5162
-#EXTINF:-1 tvg-ID="NEW" tvg-name="Band News Full HD" tvg-logo="http://img.miptv.ws/BandNews.png" group-title="Notícias",Band News Full HD
-http://a.srvbr.me:8880/marcela123/marcela123/5435
-#EXTINF:-1 tvg-ID="NEW" tvg-name="Band News [PLUS]" tvg-logo="http://img.miptv.ws/BandNews.png" group-title="Notícias",Band News [PLUS]
-http://a.srvbr.me:8880/marcela123/marcela123/4163
-#EXTINF:-1 tvg-ID="BSU" tvg-name="Band Sports" tvg-logo="http://img.miptv.ws/BandSports.png" group-title="Esportes",Band Sports
-http://a.srvbr.me:8880/marcela123/marcela123/889
-#EXTINF:-1 tvg-ID="BSP" tvg-name="Band Sports HD" tvg-logo="http://img.miptv.ws/BandSports.png" group-title="Esportes",Band Sports HD
-http://a.srvbr.me:8880/marcela123/marcela123/888
-#EXTINF:-1 tvg-ID="BSP" tvg-name="Band Sports [PLUS]" tvg-logo="http://img.miptv.ws/BandSports.png" group-title="Esportes",Band Sports [PLUS]
-http://a.srvbr.me:8880/marcela123/marcela123/1831
-#EXTINF:-1 tvg-ID="CBR" tvg-name="Canal Brasil" tvg-logo="http://img.miptv.ws/Canal_Brasil.png" group-title="Filmes e Séries",Canal Brasil
-http://a.srvbr.me:8880/marcela123/marcela123/883
-#EXTINF:-1 tvg-ID="LBV" tvg-name="Rede Boa Vontade" tvg-logo="http://img.miptv.ws/lbv.png" group-title="Religiosos",Rede Boa Vontade
-http://a.srvbr.me:8880/marcela123/marcela123/5328
-#EXTINF:-1 tvg-ID="BMG" tvg-name="Boomerang" tvg-logo="http://img.miptv.ws/Boomerang_HD.png" group-title="Infantil",Boomerang
-http://a.srvbr.me:8880/marcela123/marcela123/884
-#EXTINF:-1 tvg-ID="BMF" tvg-name="Boomerang HD" tvg-logo="http://img.miptv.ws/Boomerang.png" group-title="Infantil",Boomerang HD
-http://a.srvbr.me:8880/marcela123/marcela123/5327
-#EXTINF:-1 tvg-ID="BMG" tvg-name="Boomerang Full HD" tvg-logo="http://img.miptv.ws/Boomerang.png" group-title="Infantil",Boomerang Full HD
-http://a.srvbr.me:8880/marcela123/marcela123/5434
-#EXTINF:-1 tvg-ID="CNV" tvg-name="Canção Nova" tvg-logo="http://img.miptv.ws/Cancao_Nova.png" group-title="Religiosos",Canção Nova
-http://a.srvbr.me:8880/marcela123/marcela123/879
-#EXTINF:-1 tvg-ID="CAR" tvg-name="Cartoon Network" tvg-logo="http://img.miptv.ws/Cartoon_Network.png" group-title="Infantil",Cartoon Network
-http://a.srvbr.me:8880/marcela123/marcela123/878
-#EXTINF:-1 tvg-ID="CAR" tvg-name="Cartoon Network HD" tvg-logo="http://img.miptv.ws/Cartoon_Network.png" group-title="Infantil",Cartoon Network HD
-http://a.srvbr.me:8880/marcela123/marcela123/877
-#EXTINF:-1 tvg-ID="CAR" tvg-name="Cartoon Network [PLUS]" tvg-logo="http://img.miptv.ws/Cartoon_Network.png" group-title="Infantil",Cartoon Network [PLUS]
-http://a.srvbr.me:8880/marcela123/marcela123/4159
-#EXTINF:-1 tvg-ID="MNX" tvg-name="Cinemax" tvg-logo="http://img.miptv.ws/Cinemax.png" group-title="Filmes e Séries",Cinemax
-http://a.srvbr.me:8880/marcela123/marcela123/876
-#EXTINF:-1 tvg-ID="MNX" tvg-name="Cinemax HD" tvg-logo="http://img.miptv.ws/Cinemax.png" group-title="Filmes e Séries",Cinemax HD
-http://a.srvbr.me:8880/marcela123/marcela123/1495
-#EXTINF:-1 tvg-ID="MNX" tvg-name="Cinemax HD [PLUS]" tvg-logo="http://img.miptv.ws/Cinemax.png" group-title="Filmes e Séries",Cinemax HD [PLUS]
-http://a.srvbr.me:8880/marcela123/marcela123/5124
-#EXTINF:-1 tvg-ID="CCE" tvg-name="Comedy Central" tvg-logo="http://img.miptv.ws/Comedy_Central.png" group-title="Variedades",Comedy Central
-http://a.srvbr.me:8880/marcela123/marcela123/873
-#EXTINF:-1 tvg-ID="CCE" tvg-name="Comedy Central HD" tvg-logo="http://img.miptv.ws/Comedy_Central.png" group-title="Variedades",Comedy Central HD
-http://a.srvbr.me:8880/marcela123/marcela123/5326
-#EXTINF:-1 tvg-ID="CCE" tvg-name="Comedy Central HD [PLUS]" tvg-logo="http://img.miptv.ws/Comedy_Central.png" group-title="Variedades",Comedy Central HD [PLUS]
-http://a.srvbr.me:8880/marcela123/marcela123/1833
-#EXTINF:-1 tvg-ID="135" tvg-name="Combate" tvg-logo="http://img.miptv.ws/Combate.png" group-title="Esportes",Combate
-http://a.srvbr.me:8880/marcela123/marcela123/875
-#EXTINF:-1 tvg-ID="135" tvg-name="Combate HD" tvg-logo="http://img.miptv.ws/Combate.png" group-title="Esportes",Combate HD
-http://a.srvbr.me:8880/marcela123/marcela123/874
-#EXTINF:-1 tvg-ID="135" tvg-name="Combate Full HD" tvg-logo="http://img.miptv.ws/Combate_HD.png" group-title="Esportes",Combate Full HD
-http://a.srvbr.me:8880/marcela123/marcela123/5474
-#EXTINF:-1 tvg-ID="135" tvg-name="Combate HD [PLUS]" tvg-logo="http://img.miptv.ws/Combate.png" group-title="Esportes",Combate HD [PLUS]
-http://a.srvbr.me:8880/marcela123/marcela123/1832
-#EXTINF:-1 tvg-ID="NOEPG English" tvg-name="COPA LIBERTADORES HD" tvg-logo="https://img.miptv.ws/1552071549m.jpg" group-title="ESPECIAL / ESPORTES",COPA LIBERTADORES HD
-http://a.srvbr.me:8880/marcela123/marcela123/11444
-#EXTINF:-1 tvg-ID="NOEPG English" tvg-name="DAZN HD" tvg-logo="https://img.miptv.ws/9AAq0LjW_400x400.jpg" group-title="ESPECIAL / ESPORTES",DAZN HD
-http://a.srvbr.me:8880/marcela123/marcela123/11443
-#EXTINF:-1 tvg-ID="BQ4" tvg-name="Curta!" tvg-logo="http://img.miptv.ws/Curta!.png" group-title="Variedades",Curta!
-http://a.srvbr.me:8880/marcela123/marcela123/872
-#EXTINF:-1 tvg-ID="BQ4" tvg-name="Curta! HD" tvg-logo="http://img.miptv.ws/Curta!.png" group-title="Variedades",Curta! HD
-http://a.srvbr.me:8880/marcela123/marcela123/5325
-#EXTINF:-1 tvg-ID="HEA" tvg-name="Discovery Home & Health" tvg-logo="http://img.miptv.ws/Discovery_Home_Health.png" group-title="Variedades",Discovery Home & Health
-http://a.srvbr.me:8880/marcela123/marcela123/868
-#EXTINF:-1 tvg-ID="HEA" tvg-name="Discovery Home & Health HD" tvg-logo="http://img.miptv.ws/Discovery_Home_Health.png" group-title="Variedades",Discovery Home & Health HD
-http://a.srvbr.me:8880/marcela123/marcela123/867
-#EXTINF:-1 tvg-ID="HEA" tvg-name="Discovery Home & Health Full HD" tvg-logo="http://img.miptv.ws/Discovery_Home_Health.png" group-title="Variedades",Discovery Home & Health Full HD
-http://a.srvbr.me:8880/marcela123/marcela123/5433
-#EXTINF:-1 tvg-ID="HEA" tvg-name="Discovery Home & Health [PLUS]" tvg-logo="http://img.miptv.ws/Discovery_Home_Health.png" group-title="Variedades",Discovery Home & Health [PLUS]
-http://a.srvbr.me:8880/marcela123/marcela123/4156
-#EXTINF:-1 tvg-ID="DCI" tvg-name="Discovery Civilization" tvg-logo="http://img.miptv.ws/Discovery_Civilization.png" group-title="Documentários",Discovery Civilization
-http://a.srvbr.me:8880/marcela123/marcela123/869
-#EXTINF:-1 tvg-ID="DCI" tvg-name="Discovery Civilization HD" tvg-logo="http://img.miptv.ws/Discovery_Civilization.png" group-title="Documentários",Discovery Civilization HD
-http://a.srvbr.me:8880/marcela123/marcela123/5324
-#EXTINF:-1 tvg-ID="DCI" tvg-name="Discovery Civilization [PLUS]" tvg-logo="http://img.miptv.ws/Discovery_Civilization.png" group-title="Documentários",Discovery Civilization [PLUS]
-http://a.srvbr.me:8880/marcela123/marcela123/4157
-#EXTINF:-1 tvg-ID="DIS" tvg-name="Discovery Channel" tvg-logo="http://img.miptv.ws/Discovery_Channel_HD.png" group-title="Documentários",Discovery Channel
-http://a.srvbr.me:8880/marcela123/marcela123/871
-#EXTINF:-1 tvg-ID="DIS" tvg-name="Discovery Channel HD" tvg-logo="http://img.miptv.ws/Discovery_Channel_HD.png" group-title="Documentários",Discovery Channel HD
-http://a.srvbr.me:8880/marcela123/marcela123/870
-#EXTINF:-1 tvg-ID="DIH" tvg-name="Discovery Channel Full HD" tvg-logo="http://img.miptv.ws/Discovery_Channel.png" group-title="Documentários",Discovery Channel Full HD
-http://a.srvbr.me:8880/marcela123/marcela123/5448
-#EXTINF:-1 tvg-ID="DIH" tvg-name="Discovery Channel HD [PLUS]" tvg-logo="http://img.miptv.ws/Discovery_Channel.png" group-title="Documentários",Discovery Channel HD [PLUS]
-http://a.srvbr.me:8880/marcela123/marcela123/1834
-#EXTINF:-1 tvg-ID="DIK" tvg-name="Discovery Kids" tvg-logo="http://img.miptv.ws/Discovery_Kids.png" group-title="Infantil",Discovery Kids
-http://a.srvbr.me:8880/marcela123/marcela123/866
-#EXTINF:-1 tvg-ID="DIK" tvg-name="Discovery Kids HD" tvg-logo="http://img.miptv.ws/Discovery_Kids.png" group-title="Infantil",Discovery Kids HD
-http://a.srvbr.me:8880/marcela123/marcela123/1494
-#EXTINF:-1 tvg-ID="DIK" tvg-name="Discovery kids Full HD" tvg-logo="http://img.miptv.ws/Discovery_Kids.png" group-title="Infantil",Discovery kids Full HD
-http://a.srvbr.me:8880/marcela123/marcela123/5432
-#EXTINF:-1 tvg-ID="DIK" tvg-name="Discovery Kids HD [PLUS]" tvg-logo="http://img.miptv.ws/Discovery_Kids.png" group-title="Infantil",Discovery Kids HD [PLUS]
-http://a.srvbr.me:8880/marcela123/marcela123/1835
-#EXTINF:-1 tvg-ID="DSC" tvg-name="Discovery Science" tvg-logo="http://img.miptv.ws/Discovery_Science.png" group-title="Documentários",Discovery Science
-http://a.srvbr.me:8880/marcela123/marcela123/865
-#EXTINF:-1 tvg-ID="DSC" tvg-name="Discovery Science HD" tvg-logo="http://img.miptv.ws/Discovery_Science.png" group-title="Documentários",Discovery Science HD
-http://a.srvbr.me:8880/marcela123/marcela123/5075
-#EXTINF:-1 tvg-ID="DSC" tvg-name="Discovery Science [PLUS]" tvg-logo="http://img.miptv.ws/Discovery_Science.png" group-title="Documentários",Discovery Science [PLUS]
-http://a.srvbr.me:8880/marcela123/marcela123/4154
-#EXTINF:-1 tvg-ID="DHD" tvg-name="Discovery Theater" tvg-logo="http://img.miptv.ws/Discovery_Theater.png" group-title="Documentários",Discovery Theater
-http://a.srvbr.me:8880/marcela123/marcela123/5323
-#EXTINF:-1 tvg-ID="DHD" tvg-name="Discovery Theater HD" tvg-logo="http://img.miptv.ws/Discovery_Theater.png" group-title="Documentários",Discovery Theater HD
-http://a.srvbr.me:8880/marcela123/marcela123/864
-#EXTINF:-1 tvg-ID="DHD" tvg-name="Discovery Theater HD [PLUS]" tvg-logo="http://img.miptv.ws/Discovery_Theater.png" group-title="Documentários",Discovery Theater HD [PLUS]
-http://a.srvbr.me:8880/marcela123/marcela123/4153
-#EXTINF:-1 tvg-ID="DIW" tvg-name="Discovery World" tvg-logo="http://img.miptv.ws/Discovery_World.png" group-title="Documentários",Discovery World
-http://a.srvbr.me:8880/marcela123/marcela123/5322
-#EXTINF:-1 tvg-ID="DIW" tvg-name="Discovery World HD" tvg-logo="http://img.miptv.ws/Discovery_World.png" group-title="Documentários",Discovery World HD
-http://a.srvbr.me:8880/marcela123/marcela123/861
-#EXTINF:-1 tvg-ID="DIW" tvg-name="Discovery World Full HD" tvg-logo="http://img.miptv.ws/Discovery_World.png" group-title="Documentários",Discovery World Full HD
-http://a.srvbr.me:8880/marcela123/marcela123/5430
-#EXTINF:-1 tvg-ID="DIW" tvg-name="Discovery World [PLUS]" tvg-logo="http://img.miptv.ws/Discovery_World.png" group-title="Documentários",Discovery World [PLUS]
-http://a.srvbr.me:8880/marcela123/marcela123/4151
-#EXTINF:-1 tvg-ID="DNY" tvg-name="Disney Channel" tvg-logo="http://img.miptv.ws/Disney_Channel.png" group-title="Infantil",Disney Channel
-http://a.srvbr.me:8880/marcela123/marcela123/860
-#EXTINF:-1 tvg-ID="DIH" tvg-name="Disney Channel HD" tvg-logo="http://img.miptv.ws/Disney_Channel.png" group-title="Infantil",Disney Channel HD
-http://a.srvbr.me:8880/marcela123/marcela123/1493
-#EXTINF:-1 tvg-ID="DNY" tvg-name="Disney Channel Full HD" tvg-logo="http://img.miptv.ws/Disney_Channel.png" group-title="Infantil",Disney Channel Full HD
-http://a.srvbr.me:8880/marcela123/marcela123/5446
-#EXTINF:-1 tvg-ID="DNY" tvg-name="Disney Channel HD [PLUS]" tvg-logo="http://img.miptv.ws/Disney_Channel.png" group-title="Infantil",Disney Channel HD [PLUS]
-http://a.srvbr.me:8880/marcela123/marcela123/4150
-#EXTINF:-1 tvg-ID="PHD" tvg-name="Disney Junior" tvg-logo="http://img.miptv.ws/Disney_Junior.png" group-title="Infantil",Disney Junior
-http://a.srvbr.me:8880/marcela123/marcela123/859
-#EXTINF:-1 tvg-ID="PHD" tvg-name="Disney Junior HD" tvg-logo="http://img.miptv.ws/Disney_Junior.png" group-title="Infantil",Disney Junior HD
-http://a.srvbr.me:8880/marcela123/marcela123/5562
-#EXTINF:-1 tvg-ID="DXD" tvg-name="Disney XD" tvg-logo="http://img.miptv.ws/Disney_XD.png" group-title="Infantil",Disney XD
-http://a.srvbr.me:8880/marcela123/marcela123/858
-#EXTINF:-1 tvg-ID="DXD" tvg-name="Disney XD [PLUS]" tvg-logo="http://img.miptv.ws/Disney_XD.png" group-title="Infantil",Disney XD [PLUS]
-http://a.srvbr.me:8880/marcela123/marcela123/4149
-#EXTINF:-1 tvg-ID="DTU" tvg-name="Discovery Turbo" tvg-logo="http://img.miptv.ws/Discovery_Turbo_HD.png" group-title="Variedades",Discovery Turbo
-http://a.srvbr.me:8880/marcela123/marcela123/863
-#EXTINF:-1 tvg-ID="DTU" tvg-name="Discovery Turbo HD" tvg-logo="http://img.miptv.ws/Discovery_Turbo_HD.png" group-title="Variedades",Discovery Turbo HD
-http://a.srvbr.me:8880/marcela123/marcela123/862
-#EXTINF:-1 tvg-ID="DTU" tvg-name="Discovery Turbo Full HD" tvg-logo="http://img.miptv.ws/Discovery_Turbo_HD.png" group-title="Variedades",Discovery Turbo Full HD
-http://a.srvbr.me:8880/marcela123/marcela123/5431
-#EXTINF:-1 tvg-ID="DTU" tvg-name="Discovery Turbo HD [PLUS]" tvg-logo="http://img.miptv.ws/Discovery_Turbo_HD.png" group-title="Variedades",Discovery Turbo HD [PLUS]
-http://a.srvbr.me:8880/marcela123/marcela123/4152
-#EXTINF:-1 tvg-ID="EET" tvg-name="E!" tvg-logo="http://img.miptv.ws/E!.png" group-title="Variedades",E!
-http://a.srvbr.me:8880/marcela123/marcela123/857
-#EXTINF:-1 tvg-ID="EET" tvg-name="E! HD" tvg-logo="http://img.miptv.ws/E!.png" group-title="Variedades",E! HD
-http://a.srvbr.me:8880/marcela123/marcela123/4204
-#EXTINF:-1 tvg-ID="NOEPG English" tvg-name="EI PLUS SD" tvg-logo="http://img.miptv.ws/eiplus.png" group-title="ESPECIAL / ESPORTES",EI PLUS SD
-http://a.srvbr.me:8880/marcela123/marcela123/11483
-#EXTINF:-1 tvg-ID="NOEPG English" tvg-name="EI PLUS HD" tvg-logo="http://img.miptv.ws/eiplus.png" group-title="ESPECIAL / ESPORTES",EI PLUS HD
-http://a.srvbr.me:8880/marcela123/marcela123/11484
-#EXTINF:-1 tvg-ID="ESQ" tvg-name="ESPN" tvg-logo="http://img.miptv.ws/ESPN.png" group-title="Esportes",ESPN
-http://a.srvbr.me:8880/marcela123/marcela123/4643
-#EXTINF:-1 tvg-ID="ESQ" tvg-name="ESPN HD" tvg-logo="http://img.miptv.ws/ESPN_HD.png" group-title="Esportes",ESPN HD
-http://a.srvbr.me:8880/marcela123/marcela123/848
-#EXTINF:-1 tvg-ID="ESQ" tvg-name="ESPN Full HD" tvg-logo="http://img.miptv.ws/ESPN.png" group-title="Esportes",ESPN Full HD
-http://a.srvbr.me:8880/marcela123/marcela123/5458
-#EXTINF:-1 tvg-ID="ESQ" tvg-name="ESPN HD [PLUS]" tvg-logo="http://img.miptv.ws/ESPN_HD.png" group-title="Esportes",ESPN HD [PLUS]
-http://a.srvbr.me:8880/marcela123/marcela123/1839
-#EXTINF:-1 tvg-ID="ESH" tvg-name="ESPN +  HD" tvg-logo="http://img.miptv.ws/ESPN_Mais.png" group-title="Esportes",ESPN +  HD
-http://a.srvbr.me:8880/marcela123/marcela123/851
-#EXTINF:-1 tvg-ID="ESH" tvg-name="ESPN EXTRA HD [PLUS]" tvg-logo="http://img.miptv.ws/ESPN_HD.png" group-title="Esportes",ESPN EXTRA HD [PLUS]
-http://a.srvbr.me:8880/marcela123/marcela123/1837
-#EXTINF:-1 tvg-ID="ESB" tvg-name="ESPN Brasil" tvg-logo="http://img.miptv.ws/ESPN_Brasil.png" group-title="Esportes",ESPN Brasil
-http://a.srvbr.me:8880/marcela123/marcela123/850
-#EXTINF:-1 tvg-ID="ESB" tvg-name="ESPN Brasil HD" tvg-logo="http://img.miptv.ws/ESPN_Brasil.png" group-title="Esportes",ESPN Brasil HD
-http://a.srvbr.me:8880/marcela123/marcela123/849
-#EXTINF:-1 tvg-ID="ESB" tvg-name="ESPN Brasil Full HD" tvg-logo="http://img.miptv.ws/ESPN_Brasil.png" group-title="Esportes",ESPN Brasil Full HD
-http://a.srvbr.me:8880/marcela123/marcela123/5459
-#EXTINF:-1 tvg-ID="ESB" tvg-name="ESPN Brasil HD [PLUS]" tvg-logo="http://img.miptv.ws/ESPN_Brasil.png" group-title="Esportes",ESPN Brasil HD [PLUS]
-http://a.srvbr.me:8880/marcela123/marcela123/1838
-#EXTINF:-1 tvg-ID="ESR" tvg-name="Espn Extra" tvg-logo="http://img.miptv.ws/ESPN_EXTRA.png" group-title="Esportes",Espn Extra
-http://a.srvbr.me:8880/marcela123/marcela123/5321
-#EXTINF:-1 tvg-ID="ESR" tvg-name="Espn Extra HD" tvg-logo="http://img.miptv.ws/ESPN_EXTRA.png" group-title="Esportes",Espn Extra HD
-http://a.srvbr.me:8880/marcela123/marcela123/5320
-#EXTINF:-1 tvg-ID="ESR" tvg-name="ESPN Extra Full HD" tvg-logo="http://img.miptv.ws/ESPN_EXTRA.png" group-title="Esportes",ESPN Extra Full HD
-http://a.srvbr.me:8880/marcela123/marcela123/5457
-#EXTINF:-1 tvg-ID="BQ6" tvg-name="Fish TV" tvg-logo="http://img.miptv.ws/FishTV.png" group-title="Esportes",Fish TV
-http://a.srvbr.me:8880/marcela123/marcela123/846
-#EXTINF:-1 tvg-ID="BQ6" tvg-name="Fish TV HD" tvg-logo="http://img.miptv.ws/FishTV.png" group-title="Esportes",Fish TV HD
-http://a.srvbr.me:8880/marcela123/marcela123/5319
-#EXTINF:-1 tvg-ID="FOD" tvg-name="Food Network" tvg-logo="http://img.miptv.ws/Food_Network.png" group-title="Variedades",Food Network
-http://a.srvbr.me:8880/marcela123/marcela123/845
-#EXTINF:-1 tvg-ID="FOD" tvg-name="Food Network HD" tvg-logo="http://img.miptv.ws/Food_Network.png" group-title="Variedades",Food Network HD
-http://a.srvbr.me:8880/marcela123/marcela123/1491
-#EXTINF:-1 tvg-ID="FOD" tvg-name="Food Network [PLUS]" tvg-logo="http://img.miptv.ws/Food_Network.png" group-title="Variedades",Food Network [PLUS]
-http://a.srvbr.me:8880/marcela123/marcela123/4145
-#EXTINF:-1 tvg-ID="FOX" tvg-name="FOX" tvg-logo="http://img.miptv.ws/FOX.png" group-title="Filmes e Séries",FOX
-http://a.srvbr.me:8880/marcela123/marcela123/844
-#EXTINF:-1 tvg-ID="FOX" tvg-name="FOX HD" tvg-logo="http://img.miptv.ws/FOX_HD.png" group-title="Filmes e Séries",FOX HD
-http://a.srvbr.me:8880/marcela123/marcela123/841
-#EXTINF:-1 tvg-ID="FOX" tvg-name="Fox Full HD" tvg-logo="http://img.miptv.ws/FOX_HD.png" group-title="Filmes e Séries",Fox Full HD
-http://a.srvbr.me:8880/marcela123/marcela123/5473
-#EXTINF:-1 tvg-ID="FOX" tvg-name="FOX [PLUS]" tvg-logo="http://img.miptv.ws/FOX_HD.png" group-title="Filmes e Séries",FOX [PLUS]
-http://a.srvbr.me:8880/marcela123/marcela123/1842
-#EXTINF:-1 tvg-ID="FO1" tvg-name="Fox Premium" tvg-logo="http://img.miptv.ws/FOX_Premium_1_HD.png" group-title="Filmes e Séries",Fox Premium
-http://a.srvbr.me:8880/marcela123/marcela123/5318
-#EXTINF:-1 tvg-ID="FO1" tvg-name="FOX Premium HD" tvg-logo="http://img.miptv.ws/FOX_Premium_1_HD.png" group-title="Filmes e Séries",FOX Premium HD
-http://a.srvbr.me:8880/marcela123/marcela123/843
-#EXTINF:-1 tvg-ID="FO1" tvg-name="FOX Premium HD [PLUS]" tvg-logo="http://img.miptv.ws/FOX_Premium_1_HD.png" group-title="Filmes e Séries",FOX Premium HD [PLUS]
-http://a.srvbr.me:8880/marcela123/marcela123/4144
-#EXTINF:-1 tvg-ID="FOA" tvg-name="Fox Premium 2" tvg-logo="http://img.miptv.ws/FOX_Premium_2_HD.png" group-title="Filmes e Séries",Fox Premium 2
-http://a.srvbr.me:8880/marcela123/marcela123/5317
-#EXTINF:-1 tvg-ID="FOA" tvg-name="FOX Premium 2 HD" tvg-logo="http://img.miptv.ws/FOX_Premium_2_HD.png" group-title="Filmes e Séries",FOX Premium 2 HD
-http://a.srvbr.me:8880/marcela123/marcela123/842
-#EXTINF:-1 tvg-ID="FOA" tvg-name="Fox Premium 2 Full HD" tvg-logo="http://img.miptv.ws/FOX_Premium_2_HD.png" group-title="Filmes e Séries",Fox Premium 2 Full HD
-http://a.srvbr.me:8880/marcela123/marcela123/5429
-#EXTINF:-1 tvg-ID="FOA" tvg-name="FOX Premium 2 HD [PLUS]" tvg-logo="http://img.miptv.ws/FOX_Premium_2_HD.png" group-title="Filmes e Séries",FOX Premium 2 HD [PLUS]
-http://a.srvbr.me:8880/marcela123/marcela123/4143
-#EXTINF:-1 tvg-ID="FLI" tvg-name="Fox Life" tvg-logo="http://img.miptv.ws/FOX_Life.png" group-title="Filmes e Séries",Fox Life
-http://a.srvbr.me:8880/marcela123/marcela123/840
-#EXTINF:-1 tvg-ID="FLI" tvg-name="FOX Life HD" tvg-logo="http://img.miptv.ws/FOX_Life.png" group-title="Filmes e Séries",FOX Life HD
-http://a.srvbr.me:8880/marcela123/marcela123/839
-#EXTINF:-1 tvg-ID="FSP" tvg-name="Fox Sports" tvg-logo="http://img.miptv.ws/Fox_Sports_HD.png" group-title="Esportes",Fox Sports
-http://a.srvbr.me:8880/marcela123/marcela123/837
-#EXTINF:-1 tvg-ID="FSP" tvg-name="Fox Sports HD" tvg-logo="http://img.miptv.ws/Fox_Sports_HD.png" group-title="Esportes",Fox Sports HD
-http://a.srvbr.me:8880/marcela123/marcela123/838
-#EXTINF:-1 tvg-ID="FSP" tvg-name="Fox Sports Full HD" tvg-logo="http://img.miptv.ws/Fox_Sports_HD.png" group-title="Esportes",Fox Sports Full HD
-http://a.srvbr.me:8880/marcela123/marcela123/5418
-#EXTINF:-1 tvg-ID="FSP" tvg-name="Fox Sports HD [PLUS]" tvg-logo="http://img.miptv.ws/FOX_Sports.png" group-title="Esportes",Fox Sports HD [PLUS]
-http://a.srvbr.me:8880/marcela123/marcela123/1844
-#EXTINF:-1 tvg-ID="FS2" tvg-name="Fox Sports 2" tvg-logo="http://img.miptv.ws/FOX_Sports_2_HD.png" group-title="Esportes",Fox Sports 2
-http://a.srvbr.me:8880/marcela123/marcela123/836
-#EXTINF:-1 tvg-ID="FS2" tvg-name="FOX Sports 2 HD" tvg-logo="http://img.miptv.ws/FOX_Sports_2_HD.png" group-title="Esportes",FOX Sports 2 HD
-http://a.srvbr.me:8880/marcela123/marcela123/835
-#EXTINF:-1 tvg-ID="FS2" tvg-name="Fox Sports 2 Full HD" tvg-logo="http://img.miptv.ws/FOX_Sports_2.png" group-title="Esportes",Fox Sports 2 Full HD
-http://a.srvbr.me:8880/marcela123/marcela123/5456
-#EXTINF:-1 tvg-ID="FS1" tvg-name="FOX Sports 2 HD [PLUS]" tvg-logo="http://img.miptv.ws/FOX_Sports_2.png" group-title="Esportes",FOX Sports 2 HD [PLUS]
-http://a.srvbr.me:8880/marcela123/marcela123/1843
-#EXTINF:-1 tvg-ID="FUT" tvg-name="Futura" tvg-logo="http://img.miptv.ws/Futura.png" group-title="TV Aberta",Futura
-http://a.srvbr.me:8880/marcela123/marcela123/834
-#EXTINF:-1 tvg-ID="FUT" tvg-name="Futura HD" tvg-logo="http://img.miptv.ws/Futura.png" group-title="TV Aberta",Futura HD
-http://a.srvbr.me:8880/marcela123/marcela123/5316
-#EXTINF:-1 tvg-ID="CFX" tvg-name="FX" tvg-logo="http://img.miptv.ws/FX.png" group-title="Filmes e Séries",FX
-http://a.srvbr.me:8880/marcela123/marcela123/833
-#EXTINF:-1 tvg-ID="CFX" tvg-name="FX HD" tvg-logo="http://img.miptv.ws/FX.png" group-title="Filmes e Séries",FX HD
-http://a.srvbr.me:8880/marcela123/marcela123/832
-#EXTINF:-1 tvg-ID="CFX" tvg-name="FX HD [PLUS]" tvg-logo="http://img.miptv.ws/FX_HD.png" group-title="Filmes e Séries",FX HD [PLUS]
-http://a.srvbr.me:8880/marcela123/marcela123/1845
-#EXTINF:-1 tvg-ID="GAZ" tvg-name="Gazeta HD" tvg-logo="http://img.miptv.ws/Gazeta_HD.png" group-title="TV Aberta",Gazeta HD
-http://a.srvbr.me:8880/marcela123/marcela123/400
-#EXTINF:-1 tvg-ID="GLB" tvg-name="Globo Brasília" tvg-logo="http://img.miptv.ws/Globo_Brasilia.png" group-title="TV Aberta",Globo Brasília
-http://a.srvbr.me:8880/marcela123/marcela123/831
-#EXTINF:-1 tvg-ID="GLB" tvg-name="Globo Brasilia HD" tvg-logo="http://img.miptv.ws/Globo_Brasilia.png" group-title="TV Aberta",Globo Brasilia HD
-http://a.srvbr.me:8880/marcela123/marcela123/5315
-#EXTINF:-1 tvg-ID="GCB" tvg-name="Globo TV Centro America" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo TV Centro America
-http://a.srvbr.me:8880/marcela123/marcela123/5127
-#EXTINF:-1 tvg-ID="GRC" tvg-name="Globo EPTV Campinas" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo EPTV Campinas
-http://a.srvbr.me:8880/marcela123/marcela123/5130
-#EXTINF:-1 tvg-ID="GRC" tvg-name="Globo EPTV Campinas HD" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo EPTV Campinas HD
-http://a.srvbr.me:8880/marcela123/marcela123/5314
-#EXTINF:-1 tvg-ID="GCR" tvg-name="Globo EPTV Sao Carlos" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo EPTV Sao Carlos
-http://a.srvbr.me:8880/marcela123/marcela123/5129
-#EXTINF:-1 tvg-ID="GRP" tvg-name="Globo Ribeirão Preto" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo Ribeirão Preto
-http://a.srvbr.me:8880/marcela123/marcela123/5312
-#EXTINF:-1 tvg-ID="GRP" tvg-name="Globo Ribeirão Preto HD" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo Ribeirão Preto HD
-http://a.srvbr.me:8880/marcela123/marcela123/5313
-#EXTINF:-1 tvg-ID="GBB" tvg-name="Globo - TV Bahia" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo - TV Bahia
-http://a.srvbr.me:8880/marcela123/marcela123/5071
-#EXTINF:-1 tvg-ID="GBB" tvg-name="Globo - TV Bahia HD" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo - TV Bahia HD
-http://a.srvbr.me:8880/marcela123/marcela123/5309
-#EXTINF:-1 tvg-ID="GBM" tvg-name="Globo Minas" tvg-logo="http://img.miptv.ws/Globo_Minas.png" group-title="TV Aberta",Globo Minas
-http://a.srvbr.me:8880/marcela123/marcela123/830
-#EXTINF:-1 tvg-ID="GBM" tvg-name="Globo Minas HD" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo Minas HD
-http://a.srvbr.me:8880/marcela123/marcela123/5093
-#EXTINF:-1 tvg-ID="GBM" tvg-name="Globo Minas Full HD" tvg-logo="http://img.miptv.ws/Globo_Minas.png" group-title="TV Aberta",Globo Minas Full HD
-http://a.srvbr.me:8880/marcela123/marcela123/5472
-#EXTINF:-1 tvg-ID="GLN" tvg-name="Globo News" tvg-logo="http://img.miptv.ws/GloboNews.png" group-title="Notícias",Globo News
-http://a.srvbr.me:8880/marcela123/marcela123/826
-#EXTINF:-1 tvg-ID="GLN" tvg-name="Globo News HD" tvg-logo="http://img.miptv.ws/GloboNews.png" group-title="Notícias",Globo News HD
-http://a.srvbr.me:8880/marcela123/marcela123/1498
-#EXTINF:-1 tvg-ID="GLN" tvg-name="Globo News Full HD" tvg-logo="http://img.miptv.ws/GloboNews.png" group-title="Notícias",Globo News Full HD
-http://a.srvbr.me:8880/marcela123/marcela123/5442
-#EXTINF:-1 tvg-ID="GLN" tvg-name="Globo News HD [PLUS]" tvg-logo="http://img.miptv.ws/GloboNews.png" group-title="Notícias",Globo News HD [PLUS]
-http://a.srvbr.me:8880/marcela123/marcela123/1846
-#EXTINF:-1 tvg-ID="GPE" tvg-name="Globo Nordeste" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo Nordeste
-http://a.srvbr.me:8880/marcela123/marcela123/5067
-#EXTINF:-1 tvg-ID="GPE" tvg-name="Globo Nordeste HD" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo Nordeste HD
-http://a.srvbr.me:8880/marcela123/marcela123/5073
-#EXTINF:-1 tvg-ID="POA" tvg-name="Globo - RBS TV" tvg-logo="http://img.miptv.ws/RBS_TV_Porto_Alegre.png" group-title="TV Aberta",Globo - RBS TV
-http://a.srvbr.me:8880/marcela123/marcela123/764
-#EXTINF:-1 tvg-ID="POA" tvg-name="Globo - RBS TV HD" tvg-logo="http://img.miptv.ws/RBS_TV_Porto_Alegre.png" group-title="TV Aberta",Globo - RBS TV HD
-http://a.srvbr.me:8880/marcela123/marcela123/5311
-#EXTINF:-1 tvg-ID="GRJ" tvg-name="Globo RJ" tvg-logo="http://img.miptv.ws/Globo_RJ_HD.png" group-title="TV Aberta",Globo RJ
-http://a.srvbr.me:8880/marcela123/marcela123/829
-#EXTINF:-1 tvg-ID="GRJ" tvg-name="Globo RJ HD" tvg-logo="http://img.miptv.ws/Globo_RJ_HD.png" group-title="TV Aberta",Globo RJ HD
-http://a.srvbr.me:8880/marcela123/marcela123/828
-#EXTINF:-1 tvg-ID="GRD" tvg-name="Globo RJ Full HD" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo RJ Full HD
-http://a.srvbr.me:8880/marcela123/marcela123/5471
-#EXTINF:-1 tvg-ID="GRD" tvg-name="Globo Rede HD [PLUS]" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo Rede HD [PLUS]
-http://a.srvbr.me:8880/marcela123/marcela123/1847
-#EXTINF:-1 tvg-ID="GSC" tvg-name="Globo NSC TV Florianopolis" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo NSC TV Florianopolis
-http://a.srvbr.me:8880/marcela123/marcela123/5421
-#EXTINF:-1 tvg-ID="GSC" tvg-name="Globo NSC TV Florianopolis HD" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo NSC TV Florianopolis HD
-http://a.srvbr.me:8880/marcela123/marcela123/5420
-#EXTINF:-1 tvg-ID="TPH" tvg-name="Globo Curitiba" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo Curitiba
-http://a.srvbr.me:8880/marcela123/marcela123/5128
-#EXTINF:-1 tvg-ID="TPH" tvg-name="Globo Curitiba HD" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo Curitiba HD
-http://a.srvbr.me:8880/marcela123/marcela123/5310
-#EXTINF:-1 tvg-ID="TPH" tvg-name="Globo RPC Curitiba Full HD" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo RPC Curitiba Full HD
-http://a.srvbr.me:8880/marcela123/marcela123/5469
-#EXTINF:-1 tvg-ID="GSP" tvg-name="Globo SP" tvg-logo="http://img.miptv.ws/Globo_SP.png" group-title="TV Aberta",Globo SP
-http://a.srvbr.me:8880/marcela123/marcela123/827
-#EXTINF:-1 tvg-ID="GSP" tvg-name="Globo SP HD" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo SP HD
-http://a.srvbr.me:8880/marcela123/marcela123/5095
-#EXTINF:-1 tvg-ID="" tvg-name="Globo TV Gazeta Vitória" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo TV Gazeta Vitória
-http://a.srvbr.me:8880/marcela123/marcela123/12077
-#EXTINF:-1 tvg-ID="" tvg-name="Globo TV Gazeta Vitória Full HD" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo TV Gazeta Vitória Full HD
-http://a.srvbr.me:8880/marcela123/marcela123/12078
-#EXTINF:-1 tvg-ID="" tvg-name="Globo TV Gazeta Vitória HD" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo TV Gazeta Vitória HD
-http://a.srvbr.me:8880/marcela123/marcela123/12079
-#EXTINF:-1 tvg-ID="" tvg-name="Globo TV Gazeta SUL ES Full HD" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo TV Gazeta SUL ES Full HD
-http://a.srvbr.me:8880/marcela123/marcela123/12080
-#EXTINF:-1 tvg-ID="" tvg-name="Globo TV Gazeta ES HD" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo TV Gazeta ES HD
-http://a.srvbr.me:8880/marcela123/marcela123/12081
-#EXTINF:-1 tvg-ID="GSP" tvg-name="Globo SP Full HD" tvg-logo="http://img.miptv.ws/Globo_SP.png" group-title="TV Aberta",Globo SP Full HD
-http://a.srvbr.me:8880/marcela123/marcela123/5470
-#EXTINF:-1 tvg-ID="GLH" tvg-name="Globo SP HD [PLUS]" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo SP HD [PLUS]
-http://a.srvbr.me:8880/marcela123/marcela123/5528
-#EXTINF:-1 tvg-ID="GBG" tvg-name="Globo Anhaguera Goiania" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo Anhaguera Goiania
-http://a.srvbr.me:8880/marcela123/marcela123/5074
-#EXTINF:-1 tvg-ID="GBG" tvg-name="Globo Goias - TV Anhanguera HD" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo Goias - TV Anhanguera HD
-http://a.srvbr.me:8880/marcela123/marcela123/5072
-#EXTINF:-1 tvg-ID="TVT" tvg-name="Globo TV Tribuna Santos" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo TV Tribuna Santos
-http://a.srvbr.me:8880/marcela123/marcela123/5126
-#EXTINF:-1 tvg-ID="GVA" tvg-name="TV Vanguarda Sao Jose dos Campos" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",TV Vanguarda Sao Jose dos Campos
-http://a.srvbr.me:8880/marcela123/marcela123/5125
-#EXTINF:-1 tvg-ID="GPA" tvg-name="Globo Para (Belem) - TV Liberal" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo Para (Belem) - TV Liberal
-http://a.srvbr.me:8880/marcela123/marcela123/5069
-#EXTINF:-1 tvg-ID="GJR" tvg-name="Globo TV TEM S.J. Rio Preto" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo TV TEM S.J. Rio Preto
-http://a.srvbr.me:8880/marcela123/marcela123/5307
-#EXTINF:-1 tvg-ID="GJR" tvg-name="Globo TV TEM S.J. Rio Preto HD" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo TV TEM S.J. Rio Preto HD
-http://a.srvbr.me:8880/marcela123/marcela123/5308
-#EXTINF:-1 tvg-ID="TEM" tvg-name="Globo - TV TEM Bauru" tvg-logo="http://img.miptv.ws/TV_Tem_Bauru.png" group-title="TV Aberta",Globo - TV TEM Bauru
-http://a.srvbr.me:8880/marcela123/marcela123/714
-#EXTINF:-1 tvg-ID="TEM" tvg-name="Globo - TV TEM Sorocaba" tvg-logo="http://img.miptv.ws/TV_Tem_Bauru.png" group-title="TV Aberta",Globo - TV TEM Sorocaba
-http://a.srvbr.me:8880/marcela123/marcela123/713
-#EXTINF:-1 tvg-ID="GBF" tvg-name="Globo - TV Verdes Mares" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo - TV Verdes Mares
-http://a.srvbr.me:8880/marcela123/marcela123/5068
-#EXTINF:-1 tvg-ID="GHS" tvg-name="+Globosat" tvg-logo="http://img.miptv.ws/Mais_Globosat.png" group-title="Filmes e Séries",+Globosat
-http://a.srvbr.me:8880/marcela123/marcela123/804
-#EXTINF:-1 tvg-ID="GHS" tvg-name="+Globosat HD" tvg-logo="http://img.miptv.ws/Mais_Globosat.png" group-title="Filmes e Séries",+Globosat HD
-http://a.srvbr.me:8880/marcela123/marcela123/1488
-#EXTINF:-1 tvg-ID="GHS" tvg-name="+Globosat HD [PLUS]" tvg-logo="http://img.miptv.ws/Mais_Globosat.png" group-title="Filmes e Séries",+Globosat HD [PLUS]
-http://a.srvbr.me:8880/marcela123/marcela123/4135
-#EXTINF:-1 tvg-ID="GOB" tvg-name="Gloob" tvg-logo="http://img.miptv.ws/Gloob.png" group-title="Infantil",Gloob
-http://a.srvbr.me:8880/marcela123/marcela123/825
-#EXTINF:-1 tvg-ID="GOB" tvg-name="Gloob HD" tvg-logo="http://img.miptv.ws/Gloob.png" group-title="Infantil",Gloob HD
-http://a.srvbr.me:8880/marcela123/marcela123/1490
-#EXTINF:-1 tvg-ID="GOB" tvg-name="Gloob Full HD" tvg-logo="http://img.miptv.ws/Gloob.png" group-title="Infantil",Gloob Full HD
-http://a.srvbr.me:8880/marcela123/marcela123/5441
-#EXTINF:-1 tvg-ID="GOB" tvg-name="Gloob HD [PLUS]" tvg-logo="http://img.miptv.ws/Gloob.png" group-title="Infantil",Gloob HD [PLUS]
-http://a.srvbr.me:8880/marcela123/marcela123/1848
-#EXTINF:-1 tvg-ID="NOEPG English" tvg-name="Gloobinho" tvg-logo="http://img.miptv.ws/Gloobinho.png" group-title="Infantil",Gloobinho
-http://a.srvbr.me:8880/marcela123/marcela123/5306
-#EXTINF:-1 tvg-ID="NOEPG English" tvg-name="Gloobinho HD" tvg-logo="http://img.miptv.ws/Gloobinho.png" group-title="Infantil",Gloobinho HD
-http://a.srvbr.me:8880/marcela123/marcela123/5305
-#EXTINF:-1 tvg-ID="GNT" tvg-name="GNT" tvg-logo="http://img.miptv.ws/GNT.png" group-title="Variedades",GNT
-http://a.srvbr.me:8880/marcela123/marcela123/824
-#EXTINF:-1 tvg-ID="GNT" tvg-name="GNT HD" tvg-logo="http://img.miptv.ws/GNT.png" group-title="Variedades",GNT HD
-http://a.srvbr.me:8880/marcela123/marcela123/823
-#EXTINF:-1 tvg-ID="GNT" tvg-name="GNT HD [PLUS]" tvg-logo="http://img.miptv.ws/GNT.png" group-title="Variedades",GNT HD [PLUS]
-http://a.srvbr.me:8880/marcela123/marcela123/4142
-#EXTINF:-1 tvg-ID="CH2" tvg-name="H2" tvg-logo="http://img.miptv.ws/H2.png" group-title="Documentários",H2
-http://a.srvbr.me:8880/marcela123/marcela123/822
-#EXTINF:-1 tvg-ID="CH2" tvg-name="H2 HD" tvg-logo="http://img.miptv.ws/H2.png" group-title="Documentários",H2 HD
-http://a.srvbr.me:8880/marcela123/marcela123/821
-#EXTINF:-1 tvg-ID="CH2" tvg-name="H2 [PLUS]" tvg-logo="http://img.miptv.ws/H2.png" group-title="Documentários",H2 [PLUS]
-http://a.srvbr.me:8880/marcela123/marcela123/4141
-#EXTINF:-1 tvg-ID="HBO" tvg-name="HBO" tvg-logo="http://img.miptv.ws/HBO.png" group-title="Filmes e Séries",HBO
-http://a.srvbr.me:8880/marcela123/marcela123/820
-#EXTINF:-1 tvg-ID="HBO" tvg-name="HBO HD" tvg-logo="http://img.miptv.ws/HBO.png" group-title="Filmes e Séries",HBO HD
-http://a.srvbr.me:8880/marcela123/marcela123/816
-#EXTINF:-1 tvg-ID="HBO" tvg-name="HBO Full HD" tvg-logo="http://img.miptv.ws/HBO.png" group-title="Filmes e Séries",HBO Full HD
-http://a.srvbr.me:8880/marcela123/marcela123/5467
-#EXTINF:-1 tvg-ID="HBO" tvg-name="HBO HD [PLUS]" tvg-logo="http://img.miptv.ws/HBO_HD.png" group-title="Filmes e Séries",HBO HD [PLUS]
-http://a.srvbr.me:8880/marcela123/marcela123/1850
-#EXTINF:-1 tvg-ID="HB2" tvg-name="HBO 2" tvg-logo="http://img.miptv.ws/HBO_2_HD.png" group-title="Filmes e Séries",HBO 2
-http://a.srvbr.me:8880/marcela123/marcela123/810
-#EXTINF:-1 tvg-ID="HB2" tvg-name="HBO 2 HD" tvg-logo="http://img.miptv.ws/HBO_2_HD.png" group-title="Filmes e Séries",HBO 2 HD
-http://a.srvbr.me:8880/marcela123/marcela123/819
-#EXTINF:-1 tvg-ID="H2H" tvg-name="HBO 2 Full HD" tvg-logo="http://img.miptv.ws/HBO_2.png" group-title="Filmes e Séries",HBO 2 Full HD
-http://a.srvbr.me:8880/marcela123/marcela123/5468
-#EXTINF:-1 tvg-ID="H2H" tvg-name="HBO 2 HD [PLUS]" tvg-logo="http://img.miptv.ws/HBO_2_HD.png" group-title="Filmes e Séries",HBO 2 HD [PLUS]
-http://a.srvbr.me:8880/marcela123/marcela123/1849
-#EXTINF:-1 tvg-ID="HFA" tvg-name="HBO Family" tvg-logo="http://img.miptv.ws/HBO_Family.png" group-title="Filmes e Séries",HBO Family
-http://a.srvbr.me:8880/marcela123/marcela123/818
-#EXTINF:-1 tvg-ID="HFA" tvg-name="HBO Family HD" tvg-logo="http://img.miptv.ws/HBO_Family.png" group-title="Filmes e Séries",HBO Family HD
-http://a.srvbr.me:8880/marcela123/marcela123/817
-#EXTINF:-1 tvg-ID="HFA" tvg-name="HBO Family HD [PLUS]" tvg-logo="http://img.miptv.ws/HBO_Family.png" group-title="Filmes e Séries",HBO Family HD [PLUS]
-http://a.srvbr.me:8880/marcela123/marcela123/4140
-#EXTINF:-1 tvg-ID="HPL" tvg-name="HBO Plus" tvg-logo="http://img.miptv.ws/HBO_Plus.png" group-title="Filmes e Séries",HBO Plus
-http://a.srvbr.me:8880/marcela123/marcela123/815
-#EXTINF:-1 tvg-ID="HPL" tvg-name="HBO Plus HD" tvg-logo="http://img.miptv.ws/HBO_Plus.png" group-title="Filmes e Séries",HBO Plus HD
-http://a.srvbr.me:8880/marcela123/marcela123/813
-#EXTINF:-1 tvg-ID="HPL" tvg-name="HBO Plus HD [PLUS]" tvg-logo="http://img.miptv.ws/HBO_Plus.png" group-title="Filmes e Séries",HBO Plus HD [PLUS]
-http://a.srvbr.me:8880/marcela123/marcela123/4139
-#EXTINF:-1 tvg-ID="HFE" tvg-name="HBO Signature" tvg-logo="http://img.miptv.ws/HBO_Signature_HD.png" group-title="Filmes e Séries",HBO Signature
-http://a.srvbr.me:8880/marcela123/marcela123/812
-#EXTINF:-1 tvg-ID="HFE" tvg-name="HBO Signature HD" tvg-logo="http://img.miptv.ws/HBO_Signature_HD.png" group-title="Filmes e Séries",HBO Signature HD
-http://a.srvbr.me:8880/marcela123/marcela123/811
-#EXTINF:-1 tvg-ID="HFE" tvg-name="HBO Signature HD [PLUS]" tvg-logo="http://img.miptv.ws/HBO_Signature_HD.png" group-title="Filmes e Séries",HBO Signature HD [PLUS]
-http://a.srvbr.me:8880/marcela123/marcela123/4138
-#EXTINF:-1 tvg-ID="HIS" tvg-name="History" tvg-logo="http://img.miptv.ws/History_Channel.png" group-title="Documentários",History
-http://a.srvbr.me:8880/marcela123/marcela123/726
-#EXTINF:-1 tvg-ID="HIS" tvg-name="History HD" tvg-logo="http://img.miptv.ws/History_Channel.png" group-title="Documentários",History HD
-http://a.srvbr.me:8880/marcela123/marcela123/809
-#EXTINF:-1 tvg-ID="HIS" tvg-name="History Full HD" tvg-logo="http://img.miptv.ws/History.png" group-title="Documentários",History Full HD
-http://a.srvbr.me:8880/marcela123/marcela123/5424
-#EXTINF:-1 tvg-ID="HIS" tvg-name="History HD [PLUS]" tvg-logo="http://img.miptv.ws/History_Channel.png" group-title="Documentários",History HD [PLUS]
-http://a.srvbr.me:8880/marcela123/marcela123/4137
-#EXTINF:-1 tvg-ID="LIV" tvg-name="ID" tvg-logo="http://img.miptv.ws/ID.png" group-title="Variedades",ID
-http://a.srvbr.me:8880/marcela123/marcela123/807
-#EXTINF:-1 tvg-ID="LIV" tvg-name="ID HD" tvg-logo="http://img.miptv.ws/ID.png" group-title="Variedades",ID HD
-http://a.srvbr.me:8880/marcela123/marcela123/806
-#EXTINF:-1 tvg-ID="LIV" tvg-name="ID HD [PLUS]" tvg-logo="http://img.miptv.ws/ID.png" group-title="Variedades",ID HD [PLUS]
-http://a.srvbr.me:8880/marcela123/marcela123/4155
-#EXTINF:-1 tvg-ID="ANX" tvg-name="Lifetime" tvg-logo="http://img.miptv.ws/Lifetime.png" group-title="Variedades",Lifetime
-http://a.srvbr.me:8880/marcela123/marcela123/805
-#EXTINF:-1 tvg-ID="ANX" tvg-name="Lifetime HD" tvg-logo="http://img.miptv.ws/Lifetime.png" group-title="Variedades",Lifetime HD
-http://a.srvbr.me:8880/marcela123/marcela123/1489
-#EXTINF:-1 tvg-ID="ANX" tvg-name="Lifetime [PLUS]" tvg-logo="http://img.miptv.ws/Lifetime.png" group-title="Variedades",Lifetime [PLUS]
-http://a.srvbr.me:8880/marcela123/marcela123/4136
-#EXTINF:-1 tvg-ID="MHD" tvg-name="HBO MUNDI" tvg-logo="http://img.miptv.ws/Max_HD.png" group-title="Filmes e Séries",HBO MUNDI
-http://a.srvbr.me:8880/marcela123/marcela123/803
-#EXTINF:-1 tvg-ID="MHD" tvg-name="HBO MUNDI HD" tvg-logo="http://img.miptv.ws/Max_HD.png" group-title="Filmes e Séries",HBO MUNDI HD
-http://a.srvbr.me:8880/marcela123/marcela123/1497
-#EXTINF:-1 tvg-ID="MAP" tvg-name="HBO XTREME" tvg-logo="http://img.miptv.ws/Max_Prime.png" group-title="Filmes e Séries",HBO XTREME
-http://a.srvbr.me:8880/marcela123/marcela123/802
-#EXTINF:-1 tvg-ID="SET" tvg-name="Sony" tvg-logo="http://img.miptv.ws/Canal_Sony.png" group-title="Filmes e Séries",Sony
-http://a.srvbr.me:8880/marcela123/marcela123/881
-#EXTINF:-1 tvg-ID="SEH" tvg-name="Sony HD" tvg-logo="http://img.miptv.ws/Canal_Sony.png" group-title="Filmes e Séries",Sony HD
-http://a.srvbr.me:8880/marcela123/marcela123/880
-#EXTINF:-1 tvg-ID="SEH" tvg-name="Sony HD [PLUS]" tvg-logo="http://img.miptv.ws/Canal_Sony.png" group-title="Filmes e Séries",Sony HD [PLUS]
-http://a.srvbr.me:8880/marcela123/marcela123/4115
-#EXTINF:-1 tvg-ID="MAP" tvg-name="HBO Xtreme HD" tvg-logo="http://img.miptv.ws/Max_Prime.png" group-title="Filmes e Séries",HBO Xtreme HD
-http://a.srvbr.me:8880/marcela123/marcela123/1487
-#EXTINF:-1 tvg-ID="MHD" tvg-name="Maxup HD [PLUS]" tvg-logo="http://img.miptv.ws/Max_UP.png" group-title="Filmes e Séries",Maxup HD [PLUS]
-http://a.srvbr.me:8880/marcela123/marcela123/4134
-#EXTINF:-1 tvg-ID="MPX" tvg-name="MegaPix" tvg-logo="http://img.miptv.ws/Megapix_HD.png" group-title="Filmes e Séries",MegaPix
-http://a.srvbr.me:8880/marcela123/marcela123/799
-#EXTINF:-1 tvg-ID="MPX" tvg-name="Megapix HD" tvg-logo="http://img.miptv.ws/Megapix_HD.png" group-title="Filmes e Séries",Megapix HD
-http://a.srvbr.me:8880/marcela123/marcela123/798
-#EXTINF:-1 tvg-ID="MPX" tvg-name="Megapix HD [PLUS]" tvg-logo="http://img.miptv.ws/Megapix_HD.png" group-title="Filmes e Séries",Megapix HD [PLUS]
-http://a.srvbr.me:8880/marcela123/marcela123/1851
-#EXTINF:-1 tvg-ID="MTV" tvg-name="MTV" tvg-logo="http://img.miptv.ws/MTV.png" group-title="Variedades",MTV
-http://a.srvbr.me:8880/marcela123/marcela123/797
-#EXTINF:-1 tvg-ID="MTV" tvg-name="MTV HD" tvg-logo="http://img.miptv.ws/MTV.png" group-title="Variedades",MTV HD
-http://a.srvbr.me:8880/marcela123/marcela123/1485
-#EXTINF:-1 tvg-ID="MTV" tvg-name="MTV HD [PLUS]" tvg-logo="http://img.miptv.ws/MTV.png" group-title="Variedades",MTV HD [PLUS]
-http://a.srvbr.me:8880/marcela123/marcela123/4133
-#EXTINF:-1 tvg-ID="MSW" tvg-name="Multishow" tvg-logo="http://img.miptv.ws/Multishow.png" group-title="Variedades",Multishow
-http://a.srvbr.me:8880/marcela123/marcela123/796
-#EXTINF:-1 tvg-ID="MSW" tvg-name="Multishow HD" tvg-logo="http://img.miptv.ws/Multishow.png" group-title="Variedades",Multishow HD
-http://a.srvbr.me:8880/marcela123/marcela123/795
-#EXTINF:-1 tvg-ID="MSW" tvg-name="Multishow HD [PLUS]" tvg-logo="http://img.miptv.ws/Multishow.png" group-title="Variedades",Multishow HD [PLUS]
-http://a.srvbr.me:8880/marcela123/marcela123/4131
-#EXTINF:-1 tvg-ID="MUB" tvg-name="Music Box Brasil" tvg-logo="http://img.miptv.ws/Music_Box_Brazil.png" group-title="Variedades",Music Box Brasil
-http://a.srvbr.me:8880/marcela123/marcela123/794
-#EXTINF:-1 tvg-ID="MUB" tvg-name="Music Box Brasil HD" tvg-logo="http://img.miptv.ws/Music_Box_Brazil.png" group-title="Variedades",Music Box Brasil HD
-http://a.srvbr.me:8880/marcela123/marcela123/5304
-#EXTINF:-1 tvg-ID="NGH" tvg-name="NatGeo Wild" tvg-logo="http://img.miptv.ws/Nat_Geo_Wild_HD.png" group-title="Documentários",NatGeo Wild
-http://a.srvbr.me:8880/marcela123/marcela123/793
-#EXTINF:-1 tvg-ID="NGH" tvg-name="NatGeo Wild HD" tvg-logo="http://img.miptv.ws/Nat_Geo_Wild_HD.png" group-title="Documentários",NatGeo Wild HD
-http://a.srvbr.me:8880/marcela123/marcela123/702
-#EXTINF:-1 tvg-ID="NGH" tvg-name="Nat Geo Wild Full HD" tvg-logo="http://img.miptv.ws/Nat_Geo_Wild_HD.png" group-title="Documentários",Nat Geo Wild Full HD
-http://a.srvbr.me:8880/marcela123/marcela123/5428
-#EXTINF:-1 tvg-ID="NOEPG English" tvg-name="Natgeo Kids" tvg-logo="http://img.miptv.ws/Natgeo_Kids.png" group-title="Infantil",Natgeo Kids
-http://a.srvbr.me:8880/marcela123/marcela123/5303
-#EXTINF:-1 tvg-ID="NOEPG English" tvg-name="Natgeo Kids HD" tvg-logo="http://img.miptv.ws/Natgeo_Kids.png" group-title="Infantil",Natgeo Kids HD
-http://a.srvbr.me:8880/marcela123/marcela123/5302
-#EXTINF:-1 tvg-ID="SUP" tvg-name="National Geographic" tvg-logo="http://img.miptv.ws/Nat_Geo_HD.png" group-title="Documentários",National Geographic
-http://a.srvbr.me:8880/marcela123/marcela123/792
-#EXTINF:-1 tvg-ID="SUP" tvg-name="National Geographic HD" tvg-logo="http://img.miptv.ws/Nat_Geo_HD.png" group-title="Documentários",National Geographic HD
-http://a.srvbr.me:8880/marcela123/marcela123/791
-#EXTINF:-1 tvg-ID="SUP" tvg-name="National Geographic [PLUS]" tvg-logo="http://img.miptv.ws/Nat_Geo_HD.png" group-title="Documentários",National Geographic [PLUS]
-http://a.srvbr.me:8880/marcela123/marcela123/4129
-#EXTINF:-1 tvg-ID="NHK" tvg-name="NHK" tvg-logo="http://img.miptv.ws/NHK.png" group-title="Internacional",NHK
-http://a.srvbr.me:8880/marcela123/marcela123/789
-#EXTINF:-1 tvg-ID="NIC" tvg-name="Nickelodeon" tvg-logo="http://img.miptv.ws/Nick.png" group-title="Infantil",Nickelodeon
-http://a.srvbr.me:8880/marcela123/marcela123/787
-#EXTINF:-1 tvg-ID="NIC" tvg-name="Nickelodeon HD" tvg-logo="http://img.miptv.ws/Nick.png" group-title="Infantil",Nickelodeon HD
-http://a.srvbr.me:8880/marcela123/marcela123/1484
-#EXTINF:-1 tvg-ID="NIC" tvg-name="Nicklodeon Full HD" tvg-logo="http://img.miptv.ws/Nick.png" group-title="Infantil",Nicklodeon Full HD
-http://a.srvbr.me:8880/marcela123/marcela123/5426
-#EXTINF:-1 tvg-ID="NIC" tvg-name="Nickelodeon HD [PLUS]" tvg-logo="http://img.miptv.ws/Nick.png" group-title="Infantil",Nickelodeon HD [PLUS]
-http://a.srvbr.me:8880/marcela123/marcela123/4128
-#EXTINF:-1 tvg-ID="NJR" tvg-name="Nick Jr." tvg-logo="http://img.miptv.ws/Nick_Jr..png" group-title="Infantil",Nick Jr.
-http://a.srvbr.me:8880/marcela123/marcela123/788
-#EXTINF:-1 tvg-ID="NJR" tvg-name="Nick Jr. HD" tvg-logo="http://img.miptv.ws/Nick_Jr..png" group-title="Infantil",Nick Jr. HD
-http://a.srvbr.me:8880/marcela123/marcela123/5301
-#EXTINF:-1 tvg-ID="NJR" tvg-name="Nick JR Full HD" tvg-logo="http://img.miptv.ws/Nick_Jr..png" group-title="Infantil",Nick JR Full HD
-http://a.srvbr.me:8880/marcela123/marcela123/5427
-#EXTINF:-1 tvg-ID="OFF" tvg-name="OFF" tvg-logo="http://img.miptv.ws/OFF.png" group-title="Esportes",OFF
-http://a.srvbr.me:8880/marcela123/marcela123/785
-#EXTINF:-1 tvg-ID="OFF" tvg-name="OFF HD" tvg-logo="http://img.miptv.ws/OFF.png" group-title="Esportes",OFF HD
-http://a.srvbr.me:8880/marcela123/marcela123/784
-#EXTINF:-1 tvg-ID="OFF" tvg-name="OFF HD [PLUS]" tvg-logo="http://img.miptv.ws/OFF.png" group-title="Esportes",OFF HD [PLUS]
-http://a.srvbr.me:8880/marcela123/marcela123/4125
-#EXTINF:-1 tvg-ID="PAR" tvg-name="Paramount Channel" tvg-logo="http://img.miptv.ws/Paramount.png" group-title="Filmes e Séries",Paramount Channel
-http://a.srvbr.me:8880/marcela123/marcela123/783
-#EXTINF:-1 tvg-ID="PAQ" tvg-name="Paramount Channel HD" tvg-logo="http://img.miptv.ws/Paramount.png" group-title="Filmes e Séries",Paramount Channel HD
-http://a.srvbr.me:8880/marcela123/marcela123/782
-#EXTINF:-1 tvg-ID="PAR" tvg-name="Paramount HD [PLUS]" tvg-logo="http://img.miptv.ws/Paramount.png" group-title="Filmes e Séries",Paramount HD [PLUS]
-http://a.srvbr.me:8880/marcela123/marcela123/4124
-#EXTINF:-1 tvg-ID="121" tvg-name="Premiere Clubes" tvg-logo="http://img.miptv.ws/Premiere_Clubes.png" group-title="Esportes",Premiere Clubes
-http://a.srvbr.me:8880/marcela123/marcela123/767
-#EXTINF:-1 tvg-ID="9A1" tvg-name="Premiere Clubes HD" tvg-logo="http://img.miptv.ws/Premiere_1_HD.png" group-title="Esportes",Premiere Clubes HD
-http://a.srvbr.me:8880/marcela123/marcela123/780
-#EXTINF:-1 tvg-ID="121" tvg-name="Premiere Clubes Full HD" tvg-logo="http://img.miptv.ws/Premiere_Clubes.png" group-title="Esportes",Premiere Clubes Full HD
-http://a.srvbr.me:8880/marcela123/marcela123/5455
-#EXTINF:-1 tvg-ID="121" tvg-name="Premiere Clubes HD [ALTERNATIVO]" tvg-logo="http://img.miptv.ws/Premiere_Clubes.png" group-title="Esportes",Premiere Clubes HD [ALTERNATIVO]
-http://a.srvbr.me:8880/marcela123/marcela123/1852
-#EXTINF:-1 tvg-ID="9A2" tvg-name="PFC 2" tvg-logo="http://img.miptv.ws/Premiere_2.png" group-title="Esportes",PFC 2
-http://a.srvbr.me:8880/marcela123/marcela123/779
-#EXTINF:-1 tvg-ID="9A2" tvg-name="PFC 2 HD" tvg-logo="http://img.miptv.ws/Premiere_2.png" group-title="Esportes",PFC 2 HD
-http://a.srvbr.me:8880/marcela123/marcela123/778
-#EXTINF:-1 tvg-ID="9A2" tvg-name="PFC 2 Full HD" tvg-logo="http://img.miptv.ws/Premiere_2.png" group-title="Esportes",PFC 2 Full HD
-http://a.srvbr.me:8880/marcela123/marcela123/5454
-#EXTINF:-1 tvg-ID="9A2" tvg-name="PFC 2 [ALTERNATIVO]" tvg-logo="http://img.miptv.ws/Premiere_Clubes.png" group-title="Esportes",PFC 2 [ALTERNATIVO]
-http://a.srvbr.me:8880/marcela123/marcela123/1853
-#EXTINF:-1 tvg-ID="9A3" tvg-name="PFC 3" tvg-logo="http://img.miptv.ws/Premiere_3.png" group-title="Esportes",PFC 3
-http://a.srvbr.me:8880/marcela123/marcela123/777
-#EXTINF:-1 tvg-ID="9A3" tvg-name="PFC 3 HD" tvg-logo="http://img.miptv.ws/Premiere_3.png" group-title="Esportes",PFC 3 HD
-http://a.srvbr.me:8880/marcela123/marcela123/776
-#EXTINF:-1 tvg-ID="9A3" tvg-name="PFC 3 Full HD" tvg-logo="http://img.miptv.ws/Premiere_3.png" group-title="Esportes",PFC 3 Full HD
-http://a.srvbr.me:8880/marcela123/marcela123/5453
-#EXTINF:-1 tvg-ID="9A3" tvg-name="PFC 3 [ALTERNATIVO]" tvg-logo="http://img.miptv.ws/Premiere_Clubes.png" group-title="Esportes",PFC 3 [ALTERNATIVO]
-http://a.srvbr.me:8880/marcela123/marcela123/1854
-#EXTINF:-1 tvg-ID="9A4" tvg-name="PFC 4" tvg-logo="http://img.miptv.ws/Premiere_4.png" group-title="Esportes",PFC 4
-http://a.srvbr.me:8880/marcela123/marcela123/775
-#EXTINF:-1 tvg-ID="9A4" tvg-name="PFC 4 HD" tvg-logo="http://img.miptv.ws/Premiere_4.png" group-title="Esportes",PFC 4 HD
-http://a.srvbr.me:8880/marcela123/marcela123/774
-#EXTINF:-1 tvg-ID="9A4" tvg-name="PFC 4 Full HD" tvg-logo="http://img.miptv.ws/Premiere_4.png" group-title="Esportes",PFC 4 Full HD
-http://a.srvbr.me:8880/marcela123/marcela123/5452
-#EXTINF:-1 tvg-ID="9A4" tvg-name="PFC 4 [ALTERNATIVO]" tvg-logo="http://img.miptv.ws/Premiere_Clubes.png" group-title="Esportes",PFC 4 [ALTERNATIVO]
-http://a.srvbr.me:8880/marcela123/marcela123/1855
-#EXTINF:-1 tvg-ID="9A5" tvg-name="PFC 5" tvg-logo="http://img.miptv.ws/Premiere_5.png" group-title="Esportes",PFC 5
-http://a.srvbr.me:8880/marcela123/marcela123/773
-#EXTINF:-1 tvg-ID="9A5" tvg-name="PFC 5 HD" tvg-logo="http://img.miptv.ws/Premiere_5.png" group-title="Esportes",PFC 5 HD
-http://a.srvbr.me:8880/marcela123/marcela123/772
-#EXTINF:-1 tvg-ID="9A5" tvg-name="PFC 5 Full HD" tvg-logo="http://img.miptv.ws/Premiere_5.png" group-title="Esportes",PFC 5 Full HD
-http://a.srvbr.me:8880/marcela123/marcela123/5451
-#EXTINF:-1 tvg-ID="9A5" tvg-name="PFC 5 [ALTERNATIVO]" tvg-logo="http://img.miptv.ws/Premiere_Clubes.png" group-title="Esportes",PFC 5 [ALTERNATIVO]
-http://a.srvbr.me:8880/marcela123/marcela123/1856
-#EXTINF:-1 tvg-ID="9A6" tvg-name="PFC 6" tvg-logo="http://img.miptv.ws/Premiere_6.png" group-title="Esportes",PFC 6
-http://a.srvbr.me:8880/marcela123/marcela123/771
-#EXTINF:-1 tvg-ID="9A6" tvg-name="PFC 6 HD" tvg-logo="http://img.miptv.ws/Premiere_6.png" group-title="Esportes",PFC 6 HD
-http://a.srvbr.me:8880/marcela123/marcela123/4123
-#EXTINF:-1 tvg-ID="9A6" tvg-name="PFC 6 Full HD" tvg-logo="http://img.miptv.ws/Premiere_6.png" group-title="Esportes",PFC 6 Full HD
-http://a.srvbr.me:8880/marcela123/marcela123/5450
-#EXTINF:-1 tvg-ID="9A6" tvg-name="PFC 6 [ALTERNATIVO]" tvg-logo="http://img.miptv.ws/Premiere_6.png" group-title="Esportes",PFC 6 [ALTERNATIVO]
-http://a.srvbr.me:8880/marcela123/marcela123/5330
-#EXTINF:-1 tvg-ID="9A7" tvg-name="PFC 7" tvg-logo="http://img.miptv.ws/Premiere_7.png" group-title="Esportes",PFC 7
-http://a.srvbr.me:8880/marcela123/marcela123/770
-#EXTINF:-1 tvg-ID="9A7" tvg-name="PFC 7 HD" tvg-logo="http://img.miptv.ws/Premiere_7.png" group-title="Esportes",PFC 7 HD
-http://a.srvbr.me:8880/marcela123/marcela123/4122
-#EXTINF:-1 tvg-ID="9A7" tvg-name="PFC 7 Full HD" tvg-logo="http://img.miptv.ws/Premiere_7.png" group-title="Esportes",PFC 7 Full HD
-http://a.srvbr.me:8880/marcela123/marcela123/5449
-#EXTINF:-1 tvg-ID="9A7" tvg-name="PFC 7 [ALTERNATIVO]" tvg-logo="http://img.miptv.ws/Premiere_7.png" group-title="Esportes",PFC 7 [ALTERNATIVO]
-http://a.srvbr.me:8880/marcela123/marcela123/5331
-#EXTINF:-1 tvg-ID="9A8" tvg-name="PFC 8" tvg-logo="http://img.miptv.ws/Premiere_8.png" group-title="Esportes",PFC 8
-http://a.srvbr.me:8880/marcela123/marcela123/769
-#EXTINF:-1 tvg-ID="781" tvg-name="PFC 9" tvg-logo="http://img.miptv.ws/Premiere_9.png" group-title="Esportes",PFC 9
-http://a.srvbr.me:8880/marcela123/marcela123/768
-#EXTINF:-1 tvg-ID="BQ7" tvg-name="Prime Box Brasil HD" tvg-logo="http://img.miptv.ws/Prime_Box_Brazil.png" group-title="Variedades",Prime Box Brasil HD
-http://a.srvbr.me:8880/marcela123/marcela123/5300
-#EXTINF:-1 tvg-ID="REC" tvg-name="Record" tvg-logo="http://img.miptv.ws/Record.png" group-title="TV Aberta",Record
-http://a.srvbr.me:8880/marcela123/marcela123/761
-#EXTINF:-1 tvg-ID="REC" tvg-name="Record HD" tvg-logo="http://img.miptv.ws/Record.png" group-title="TV Aberta",Record HD
-http://a.srvbr.me:8880/marcela123/marcela123/763
-#EXTINF:-1 tvg-ID="REC" tvg-name="Record Full HD" tvg-logo="http://img.miptv.ws/Record.png" group-title="TV Aberta",Record Full HD
-http://a.srvbr.me:8880/marcela123/marcela123/5466
-#EXTINF:-1 tvg-ID="" tvg-name="Globo Internacional" tvg-logo="http://img.miptv.ws/Globo_Internacional.png" group-title="Internacional",Globo Internacional
-http://a.srvbr.me:8880/marcela123/marcela123/604
-#EXTINF:-1 tvg-ID="REC" tvg-name="Record HD [PLUS]" tvg-logo="http://img.miptv.ws/Record.png" group-title="TV Aberta",Record HD [PLUS]
-http://a.srvbr.me:8880/marcela123/marcela123/1857
-#EXTINF:-1 tvg-ID="RSA" tvg-name="Record BA" tvg-logo="http://img.miptv.ws/Record.png" group-title="TV Aberta",Record BA
-http://a.srvbr.me:8880/marcela123/marcela123/11072
-#EXTINF:-1 tvg-ID="RSA" tvg-name="Record BA HD" tvg-logo="http://img.miptv.ws/Record.png" group-title="TV Aberta",Record BA HD
-http://a.srvbr.me:8880/marcela123/marcela123/11071
-#EXTINF:-1 tvg-ID="RBH" tvg-name="Record DF" tvg-logo="http://img.miptv.ws/Record.png" group-title="TV Aberta",Record DF
-http://a.srvbr.me:8880/marcela123/marcela123/11069
-#EXTINF:-1 tvg-ID="RBH" tvg-name="Record DF HD" tvg-logo="http://img.miptv.ws/Record.png" group-title="TV Aberta",Record DF HD
-http://a.srvbr.me:8880/marcela123/marcela123/11068
-#EXTINF:-1 tvg-ID="RMG" tvg-name="Record MG" tvg-logo="http://img.miptv.ws/Record.png" group-title="TV Aberta",Record MG
-http://a.srvbr.me:8880/marcela123/marcela123/7565
-#EXTINF:-1 tvg-ID="RMG" tvg-name="Record MG HD" tvg-logo="http://img.miptv.ws/Record.png" group-title="TV Aberta",Record MG HD
-http://a.srvbr.me:8880/marcela123/marcela123/7566
-#EXTINF:-1 tvg-ID="RJH" tvg-name="Record RJ" tvg-logo="http://img.miptv.ws/Record.png" group-title="TV Aberta",Record RJ
-http://a.srvbr.me:8880/marcela123/marcela123/7567
-#EXTINF:-1 tvg-ID="RJH" tvg-name="Record RJ HD" tvg-logo="http://img.miptv.ws/Record.png" group-title="TV Aberta",Record RJ HD
-http://a.srvbr.me:8880/marcela123/marcela123/7568
-#EXTINF:-1 tvg-ID="GUA" tvg-name="Record RS" tvg-logo="http://img.miptv.ws/Record.png" group-title="TV Aberta",Record RS
-http://a.srvbr.me:8880/marcela123/marcela123/11066
-#EXTINF:-1 tvg-ID="GUA" tvg-name="Record RS HD" tvg-logo="http://img.miptv.ws/Record.png" group-title="TV Aberta",Record RS HD
-http://a.srvbr.me:8880/marcela123/marcela123/11065
-#EXTINF:-1 tvg-ID="" tvg-name="Record Internacional" tvg-logo="https://img.miptv.ws/Record.png" group-title="Internacional",Record Internacional
-http://a.srvbr.me:8880/marcela123/marcela123/899
-#EXTINF:-1 tvg-ID="RCN" tvg-name="Record News" tvg-logo="http://img.miptv.ws/Record_News.png" group-title="Notícias",Record News
-http://a.srvbr.me:8880/marcela123/marcela123/762
-#EXTINF:-1 tvg-ID="TRV" tvg-name="RedeTV!" tvg-logo="http://img.miptv.ws/RedeTV!.png" group-title="TV Aberta",RedeTV!
-http://a.srvbr.me:8880/marcela123/marcela123/759
-#EXTINF:-1 tvg-ID="RTV" tvg-name="RedeTV! HD" tvg-logo="http://img.miptv.ws/RedeTV!.png" group-title="TV Aberta",RedeTV! HD
-http://a.srvbr.me:8880/marcela123/marcela123/758
-#EXTINF:-1 tvg-ID="RTV" tvg-name="RedeTV! HD [PLUS]" tvg-logo="http://img.miptv.ws/RedeTV!.png" group-title="TV Aberta",RedeTV! HD [PLUS]
-http://a.srvbr.me:8880/marcela123/marcela123/4119
-#EXTINF:-1 tvg-ID="VDA" tvg-name="Rede Vida" tvg-logo="http://img.miptv.ws/Rede_Vida.png" group-title="Religiosos",Rede Vida
-http://a.srvbr.me:8880/marcela123/marcela123/757
-#EXTINF:-1 tvg-ID="VDA" tvg-name="Rede Vida HD" tvg-logo="http://img.miptv.ws/Rede_Vida.png" group-title="Religiosos",Rede Vida HD
-http://a.srvbr.me:8880/marcela123/marcela123/5653
-#EXTINF:-1 tvg-ID="SBD" tvg-name="SBT" tvg-logo="http://img.miptv.ws/SBT.png" group-title="TV Aberta",SBT
-http://a.srvbr.me:8880/marcela123/marcela123/756
-#EXTINF:-1 tvg-ID="SBD" tvg-name="SBT HD" tvg-logo="http://img.miptv.ws/SBT.png" group-title="TV Aberta",SBT HD
-http://a.srvbr.me:8880/marcela123/marcela123/755
-#EXTINF:-1 tvg-ID="SBD" tvg-name="SBT Full HD" tvg-logo="http://img.miptv.ws/SBT.png" group-title="TV Aberta",SBT Full HD
-http://a.srvbr.me:8880/marcela123/marcela123/5465
-#EXTINF:-1 tvg-ID="SBD" tvg-name="SBT HD [PLUS]" tvg-logo="http://img.miptv.ws/SBT.png" group-title="TV Aberta",SBT HD [PLUS]
-http://a.srvbr.me:8880/marcela123/marcela123/1858
-#EXTINF:-1 tvg-ID="" tvg-name="SBT SP Interior" tvg-logo="http://img.miptv.ws/SBT_SP_HD.png" group-title="TV Aberta",SBT SP Interior
-http://a.srvbr.me:8880/marcela123/marcela123/5297
-#EXTINF:-1 tvg-ID="NOEPG English" tvg-name="Smithsonian Channel" tvg-logo="http://img.miptv.ws/smithsonianc1.png" group-title="Documentários",Smithsonian Channel
-http://a.srvbr.me:8880/marcela123/marcela123/11419
-#EXTINF:-1 tvg-ID="NOEPG English" tvg-name="Smithsonian Channel HD" tvg-logo="http://img.miptv.ws/smithsonianc1.png" group-title="Documentários",Smithsonian Channel HD
-http://a.srvbr.me:8880/marcela123/marcela123/11420
-#EXTINF:-1 tvg-ID="" tvg-name="RTP Internacional" tvg-logo="http://img.miptv.ws/RTP_Internacional.png" group-title="Internacional",RTP Internacional
-http://a.srvbr.me:8880/marcela123/marcela123/574
-#EXTINF:-1 tvg-ID="SPA" tvg-name="Space" tvg-logo="http://img.miptv.ws/Space_HD.png" group-title="Filmes e Séries",Space
-http://a.srvbr.me:8880/marcela123/marcela123/753
-#EXTINF:-1 tvg-ID="SPA" tvg-name="Space HD" tvg-logo="http://img.miptv.ws/Space_HD.png" group-title="Filmes e Séries",Space HD
-http://a.srvbr.me:8880/marcela123/marcela123/752
-#EXTINF:-1 tvg-ID="SPA" tvg-name="Space HD [PLUS]" tvg-logo="http://img.miptv.ws/Space_HD.png" group-title="Filmes e Séries",Space HD [PLUS]
-http://a.srvbr.me:8880/marcela123/marcela123/4114
-#EXTINF:-1 tvg-ID="SPO" tvg-name="SporTV" tvg-logo="http://img.miptv.ws/SporTV.png" group-title="Esportes",SporTV
-http://a.srvbr.me:8880/marcela123/marcela123/748
-#EXTINF:-1 tvg-ID="" tvg-name="SporTV HD" tvg-logo="http://img.miptv.ws/SporTV_3.png" group-title="Esportes",SporTV HD
-http://a.srvbr.me:8880/marcela123/marcela123/749
-#EXTINF:-1 tvg-ID="SPO" tvg-name="Sportv Full HD" tvg-logo="http://img.miptv.ws/SporTV.png" group-title="Esportes",Sportv Full HD
-http://a.srvbr.me:8880/marcela123/marcela123/5438
-#EXTINF:-1 tvg-ID="SPO" tvg-name="SporTV HD [PLUS]" tvg-logo="http://img.miptv.ws/SporTV_3.png" group-title="Esportes",SporTV HD [PLUS]
-http://a.srvbr.me:8880/marcela123/marcela123/1859
-#EXTINF:-1 tvg-ID="SP2" tvg-name="SporTV2" tvg-logo="http://img.miptv.ws/SporTV_2.png" group-title="Esportes",SporTV2
-http://a.srvbr.me:8880/marcela123/marcela123/747
-#EXTINF:-1 tvg-ID="SP2" tvg-name="SporTV2 HD" tvg-logo="http://img.miptv.ws/SporTV_2.png" group-title="Esportes",SporTV2 HD
-http://a.srvbr.me:8880/marcela123/marcela123/751
-#EXTINF:-1 tvg-ID="SP2" tvg-name="Sportv 2 Full HD" tvg-logo="http://img.miptv.ws/SporTV_2.png" group-title="Esportes",Sportv 2 Full HD
-http://a.srvbr.me:8880/marcela123/marcela123/5439
-#EXTINF:-1 tvg-ID="SP2" tvg-name="SporTV2 HD [PLUS]" tvg-logo="http://img.miptv.ws/SporTV_2.png" group-title="Esportes",SporTV2 HD [PLUS]
-http://a.srvbr.me:8880/marcela123/marcela123/1860
-#EXTINF:-1 tvg-ID="SP3" tvg-name="SporTV3" tvg-logo="http://img.miptv.ws/SporTV_3.png" group-title="Esportes",SporTV3
-http://a.srvbr.me:8880/marcela123/marcela123/745
-#EXTINF:-1 tvg-ID="SP3" tvg-name="SporTV3 HD" tvg-logo="http://img.miptv.ws/SporTV_3.png" group-title="Esportes",SporTV3 HD
-http://a.srvbr.me:8880/marcela123/marcela123/750
-#EXTINF:-1 tvg-ID="SP3" tvg-name="Sportv 3 Full HD" tvg-logo="http://img.miptv.ws/SporTV_3.png" group-title="Esportes",Sportv 3 Full HD
-http://a.srvbr.me:8880/marcela123/marcela123/5440
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTV 4 SD" tvg-logo="" group-title="Esportes",SPORTV 4 SD
-http://a.srvbr.me:8880/marcela123/marcela123/14913
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTV 4 HD" tvg-logo="" group-title="Esportes",SPORTV 4 HD
-http://a.srvbr.me:8880/marcela123/marcela123/14914
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTV 4 FHD" tvg-logo="" group-title="Esportes",SPORTV 4 FHD
-http://a.srvbr.me:8880/marcela123/marcela123/14915
-#EXTINF:-1 tvg-ID="SP3" tvg-name="SporTV3 HD [PLUS]" tvg-logo="http://img.miptv.ws/SporTV_3.png" group-title="Esportes",SporTV3 HD [PLUS]
-http://a.srvbr.me:8880/marcela123/marcela123/1861
-#EXTINF:-1 tvg-ID="HAL" tvg-name="Studio Universal" tvg-logo="http://img.miptv.ws/Studio_Universal_HD.png" group-title="Filmes e Séries",Studio Universal
-http://a.srvbr.me:8880/marcela123/marcela123/743
-#EXTINF:-1 tvg-ID="HAL" tvg-name="Studio Universal HD" tvg-logo="http://img.miptv.ws/Studio_Universal.png" group-title="Filmes e Séries",Studio Universal HD
-http://a.srvbr.me:8880/marcela123/marcela123/1480
-#EXTINF:-1 tvg-ID="HAL" tvg-name="Studio Universal HD [PLUS]" tvg-logo="http://img.miptv.ws/Studio_Universal_HD.png" group-title="Filmes e Séries",Studio Universal HD [PLUS]
-http://a.srvbr.me:8880/marcela123/marcela123/4113
-#EXTINF:-1 tvg-ID="SUN" tvg-name="SundanceTV" tvg-logo="http://img.miptv.ws/Sundance_TV.jpg" group-title="Variedades",SundanceTV
-http://a.srvbr.me:8880/marcela123/marcela123/5296
-#EXTINF:-1 tvg-ID="SUN" tvg-name="SundanceTV HD" tvg-logo="http://img.miptv.ws/Sundance_TV.jpg" group-title="Variedades",SundanceTV HD
-http://a.srvbr.me:8880/marcela123/marcela123/5295
-#EXTINF:-1 tvg-ID="SCI" tvg-name="Syfy" tvg-logo="http://img.miptv.ws/Syfy.png" group-title="Filmes e Séries",Syfy
-http://a.srvbr.me:8880/marcela123/marcela123/742
-#EXTINF:-1 tvg-ID="SCI" tvg-name="Syfy HD" tvg-logo="http://img.miptv.ws/Syfy.png" group-title="Filmes e Séries",Syfy HD
-http://a.srvbr.me:8880/marcela123/marcela123/1483
-#EXTINF:-1 tvg-ID="SCI" tvg-name="SyFy HD [PLUS]" tvg-logo="http://img.miptv.ws/Syfy.png" group-title="Filmes e Séries",SyFy HD [PLUS]
-http://a.srvbr.me:8880/marcela123/marcela123/4111
-#EXTINF:-1 tvg-ID="TBS" tvg-name="TBS" tvg-logo="http://img.miptv.ws/TBS.png" group-title="Filmes e Séries",TBS
-http://a.srvbr.me:8880/marcela123/marcela123/741
-#EXTINF:-1 tvg-ID="TBS" tvg-name="TBS HD" tvg-logo="http://img.miptv.ws/TBS.png" group-title="Filmes e Séries",TBS HD
-http://a.srvbr.me:8880/marcela123/marcela123/740
-#EXTINF:-1 tvg-ID="TBS" tvg-name="TBS [PLUS]" tvg-logo="http://img.miptv.ws/TBS.png" group-title="Filmes e Séries",TBS [PLUS]
-http://a.srvbr.me:8880/marcela123/marcela123/4110
-#EXTINF:-1 tvg-ID="TCM" tvg-name="TCM" tvg-logo="http://img.miptv.ws/TCM.png" group-title="Filmes e Séries",TCM
-http://a.srvbr.me:8880/marcela123/marcela123/734
-#EXTINF:-1 tvg-ID="TCM" tvg-name="TCM HD [PLUS]" tvg-logo="http://img.miptv.ws/TCM.png" group-title="Filmes e Séries",TCM HD [PLUS]
-http://a.srvbr.me:8880/marcela123/marcela123/4109
-#EXTINF:-1 tvg-ID="" tvg-name="TCV INTERNACIONAL" tvg-logo="http://img.miptv.ws/TCV_Internacional.png" group-title="Internacional",TCV INTERNACIONAL
-http://a.srvbr.me:8880/marcela123/marcela123/983
-#EXTINF:-1 tvg-ID="TC2" tvg-name="Telecine Action" tvg-logo="http://img.miptv.ws/Telecine_Action_HD.png" group-title="Filmes e Séries",Telecine Action
-http://a.srvbr.me:8880/marcela123/marcela123/733
-#EXTINF:-1 tvg-ID="TC2" tvg-name="Telecine Action HD" tvg-logo="http://img.miptv.ws/Telecine_Action_HD.png" group-title="Filmes e Séries",Telecine Action HD
-http://a.srvbr.me:8880/marcela123/marcela123/739
-#EXTINF:-1 tvg-ID="TC2" tvg-name="Telecine Action Full HD" tvg-logo="http://img.miptv.ws/Telecine_Action.png" group-title="Filmes e Séries",Telecine Action Full HD
-http://a.srvbr.me:8880/marcela123/marcela123/5464
-#EXTINF:-1 tvg-ID="T2H" tvg-name="Telecine Action HD [PLUS]" tvg-logo="http://img.miptv.ws/Telecine_Action_HD.png" group-title="Filmes e Séries",Telecine Action HD [PLUS]
-http://a.srvbr.me:8880/marcela123/marcela123/1862
-#EXTINF:-1 tvg-ID="TC5" tvg-name="Telecine Cult" tvg-logo="http://img.miptv.ws/Telecine_Cult.png" group-title="Filmes e Séries",Telecine Cult
-http://a.srvbr.me:8880/marcela123/marcela123/732
-#EXTINF:-1 tvg-ID="TC5" tvg-name="Telecine Cult HD" tvg-logo="http://img.miptv.ws/Telecine_Cult.png" group-title="Filmes e Séries",Telecine Cult HD
-http://a.srvbr.me:8880/marcela123/marcela123/1482
-#EXTINF:-1 tvg-ID="TC5" tvg-name="Telecine Cult HD [PLUS]" tvg-logo="http://img.miptv.ws/Telecine_Cult.png" group-title="Filmes e Séries",Telecine Cult HD [PLUS]
-http://a.srvbr.me:8880/marcela123/marcela123/4108
-#EXTINF:-1 tvg-ID="TC6" tvg-name="Telecine Fun" tvg-logo="http://img.miptv.ws/Telecine_Fun_HD.png" group-title="Filmes e Séries",Telecine Fun
-http://a.srvbr.me:8880/marcela123/marcela123/731
-#EXTINF:-1 tvg-ID="TC6" tvg-name="Telecine Fun HD" tvg-logo="http://img.miptv.ws/Telecine_Fun_HD.png" group-title="Filmes e Séries",Telecine Fun HD
-http://a.srvbr.me:8880/marcela123/marcela123/738
-#EXTINF:-1 tvg-ID="TC6" tvg-name="Telecine Fun Full HD" tvg-logo="http://img.miptv.ws/Telecine_Fun.png" group-title="Filmes e Séries",Telecine Fun Full HD
-http://a.srvbr.me:8880/marcela123/marcela123/5463
-#EXTINF:-1 tvg-ID="T6H" tvg-name="Telecine Fun HD [PLUS]" tvg-logo="http://img.miptv.ws/Telecine_Fun_HD.png" group-title="Filmes e Séries",Telecine Fun HD [PLUS]
-http://a.srvbr.me:8880/marcela123/marcela123/1863
-#EXTINF:-1 tvg-ID="TC4" tvg-name="Telecine Pipoca" tvg-logo="http://img.miptv.ws/Telecine_Pipoca_HD.png" group-title="Filmes e Séries",Telecine Pipoca
-http://a.srvbr.me:8880/marcela123/marcela123/730
-#EXTINF:-1 tvg-ID="TC4" tvg-name="Telecine Pipoca HD" tvg-logo="http://img.miptv.ws/Telecine_Pipoca_HD.png" group-title="Filmes e Séries",Telecine Pipoca HD
-http://a.srvbr.me:8880/marcela123/marcela123/737
-#EXTINF:-1 tvg-ID="TC4" tvg-name="Telecine Pipoca Full HD" tvg-logo="http://img.miptv.ws/Telecine_Pipoca.png" group-title="Filmes e Séries",Telecine Pipoca Full HD
-http://a.srvbr.me:8880/marcela123/marcela123/5462
-#EXTINF:-1 tvg-ID="T4H" tvg-name="Telecine Pipoca HD [PLUS]" tvg-logo="http://img.miptv.ws/Telecine_Pipoca_HD.png" group-title="Filmes e Séries",Telecine Pipoca HD [PLUS]
-http://a.srvbr.me:8880/marcela123/marcela123/1864
-#EXTINF:-1 tvg-ID="TC1" tvg-name="Telecine Premium" tvg-logo="http://img.miptv.ws/Telecine_Premium_HD.png" group-title="Filmes e Séries",Telecine Premium
-http://a.srvbr.me:8880/marcela123/marcela123/729
-#EXTINF:-1 tvg-ID="TC1" tvg-name="Telecine Premium HD" tvg-logo="http://img.miptv.ws/Telecine_Premium_HD.png" group-title="Filmes e Séries",Telecine Premium HD
-http://a.srvbr.me:8880/marcela123/marcela123/736
-#EXTINF:-1 tvg-ID="TC1" tvg-name="Telecine Premium Full HD" tvg-logo="http://img.miptv.ws/Telecine_Premium.png" group-title="Filmes e Séries",Telecine Premium Full HD
-http://a.srvbr.me:8880/marcela123/marcela123/5461
-#EXTINF:-1 tvg-ID="TCH" tvg-name="Telecine Premium HD [PLUS]" tvg-logo="http://img.miptv.ws/Telecine_Premium_HD.png" group-title="Filmes e Séries",Telecine Premium HD [PLUS]
-http://a.srvbr.me:8880/marcela123/marcela123/1865
-#EXTINF:-1 tvg-ID="TC3" tvg-name="Telecine Touch" tvg-logo="http://img.miptv.ws/Telecine_Touch_HD.png" group-title="Filmes e Séries",Telecine Touch
-http://a.srvbr.me:8880/marcela123/marcela123/728
-#EXTINF:-1 tvg-ID="TC3" tvg-name="Telecine Touch HD" tvg-logo="http://img.miptv.ws/Telecine_Touch_HD.png" group-title="Filmes e Séries",Telecine Touch HD
-http://a.srvbr.me:8880/marcela123/marcela123/735
-#EXTINF:-1 tvg-ID="TC3" tvg-name="Telecine Touch Full HD" tvg-logo="http://img.miptv.ws/Telecine_Touch.png" group-title="Filmes e Séries",Telecine Touch Full HD
-http://a.srvbr.me:8880/marcela123/marcela123/5460
-#EXTINF:-1 tvg-ID="T3H" tvg-name="Telecine Touch HD [PLUS]" tvg-logo="http://img.miptv.ws/Telecine_Touch_HD.png" group-title="Filmes e Séries",Telecine Touch HD [PLUS]
-http://a.srvbr.me:8880/marcela123/marcela123/1866
-#EXTINF:-1 tvg-ID="TVV" tvg-name="Terra Viva" tvg-logo="http://img.miptv.ws/Terra_Viva.png" group-title="TV Aberta",Terra Viva
-http://a.srvbr.me:8880/marcela123/marcela123/727
-#EXTINF:-1 tvg-ID="TRV" tvg-name="TLC" tvg-logo="http://img.miptv.ws/TLC.png" group-title="Variedades",TLC
-http://a.srvbr.me:8880/marcela123/marcela123/725
-#EXTINF:-1 tvg-ID="TRV" tvg-name="TLC HD" tvg-logo="http://img.miptv.ws/TLC.png" group-title="Variedades",TLC HD
-http://a.srvbr.me:8880/marcela123/marcela123/1481
-#EXTINF:-1 tvg-ID="TRV" tvg-name="TLC HD [PLUS]" tvg-logo="http://img.miptv.ws/TLC.png" group-title="Variedades",TLC HD [PLUS]
-http://a.srvbr.me:8880/marcela123/marcela123/1867
-#EXTINF:-1 tvg-ID="JUS" tvg-name="TV Justica" tvg-logo="http://img.miptv.ws/TV_Justica.png" group-title="TV Aberta",TV Justica
-http://a.srvbr.me:8880/marcela123/marcela123/5293
-#EXTINF:-1 tvg-ID="TNT" tvg-name="TNT" tvg-logo="http://img.miptv.ws/TNT.png" group-title="Filmes e Séries",TNT
-http://a.srvbr.me:8880/marcela123/marcela123/724
-#EXTINF:-1 tvg-ID="TNT" tvg-name="TNT HD" tvg-logo="http://img.miptv.ws/TNT.png" group-title="Filmes e Séries",TNT HD
-http://a.srvbr.me:8880/marcela123/marcela123/723
-#EXTINF:-1 tvg-ID="TNT" tvg-name="TNT HD [PLUS]" tvg-logo="http://img.miptv.ws/TNT.png" group-title="Filmes e Séries",TNT HD [PLUS]
-http://a.srvbr.me:8880/marcela123/marcela123/1868
-#EXTINF:-1 tvg-ID="TNS" tvg-name="TNT Séries" tvg-logo="http://img.miptv.ws/TNT_Series.png" group-title="Filmes e Séries",TNT Séries
-http://a.srvbr.me:8880/marcela123/marcela123/722
-#EXTINF:-1 tvg-ID="TNS" tvg-name="TNT Séries HD" tvg-logo="http://img.miptv.ws/TNT_Series.png" group-title="Filmes e Séries",TNT Séries HD
-http://a.srvbr.me:8880/marcela123/marcela123/721
-#EXTINF:-1 tvg-ID="TNS" tvg-name="TNT Series HD [PLUS]" tvg-logo="http://img.miptv.ws/TNT_Series.png" group-title="Filmes e Séries",TNT Series HD [PLUS]
-http://a.srvbr.me:8880/marcela123/marcela123/4107
-#EXTINF:-1 tvg-ID="NOEPG English" tvg-name="PlayKids" tvg-logo="http://img.miptv.ws/PlayKids.jpg" group-title="Infantil",PlayKids
-http://a.srvbr.me:8880/marcela123/marcela123/7563
-#EXTINF:-1 tvg-ID="NOEPG English" tvg-name="PlayKids HD" tvg-logo="http://img.miptv.ws/PlayKids.jpg" group-title="Infantil",PlayKids HD
-http://a.srvbr.me:8880/marcela123/marcela123/7564
-#EXTINF:-1 tvg-ID="TOC" tvg-name="Tooncast" tvg-logo="http://img.miptv.ws/Tooncast.png" group-title="Infantil",Tooncast
-http://a.srvbr.me:8880/marcela123/marcela123/720
-#EXTINF:-1 tvg-ID="TOC" tvg-name="Tooncast HD [PLUS]" tvg-logo="http://img.miptv.ws/Tooncast.png" group-title="Infantil",Tooncast HD [PLUS]
-http://a.srvbr.me:8880/marcela123/marcela123/4106
-#EXTINF:-1 tvg-ID="TRU" tvg-name="TruTV" tvg-logo="http://img.miptv.ws/TruTV.png" group-title="Variedades",TruTV
-http://a.srvbr.me:8880/marcela123/marcela123/719
-#EXTINF:-1 tvg-ID="TRU" tvg-name="TruTV HD" tvg-logo="http://img.miptv.ws/TruTV.png" group-title="Variedades",TruTV HD
-http://a.srvbr.me:8880/marcela123/marcela123/5291
-#EXTINF:-1 tvg-ID="APA" tvg-name="TV Aparecida" tvg-logo="http://img.miptv.ws/TV_Aparecida.png" group-title="Religiosos",TV Aparecida
-http://a.srvbr.me:8880/marcela123/marcela123/895
-#EXTINF:-1 tvg-ID="CUL" tvg-name="TV Cultura" tvg-logo="http://img.miptv.ws/TV_Cultura.png" group-title="Variedades",TV Cultura
-http://a.srvbr.me:8880/marcela123/marcela123/5161
-#EXTINF:-1 tvg-ID="CUL" tvg-name="TV Cultura HD" tvg-logo="http://img.miptv.ws/TV_Cultura.png" group-title="Variedades",TV Cultura HD
-http://a.srvbr.me:8880/marcela123/marcela123/5656
-#EXTINF:-1 tvg-ID="TED" tvg-name="TV Brasil" tvg-logo="http://img.miptv.ws/TV_Brasil.png" group-title="TV Aberta",TV Brasil
-http://a.srvbr.me:8880/marcela123/marcela123/717
-#EXTINF:-1 tvg-ID="CAM" tvg-name="TV Câmara" tvg-logo="http://img.miptv.ws/TV_Camara.png" group-title="TV Aberta",TV Câmara
-http://a.srvbr.me:8880/marcela123/marcela123/602
-#EXTINF:-1 tvg-ID="TDF" tvg-name="TV Diário Fortaleza" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/TV_Di%C3%A1rio_logo.svg/200px-TV_Di%C3%A1rio_logo.svg.png" group-title="TV Aberta",TV Diário Fortaleza
-http://a.srvbr.me:8880/marcela123/marcela123/11063
-#EXTINF:-1 tvg-ID="TDF" tvg-name="TV Diário Fortaleza HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/TV_Di%C3%A1rio_logo.svg/200px-TV_Di%C3%A1rio_logo.svg.png" group-title="TV Aberta",TV Diário Fortaleza HD
-http://a.srvbr.me:8880/marcela123/marcela123/11062
-#EXTINF:-1 tvg-ID="RTB" tvg-name="TV Rá Tim Bum" tvg-logo="http://img.miptv.ws/TV_Ra_Tim_Bum.png" group-title="Infantil",TV Rá Tim Bum
-http://a.srvbr.me:8880/marcela123/marcela123/715
-#EXTINF:-1 tvg-ID="RTB" tvg-name="TV Ra Tim Bum HD" tvg-logo="http://img.miptv.ws/TV_Ra_Tim_Bum.png" group-title="Infantil",TV Ra Tim Bum HD
-http://a.srvbr.me:8880/marcela123/marcela123/5292
-#EXTINF:-1 tvg-ID="USA" tvg-name="Universal Channel" tvg-logo="http://img.miptv.ws/Universal_Channel.png" group-title="Filmes e Séries",Universal Channel
-http://a.srvbr.me:8880/marcela123/marcela123/711
-#EXTINF:-1 tvg-ID="USA" tvg-name="Universal Channel HD" tvg-logo="http://img.miptv.ws/Universal_Channel.png" group-title="Filmes e Séries",Universal Channel HD
-http://a.srvbr.me:8880/marcela123/marcela123/710
-#EXTINF:-1 tvg-ID="USA" tvg-name="Universal Channel HD [PLUS]" tvg-logo="http://img.miptv.ws/Universal_Channel.png" group-title="Filmes e Séries",Universal Channel HD [PLUS]
-http://a.srvbr.me:8880/marcela123/marcela123/4103
-#EXTINF:-1 tvg-ID="VH1" tvg-name="VH1" tvg-logo="http://img.miptv.ws/VH1.png" group-title="Variedades",VH1
-http://a.srvbr.me:8880/marcela123/marcela123/5290
-#EXTINF:-1 tvg-ID="VH1" tvg-name="VH1 HD" tvg-logo="http://img.miptv.ws/VH1.png" group-title="Variedades",VH1 HD
-http://a.srvbr.me:8880/marcela123/marcela123/1479
-#EXTINF:-1 tvg-ID="VH1" tvg-name="VH1 HD [PLUS]" tvg-logo="http://img.miptv.ws/VH1_Channel.png" group-title="Variedades",VH1 HD [PLUS]
-http://a.srvbr.me:8880/marcela123/marcela123/4101
-#EXTINF:-1 tvg-ID="MTH" tvg-name="VH1 Mega Hits" tvg-logo="http://img.miptv.ws/VH1_MegaHits.png" group-title="Variedades",VH1 Mega Hits
-http://a.srvbr.me:8880/marcela123/marcela123/709
-#EXTINF:-1 tvg-ID="VIV" tvg-name="Viva" tvg-logo="http://img.miptv.ws/Viva.png" group-title="Variedades",Viva
-http://a.srvbr.me:8880/marcela123/marcela123/708
-#EXTINF:-1 tvg-ID="VIV" tvg-name="Viva HD" tvg-logo="http://img.miptv.ws/Viva.png" group-title="Variedades",Viva HD
-http://a.srvbr.me:8880/marcela123/marcela123/707
-#EXTINF:-1 tvg-ID="VIV" tvg-name="Viva Full HD" tvg-logo="http://img.miptv.ws/Viva.png" group-title="Variedades",Viva Full HD
-http://a.srvbr.me:8880/marcela123/marcela123/5437
-#EXTINF:-1 tvg-ID="VIV" tvg-name="Viva HD [PLUS]" tvg-logo="http://img.miptv.ws/Viva.png" group-title="Variedades",Viva HD [PLUS]
-http://a.srvbr.me:8880/marcela123/marcela123/4100
-#EXTINF:-1 tvg-ID="WBT" tvg-name="Warner Channel" tvg-logo="http://img.miptv.ws/Warner_Channel.png" group-title="Filmes e Séries",Warner Channel
-http://a.srvbr.me:8880/marcela123/marcela123/706
-#EXTINF:-1 tvg-ID="WBT" tvg-name="Warner Channel HD" tvg-logo="http://img.miptv.ws/Warner_Channel.png" group-title="Filmes e Séries",Warner Channel HD
-http://a.srvbr.me:8880/marcela123/marcela123/705
-#EXTINF:-1 tvg-ID="WBT" tvg-name="Warner Full HD" tvg-logo="http://img.miptv.ws/Warner_Channel.png" group-title="Filmes e Séries",Warner Full HD
-http://a.srvbr.me:8880/marcela123/marcela123/5425
-#EXTINF:-1 tvg-ID="WBT" tvg-name="Warner Channel HD [PLUS]" tvg-logo="http://img.miptv.ws/Warner_Channel.png" group-title="Filmes e Séries",Warner Channel HD [PLUS]
-http://a.srvbr.me:8880/marcela123/marcela123/4099
-#EXTINF:-1 tvg-ID="WOO" tvg-name="Woohoo" tvg-logo="http://img.miptv.ws/Woohoo.png" group-title="Esportes",Woohoo
-http://a.srvbr.me:8880/marcela123/marcela123/704
-#EXTINF:-1 tvg-ID="WOO" tvg-name="Woohoo HD" tvg-logo="http://img.miptv.ws/Woohoo.png" group-title="Esportes",Woohoo HD
-http://a.srvbr.me:8880/marcela123/marcela123/5657
-#EXTINF:-1 tvg-ID="" tvg-name="Sertanejo Universitário" tvg-logo="" group-title="Rádios",Sertanejo Universitário
-http://a.srvbr.me:8880/marcela123/marcela123/913
-#EXTINF:-1 tvg-ID="NOEPG English" tvg-name="Pica Pau" tvg-logo="http://img.miptv.ws/movies/Ana4VWt.jpg" group-title="Canais 24 Horas",Pica Pau
-http://a.srvbr.me:8880/marcela123/marcela123/5114
-#EXTINF:-1 tvg-ID="NOEPG English" tvg-name="Pokemon Sun and Moon 1º Temporada 2018" tvg-logo="http://img.miptv.ws/movies/pokemonsunandmon.jpg" group-title="Canais 24 Horas",Pokemon Sun and Moon 1º Temporada 2018
-http://a.srvbr.me:8880/marcela123/marcela123/5275
-#EXTINF:-1 tvg-ID="NOEPG English" tvg-name="Dragon Ball Super" tvg-logo="http://img.miptv.ws/movies/250px-Dragon_Ball_Super_artwork.jpg" group-title="Canais 24 Horas",Dragon Ball Super
-http://a.srvbr.me:8880/marcela123/marcela123/5277
-#EXTINF:-1 tvg-ID="NOEPG English" tvg-name="A.I.C.O. Incarnation 2018" tvg-logo="http://img.miptv.ws/movies/encarnation.jpg" group-title="Canais 24 Horas",A.I.C.O. Incarnation 2018
-http://a.srvbr.me:8880/marcela123/marcela123/5276
-#EXTINF:-1 tvg-ID="NOEPG English" tvg-name="Tom & Jerry" tvg-logo="http://img.miptv.ws/movies/Tom-And-Jerry-Cartoon-New-High-Quality-Picture-2.jpg" group-title="Canais 24 Horas",Tom & Jerry
-http://a.srvbr.me:8880/marcela123/marcela123/5115
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV RIO SUL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO TV RIO SUL HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32155
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO² AMAZONAS SD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO² AMAZONAS SD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32157
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO² ANHANGUERA GOIANIA SD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO² ANHANGUERA GOIANIA SD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32158
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO² BRASILIA SD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO² BRASILIA SD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32159
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO² EPTV CAMPINAS HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO² EPTV CAMPINAS HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32161
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO² INTERNACIONAL SD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO² INTERNACIONAL SD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32163
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO² MINAS SD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO² MINAS SD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32164
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO² NORDESTE HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO² NORDESTE HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32165
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO² NSC FLORIANOPOLIS HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO² NSC FLORIANOPOLIS HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32167
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO² RBS PORTO ALEGRE SD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO² RBS PORTO ALEGRE SD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32168
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO² RIBEIRÃO PRETO SD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO² RIBEIRÃO PRETO SD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32169
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO² RJ HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5885d823ad13eadd64a8a8f05c795956.png" group-title="CANAIS: GLOBO",GLOBO² RJ HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32170
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO² RPC TV HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO² RPC TV HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32172
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO² SP HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO² SP HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32174
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO² SP SD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO² SP SD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32175
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO² TV BAHIA SD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO² TV BAHIA SD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32176
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO² TV Sergipe HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO² TV Sergipe HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32178
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO² TV TEM BAURU SD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO² TV TEM BAURU SD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32179
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO² TV Tem Rio Preto SD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO² TV Tem Rio Preto SD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32180
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO² TV TEM SOROCABA SD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO² TV TEM SOROCABA SD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32181
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO² TV VANGUARDA S.J DOS CAMPOS SD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO² TV VANGUARDA S.J DOS CAMPOS SD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32182
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO² TV VERDES MARES FORTALEZA SD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO² TV VERDES MARES FORTALEZA SD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32183
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO³  NSC JOINVILLE  HDD SC" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO³  NSC JOINVILLE  HDD SC
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32184
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ BRASILIA FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO³ BRASILIA FULL HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32191
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ CHAPECO HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO³ CHAPECO HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32194
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ CURITIBA FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO³ CURITIBA FULL HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32198
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ EPTV CAMPINAS FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO³ EPTV CAMPINAS FULL HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32203
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ EPTV RIBEIRAO PRETO SD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO³ EPTV RIBEIRAO PRETO SD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32206
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ FLORIANOPOLIS FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO³ FLORIANOPOLIS FULL HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32208
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ FOZ DO IGUAÇU FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO³ FOZ DO IGUAÇU FULL HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32215
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ FULLHD SP H.265" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO³ FULLHD SP H.265
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32216
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ GAZETA SUL ALEGRE ES FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO³ GAZETA SUL ALEGRE ES FULL HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32217
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ GAZETA VITORIA SD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO³ GAZETA VITORIA SD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32220
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ GOIANIA FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO³ GOIANIA FULL HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32221
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ GOIANIA SD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO³ GOIANIA SD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32223
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ INTEGRACAO ARAXA HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO³ INTEGRACAO ARAXA HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32224
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ INTER TV  CABUGI FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO³ INTER TV  CABUGI FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32226
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ INTER TV ALTO LITORAL FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO³ INTER TV ALTO LITORAL FULL HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32227
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ INTER TV CABUGI SD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO³ INTER TV CABUGI SD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32230
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ NORDESTE FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO³ NORDESTE FULL HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32241
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ NSC CHAPECO FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO³ NSC CHAPECO FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32243
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ NSC JOINVILLE  FULLHD SC" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO³ NSC JOINVILLE  FULLHD SC
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32244
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ PORTO ALEGRE FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO³ PORTO ALEGRE FULL HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32247
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ RBS TV CAXIAS DO SUL FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO³ RBS TV CAXIAS DO SUL FULL HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32251
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ RPC MARINGA FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO³ RPC MARINGA FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32265
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ RPC PONTA GROSSA FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO³ RPC PONTA GROSSA FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32266
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ RPC TV PARANAVAI FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO³ RPC TV PARANAVAI FULL HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32267
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ SP FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO³ SP FULL HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32276
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ TV ASA BRANCA FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO³ TV ASA BRANCA FULL HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32279
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ TV CABO BRANCO FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO³ TV CABO BRANCO FULL HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32281
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ TV CENTRO AMERICA HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO³ TV CENTRO AMERICA HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32284
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ TV CLUBE PI HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO³ TV CLUBE PI HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32286
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ TV GAZETA ALAGOAS FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO³ TV GAZETA ALAGOAS FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32290
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ TV GAZETA VITORIA FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO³ TV GAZETA VITORIA FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32291
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ TV INTER CABUGI HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO³ TV INTER CABUGI HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32297
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ TV MIRANTE FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO³ TV MIRANTE FULL HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32298
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ TV MIRANTE" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO³ TV MIRANTE
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32300
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ TV RIO SUL FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO³ TV RIO SUL FULL HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32301
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ TV SANTA CRUZ FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO³ TV SANTA CRUZ FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32304
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ TV SERGIPE FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO³ TV SERGIPE FULL HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32307
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ tv sergipe sd" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO³ tv sergipe sd
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32309
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ CENTRO AMÉRICA FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO¹ CENTRO AMÉRICA FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32319
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ EPTV CAMPINAS FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO¹ EPTV CAMPINAS FULL HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32320
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ EPTV SUL DE MINAS FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO¹ EPTV SUL DE MINAS FULL HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32323
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ INTER TV ALTO LITORAL FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO¹ INTER TV ALTO LITORAL FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32325
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ INTER TV CABUGI FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO¹ INTER TV CABUGI FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32326
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ INTER TV DOS VALES FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO¹ INTER TV DOS VALES FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32327
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ INTER TV GRANDE MINAS FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO¹ INTER TV GRANDE MINAS FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32328
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ MINAS FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO¹ MINAS FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32330
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ MINAS HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO¹ MINAS HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32331
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ NACIONAL FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO¹ NACIONAL FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32333
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ NORDESTE FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO¹ NORDESTE FULL HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32335
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ NSC FLORIANÓPOLIS FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO¹ NSC FLORIANÓPOLIS FULL HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32339
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ NSC TV BLUMENAU FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO¹ NSC TV BLUMENAU FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32340
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ NSC TV CRICIÚMA FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO¹ NSC TV CRICIÚMA FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32341
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ RBS CAXIAS DO SUL FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO¹ RBS CAXIAS DO SUL FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32343
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ RBS TV POA FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO¹ RBS TV POA FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32344
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ RBS TV POA HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO¹ RBS TV POA HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32345
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ REDE AMAZONICA FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO¹ REDE AMAZONICA FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32347
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ RJ FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5885d823ad13eadd64a8a8f05c795956.png" group-title="CANAIS: GLOBO",GLOBO¹ RJ FULL HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32348
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ RPC CURITIBA FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO¹ RPC CURITIBA FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32351
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ RPC FOZ DO IGUAÇU FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO¹ RPC FOZ DO IGUAÇU FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32352
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ RPC MARINGÁ FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO¹ RPC MARINGÁ FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32353
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ RPC PARANAENSE FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO¹ RPC PARANAENSE FULL HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32354
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ RPC PONTA GROSSA FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO¹ RPC PONTA GROSSA FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32356
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ RPC TV CURITIBA SD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO¹ RPC TV CURITIBA SD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32357
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ SP FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO¹ SP FULL HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32358
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ SP HD¹" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO¹ SP HD¹
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32360
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ TV ANHANGUERA FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO¹ TV ANHANGUERA FULL HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32362
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ TV ASA BRANCA FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO¹ TV ASA BRANCA FULL HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32365
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ TV BAHIA FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO¹ TV BAHIA FULL HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32367
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ TV BRASILIA FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO¹ TV BRASILIA FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32370
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ TV CABO BRANCO FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO¹ TV CABO BRANCO FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32371
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ TV CENTRO AMÉRICA SD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO¹ TV CENTRO AMÉRICA SD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32372
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ TV CLUBE TERESINA FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO¹ TV CLUBE TERESINA FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32373
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ TV GAZETA DE ALAGOAS FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO¹ TV GAZETA DE ALAGOAS FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32374
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ TV GAZETA ES FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO¹ TV GAZETA ES FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32375
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ TV INTEGRAÇÃO JUIZ DE FORA FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO¹ TV INTEGRAÇÃO JUIZ DE FORA FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32376
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ TV MIRANTE FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO¹ TV MIRANTE FULL HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32380
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ TV MORENA FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO¹ TV MORENA FULL HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32383
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ TV RECIFE FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO¹ TV RECIFE FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32386
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ TV RIO SUL FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO¹ TV RIO SUL FULL HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32387
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ TV SANTA CRUZ FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO¹ TV SANTA CRUZ FULL HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32389
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ TV SERGIPE FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO¹ TV SERGIPE FULLHD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32391
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ TV VERDES MARES FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO¹ TV VERDES MARES FULL HD
-http://xcui.vitvabc.xyz:8880/287994003579/287994003579/32393
 
+#PLAYLISTV: pltv-logo="https://i.imgur.com/M0aRl2a.jpg" pltv-name="RAMALHOTV" pltv-description=TV ONLINE para PlaylisTV/IPTV" pltv-cover="https://i.imgur.com/M0aRl2a.jpg" pltv-author="RAMALHOTV" pltv-site="https://www.youtube.com/user/matamataxiterbr?sub_confirmation=1" pltv-email="" pltv-phone="(44) 98656144"
+
+################################################################################# Informações da Lista
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/4QnsDMD.png" group-title="Informações da Lista",downloadsdefimes.blogspot.com
+https://www.youtube.com/channel/UCojJlqr-L9290l5D63SXTzg?view_as=public
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5zE1k8M.png" group-title="Informações da Lista",youtube.com/matamataxiterbr
+https://www.youtube.com/channel/UCojJlqr-L9290l5D63SXTzg?view_as=public
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/OalUKZI.png" group-title="Informações da Lista",Atualizado: 18/08/2021
+https://www.youtube.com/channel/UCojJlqr-L9290l5D63SXTzg?view_as=public
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/luqePRJ.png" group-title="Informações da Lista",By RAMALHOTV
+https://www.youtube.com/channel/UCojJlqr-L9290l5D63SXTzg?view_as=public
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/DwOmHHG.png" group-title="Informações da Lista",Canais Offline? Avise-nos!
+https://www.youtube.com/channel/UCojJlqr-L9290l5D63SXTzg?view_as=public
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/4xQxZ5g.png" group-title="Informações da Lista",(44) 98656144
+https://www.youtube.com/channel/UCojJlqr-L9290l5D63SXTzg?view_as=public
+
+
+#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="Animal Planet Alternativo HD" tvg-logo="http://printv.esy.es/server/Animal%20Planet%20HD.png" group-title="Canais Documentarios",Animal Planet Alternativo HD
+http://icego.club:80/vanderlei12/vanderlei12/47020
+#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="Planeta Animal Alternativo" tvg-logo="http://printv.esy.es/server/Animal%20Planet.png" group-title="Canais Documentarios",Planeta Animal Alternativo
+http://icego.club:80/vanderlei12/vanderlei12/46945
+#EXTINF:-1 tvg-id="discovery.br" tvg-name="Discovery Channel FHD" tvg-logo="http://printv.esy.es/server/Discovery%20Channel%20HD.png" group-title="Canais Documentarios",Discovery Channel FHD
+http://icego.club:80/vanderlei12/vanderlei12/45691
+#EXTINF:-1 tvg-id="discovery.br" tvg-name="Discovery Channel HD" tvg-logo="http://printv.esy.es/server/Discovery%20Channel%20HD.png" group-title="Canais Documentarios",Discovery Channel HD
+http://icego.club:80/vanderlei12/vanderlei12/45878
+#EXTINF:-1 tvg-id="discovery.br" tvg-name="Discovery Channel" tvg-logo="http://printv.esy.es/server/Discovery%20Channel.png" group-title="Canais Documentarios",Discovery Channel
+http://icego.club:80/vanderlei12/vanderlei12/45877
+#EXTINF:-1 tvg-id="discovery.br" tvg-name="Discovery Channel Alternativo HD" tvg-logo="http://printv.esy.es/server/Discovery%20Channel%20HD.png" group-title="Canais Documentarios",Discovery Channel Alternativo HD
+http://icego.club:80/vanderlei12/vanderlei12/47059
+#EXTINF:-1 tvg-id="discovery.br" tvg-name="Discovery Channel Alternativo" tvg-logo="http://printv.esy.es/server/Discovery%20Channel.png" group-title="Canais Documentarios",Discovery Channel Alternativo
+http://icego.club:80/vanderlei12/vanderlei12/46902
+#EXTINF:-1 tvg-id="discovery.turbo.br" tvg-name="Discovery Turbo FHD" tvg-logo="http://printv.esy.es/server/Discovery%20Turbo%20HD.png" group-title="Canais Documentarios",Discovery Turbo FHD
+http://icego.club:80/vanderlei12/vanderlei12/45634
+#EXTINF:-1 tvg-id="discovery.turbo.br" tvg-name="Discovery Turbo HD" tvg-logo="http://printv.esy.es/server/Discovery%20Turbo%20HD.png" group-title="Canais Documentarios",Discovery Turbo HD
+http://icego.club:80/vanderlei12/vanderlei12/45889
+#EXTINF:-1 tvg-id="discovery.turbo.br" tvg-name="Discovery Turbo" tvg-logo="http://printv.esy.es/server/Discovery%20Turbo.png" group-title="Canais Documentarios",Discovery Turbo
+http://icego.club:80/vanderlei12/vanderlei12/45888
+#EXTINF:-1 tvg-id="discovery.turbo.br" tvg-name="Discovery Turbo Alternativo HD" tvg-logo="http://printv.esy.es/server/Discovery%20Turbo%20HD.png" group-title="Canais Documentarios",Discovery Turbo Alternativo HD
+http://icego.club:80/vanderlei12/vanderlei12/47024
+#EXTINF:-1 tvg-id="discovery.turbo.br" tvg-name="Discovery Turbo Alternativo" tvg-logo="http://printv.esy.es/server/Discovery%20Turbo.png" group-title="Canais Documentarios",Discovery Turbo Alternativo
+http://icego.club:80/vanderlei12/vanderlei12/46905
+#EXTINF:-1 tvg-id="discovery.home.health.br" tvg-name="Discovery Home&Health FHD" tvg-logo="http://printv.esy.es/server/Discovery%20Home%20%26%20Health%20HD.png" group-title="Canais Documentarios",Discovery Home&Health FHD
+http://icego.club:80/vanderlei12/vanderlei12/45630
+#EXTINF:-1 tvg-id="discovery.home.health.br" tvg-name="Discovery Home&Health HD" tvg-logo="http://printv.esy.es/server/Discovery%20Home%20%26%20Health%20HD.png" group-title="Canais Documentarios",Discovery Home&Health HD
+http://icego.club:80/vanderlei12/vanderlei12/45882
+#EXTINF:-1 tvg-id="discovery.home.health.br" tvg-name="Discovery Home&Health" tvg-logo="http://printv.esy.es/server/Discovery%20Home%20%26%20Health%20HD.png" group-title="Canais Documentarios",Discovery Home&Health
+http://icego.club:80/vanderlei12/vanderlei12/45881
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV FHD" tvg-logo="http://printv.esy.es/server/HGTV.png" group-title="Canais Documentarios",HGTV FHD
+http://icego.club:80/vanderlei12/vanderlei12/45629
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV HD" tvg-logo="http://printv.esy.es/server/HGTV.png" group-title="Canais Documentarios",HGTV HD
+http://icego.club:80/vanderlei12/vanderlei12/45880
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV " tvg-logo="http://printv.esy.es/server/HGTV.png" group-title="Canais Documentarios",HGTV 
+http://icego.club:80/vanderlei12/vanderlei12/45879
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV Alternativo HD " tvg-logo="http://printv.esy.es/server/HGTV.png" group-title="Canais Documentarios",HGTV Alternativo HD 
+http://icego.club:80/vanderlei12/vanderlei12/47177
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV Alternativo " tvg-logo="http://printv.esy.es/server/HGTV.png" group-title="Canais Documentarios",HGTV Alternativo 
+http://icego.club:80/vanderlei12/vanderlei12/47178
+#EXTINF:-1 tvg-id="investigacao.discovery.br" tvg-name="Investigation Discovery FHD" tvg-logo="http://printv.esy.es/server/Investigation%20Discovery%20HD.png" group-title="Canais Documentarios",Investigation Discovery FHD
+http://icego.club:80/vanderlei12/vanderlei12/45653
+#EXTINF:-1 tvg-id="investigacao.discovery.br" tvg-name="Investigation Discovery HD" tvg-logo="http://printv.esy.es/server/Investigation%20Discovery%20HD.png" group-title="Canais Documentarios",Investigation Discovery HD
+http://icego.club:80/vanderlei12/vanderlei12/45948
+#EXTINF:-1 tvg-id="investigacao.discovery.br" tvg-name="Investigation Discovery" tvg-logo="http://printv.esy.es/server/Investigation%20Discovery.png" group-title="Canais Documentarios",Investigation Discovery
+http://icego.club:80/vanderlei12/vanderlei12/45947
+#EXTINF:-1 tvg-id="investigacao.discovery.br" tvg-name="Investigation Discovery Alternativo HD" tvg-logo="http://printv.esy.es/server/Investigation%20Discovery%20HD.png" group-title="Canais Documentarios",Investigation Discovery Alternativo HD
+http://icego.club:80/vanderlei12/vanderlei12/47051
+#EXTINF:-1 tvg-id="investigacao.discovery.br" tvg-name="Investigation Discovery Alternativo" tvg-logo="http://printv.esy.es/server/Investigation%20Discovery.png" group-title="Canais Documentarios",Investigation Discovery Alternativo
+http://icego.club:80/vanderlei12/vanderlei12/46961
+#EXTINF:-1 tvg-id="discovery.world.br" tvg-name="Discovery World FHD" tvg-logo="http://printv.esy.es/server/Discovery%20World%20HD.png" group-title="Canais Documentarios",Discovery World FHD
+http://icego.club:80/vanderlei12/vanderlei12/45635
+#EXTINF:-1 tvg-id="discovery.world.br" tvg-name="Discovery World" tvg-logo="http://printv.esy.es/server/Discovery%20World.png" group-title="Canais Documentarios",Discovery World
+http://icego.club:80/vanderlei12/vanderlei12/45890
+#EXTINF:-1 tvg-id="discovery.world.br" tvg-name="Discovery World Alternativo HD" tvg-logo="http://printv.esy.es/server/Discovery%20World%20HD.png" group-title="Canais Documentarios",Discovery World Alternativo HD
+http://icego.club:80/vanderlei12/vanderlei12/47041
+#EXTINF:-1 tvg-id="discovery.theater.br" tvg-name="Discovery Theater FHD" tvg-logo="http://printv.esy.es/server/Discovery%20Theater%20HD.png" group-title="Canais Documentarios",Discovery Theater FHD
+http://icego.club:80/vanderlei12/vanderlei12/45633
+#EXTINF:-1 tvg-id="discovery.theater.br" tvg-name="Discovery Theater HD" tvg-logo="http://printv.esy.es/server/Discovery%20Theater%20HD.png" group-title="Canais Documentarios",Discovery Theater HD
+http://icego.club:80/vanderlei12/vanderlei12/45887
+#EXTINF:-1 tvg-id="Discovery Theater" tvg-name="Discovery Theater" tvg-logo="http://printv.esy.es/server/Discovery%20Theater.png" group-title="Canais Documentarios",Discovery Theater
+http://icego.club:80/vanderlei12/vanderlei12/45886
+#EXTINF:-1 tvg-id="discovery.theater.br" tvg-name="Discovery Theater Alternativo HD" tvg-logo="http://printv.esy.es/server/Discovery%20Theater%20HD.png" group-title="Canais Documentarios",Discovery Theater Alternativo HD
+http://icego.club:80/vanderlei12/vanderlei12/47018
+#EXTINF:-1 tvg-id="discovery.science.br" tvg-name="Discovery Science FHD" tvg-logo="http://printv.esy.es/server/Discovery%20Science%20HD.png" group-title="Canais Documentarios",Discovery Science FHD
+http://icego.club:80/vanderlei12/vanderlei12/45632
+#EXTINF:-1 tvg-id="discovery.science.br" tvg-name="Discovery Science Alternativo HD" tvg-logo="http://printv.esy.es/server/Discovery%20Science%20HD.png" group-title="Canais Documentarios",Discovery Science Alternativo HD
+http://icego.club:80/vanderlei12/vanderlei12/47064
+#EXTINF:-1 tvg-id="discovery.science.br" tvg-name="Discovery Science" tvg-logo="http://printv.esy.es/server/Discovery%20Science.png" group-title="Canais Documentarios",Discovery Science
+http://icego.club:80/vanderlei12/vanderlei12/45885
+#EXTINF:-1 tvg-id="history.br" tvg-name="History FHD" tvg-logo="http://printv.esy.es/server/The%20History%20Channel%20HD.png" group-title="Canais Documentarios",History FHD
+http://icego.club:80/vanderlei12/vanderlei12/45652
+#EXTINF:-1 tvg-id="history.br" tvg-name="History HD" tvg-logo="http://printv.esy.es/server/The%20History%20Channel%20HD.png" group-title="Canais Documentarios",History HD
+http://icego.club:80/vanderlei12/vanderlei12/45946
+#EXTINF:-1 tvg-id="history.br" tvg-name="History" tvg-logo="http://printv.esy.es/server/The%20History%20Channel.png" group-title="Canais Documentarios",History
+http://icego.club:80/vanderlei12/vanderlei12/45945
+#EXTINF:-1 tvg-id="history.br" tvg-name="History Alternativo HD" tvg-logo="http://printv.esy.es/server/The%20History%20Channel%20HD.png" group-title="Canais Documentarios",History Alternativo HD
+http://icego.club:80/vanderlei12/vanderlei12/47005
+#EXTINF:-1 tvg-id="history.br" tvg-name="History Alternativo" tvg-logo="http://printv.esy.es/server/The%20History%20Channel.png" group-title="Canais Documentarios",History Alternativo
+http://icego.club:80/vanderlei12/vanderlei12/46921
+#EXTINF:-1 tvg-id="h2.br" tvg-name="H2 FHD" tvg-logo="http://printv.esy.es/server/H2%20HD.png" group-title="Canais Documentarios",H2 FHD
+http://icego.club:80/vanderlei12/vanderlei12/45648
+#EXTINF:-1 tvg-id="h2.br" tvg-name="H2 HD" tvg-logo="http://printv.esy.es/server/H2%20HD.png" group-title="Canais Documentarios",H2 HD
+http://icego.club:80/vanderlei12/vanderlei12/45934
+#EXTINF:-1 tvg-id="h2.br" tvg-name="H2" tvg-logo="http://printv.esy.es/server/H2.png" group-title="Canais Documentarios",H2
+http://icego.club:80/vanderlei12/vanderlei12/45933
+#EXTINF:-1 tvg-id="h2.br" tvg-name="H2 Alternativo HD" tvg-logo="http://printv.esy.es/server/H2%20HD.png" group-title="Canais Documentarios",H2 Alternativo HD
+http://icego.club:80/vanderlei12/vanderlei12/47047
+#EXTINF:-1 tvg-id="h2.br" tvg-name="H2 Alternativo" tvg-logo="http://printv.esy.es/server/H2.png" group-title="Canais Documentarios",H2 Alternativo
+http://icego.club:80/vanderlei12/vanderlei12/46920
+#EXTINF:-1 tvg-id="national.geographic.br" tvg-name="Nat Geo FHD" tvg-logo="http://printv.esy.es/server/National%20Geographic%20Channel%20HD.png" group-title="Canais Documentarios",Nat Geo FHD
+http://icego.club:80/vanderlei12/vanderlei12/45663
+#EXTINF:-1 tvg-id="national.geographic.br" tvg-name="Nat Geo HD" tvg-logo="http://printv.esy.es/server/National%20Geographic%20Channel%20HD.png" group-title="Canais Documentarios",Nat Geo HD
+http://icego.club:80/vanderlei12/vanderlei12/45968
+#EXTINF:-1 tvg-id="national.geographic.br" tvg-name="Nat Geo Alternativo" tvg-logo="http://printv.esy.es/server/National%20Geographic.png" group-title="Canais Documentarios",Nat Geo Alternativo
+http://icego.club:80/vanderlei12/vanderlei12/46967
+#EXTINF:-1 tvg-id="nat.geo.wild.br" tvg-name="Nat Geo Wild FHD" tvg-logo="http://printv.esy.es/server/Nat%20Geo%20Wild%20HD.png" group-title="Canais Documentarios",Nat Geo Wild FHD
+http://icego.club:80/vanderlei12/vanderlei12/45665
+#EXTINF:-1 tvg-id="natgeo.wild.br" tvg-name="Nat Geo Wild HD" tvg-logo="http://printv.esy.es/server/Nat%20Geo%20Wild%20HD.png" group-title="Canais Documentarios",Nat Geo Wild HD
+http://icego.club:80/vanderlei12/vanderlei12/45971
+#EXTINF:-1 tvg-id="natgeo.wild.br" tvg-name="Nat Geo Wild" tvg-logo="http://printv.esy.es/server/Nat%20Geo%20Wild.png" group-title="Canais Documentarios",Nat Geo Wild
+http://icego.club:80/vanderlei12/vanderlei12/45972
+#EXTINF:-1 tvg-id="nat.geo.wild.br" tvg-name="Nat Geo Wild Alternativo" tvg-logo="http://printv.esy.es/server/Nat%20Geo%20Wild.png" group-title="Canais Documentarios",Nat Geo Wild Alternativo
+http://icego.club:80/vanderlei12/vanderlei12/46969
+#EXTINF:-1 tvg-id="smithsonian.br" tvg-name="Smithsonian Channel FHD" tvg-logo="http://printv.esy.es/server/Smithsonian%20Channel.png" group-title="Canais Documentarios",Smithsonian Channel FHD
+http://icego.club:80/vanderlei12/vanderlei12/45724
+#EXTINF:-1 tvg-id="smithsonian.br" tvg-name="Smithsonian Channel HD" tvg-logo="http://printv.esy.es/server/Smithsonian%20Channel.png" group-title="Canais Documentarios",Smithsonian Channel HD
+http://icego.club:80/vanderlei12/vanderlei12/46084
+#EXTINF:-1 tvg-id="smithsonian.br" tvg-name="Smithsonian Channel" tvg-logo="http://printv.esy.es/server/Smithsonian%20Channel.png" group-title="Canais Documentarios",Smithsonian Channel
+http://icego.club:80/vanderlei12/vanderlei12/46085
+#EXTINF:-1 tvg-id="rede.vida.br" tvg-name="Rede Vida FHD" tvg-logo="http://printv.esy.es/server/Rede%20Vida.png" group-title="Canais Religiosos",Rede Vida FHD
+http://icego.club:80/vanderlei12/vanderlei12/45721
+#EXTINF:-1 tvg-id="rede.vida.br" tvg-name="Rede Vida HD" tvg-logo="http://printv.esy.es/server/Rede%20Vida.png" group-title="Canais Religiosos",Rede Vida HD
+http://icego.club:80/vanderlei12/vanderlei12/46068
+#EXTINF:-1 tvg-id="rede.vida.br" tvg-name="Rede Vida" tvg-logo="http://printv.esy.es/server/Rede%20Vida.png" group-title="Canais Religiosos",Rede Vida
+http://icego.club:80/vanderlei12/vanderlei12/46005
+#EXTINF:-1 tvg-id="cancao.nova.br" tvg-name="Canção Nova" tvg-logo="http://printv.esy.es/server/Can%C3%A7%C3%A3o%20Nova.png" group-title="Canais Religiosos",Canção Nova
+http://icego.club:80/vanderlei12/vanderlei12/45866
+#EXTINF:-1 tvg-id="tv.aparecida.br" tvg-name="TV Aparecida" tvg-logo="http://printv.esy.es/server/TV%20Aparecida.png" group-title="Canais Religiosos",TV Aparecida
+http://icego.club:80/vanderlei12/vanderlei12/46043
+#EXTINF:-1 tvg-id="boa.vontade.br" tvg-name="Boa Vontade TV HD" tvg-logo="http://printv.esy.es/server/Boa%20Vontade%20TV.png" group-title="Canais Religiosos",Boa Vontade TV HD
+http://icego.club:80/vanderlei12/vanderlei12/45859
+#EXTINF:-1 tvg-id="" tvg-name="Novo Tempo" tvg-logo="http://printv.esy.es/server/Novo%20Tempo.png" group-title="Canais Religiosos",Novo Tempo
+http://icego.club:80/vanderlei12/vanderlei12/95026
+#EXTINF:-1 tvg-id="cnt.br" tvg-name="Rede CNT " tvg-logo="http://printv.esy.es/server/Rede%20CNT.png" group-title="Canais Religiosos",Rede CNT 
+http://icego.club:80/vanderlei12/vanderlei12/47153
+#EXTINF:-1 tvg-id="rede.genesis.br" tvg-name="Rede Genesis HD " tvg-logo="http://printv.esy.es/server/Rede%20G%C3%AAnesis.png" group-title="Canais Religiosos",Rede Genesis HD 
+http://icego.club:80/vanderlei12/vanderlei12/47099
+#EXTINF:-1 tvg-id="rede.genesis.br" tvg-name="Rede Genesis " tvg-logo="http://printv.esy.es/server/Rede%20G%C3%AAnesis.png" group-title="Canais Religiosos",Rede Genesis 
+http://icego.club:80/vanderlei12/vanderlei12/47097
+#EXTINF:-1 tvg-id="" tvg-name="Rede Gospel" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/b/ba/LGT_Rede_Gospel.png/235px-LGT_Rede_Gospel.png" group-title="Canais Religiosos",Rede Gospel
+http://icego.club:80/vanderlei12/vanderlei12/85848
+#EXTINF:-1 tvg-id="rede.super.br" tvg-name="Rede Super HD" tvg-logo="http://printv.esy.es/server/Rede%20Super.png" group-title="Canais Religiosos",Rede Super HD
+http://icego.club:80/vanderlei12/vanderlei12/46974
+#EXTINF:-1 tvg-id="rede.super.br" tvg-name="Rede Super " tvg-logo="http://printv.esy.es/server/Rede%20Super.png" group-title="Canais Religiosos",Rede Super 
+http://icego.club:80/vanderlei12/vanderlei12/46975
+#EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="Cartoon Network FHD" tvg-logo="http://printv.esy.es/server/Cartoon%20Network%20HD.png" group-title="Canais Infantis",Cartoon Network FHD
+http://icego.club:80/vanderlei12/vanderlei12/45625
+#EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="Cartoon Network HD" tvg-logo="http://printv.esy.es/server/Cartoon%20Network%20HD.png" group-title="Canais Infantis",Cartoon Network HD
+http://icego.club:80/vanderlei12/vanderlei12/45868
+#EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="Cartoon Network" tvg-logo="http://printv.esy.es/server/Cartoon%20Network.png" group-title="Canais Infantis",Cartoon Network
+http://icego.club:80/vanderlei12/vanderlei12/45867
+#EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="Cartoon Network Alternativo HD" tvg-logo="http://printv.esy.es/server/Cartoon%20Network%20HD.png" group-title="Canais Infantis",Cartoon Network Alternativo HD
+http://icego.club:80/vanderlei12/vanderlei12/47062
+#EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="Cartoon Network Alternativo" tvg-logo="http://printv.esy.es/server/Cartoon%20Network.png" group-title="Canais Infantis",Cartoon Network Alternativo
+http://icego.club:80/vanderlei12/vanderlei12/46901
+#EXTINF:-1 tvg-id="discovery.kids.br" tvg-name="Discovery Kids FHD" tvg-logo="http://printv.esy.es/server/Discovery%20Kids%20HD.png" group-title="Canais Infantis",Discovery Kids FHD
+http://icego.club:80/vanderlei12/vanderlei12/45631
+#EXTINF:-1 tvg-id="discovery.kids.br" tvg-name="Discovery Kids HD" tvg-logo="http://printv.esy.es/server/Discovery%20Kids%20HD.png" group-title="Canais Infantis",Discovery Kids HD
+http://icego.club:80/vanderlei12/vanderlei12/45884
+#EXTINF:-1 tvg-id="discovery.kids.br" tvg-name="Discovery Kids" tvg-logo="http://printv.esy.es/server/Discovery%20Kids.png" group-title="Canais Infantis",Discovery Kids
+http://icego.club:80/vanderlei12/vanderlei12/45883
+#EXTINF:-1 tvg-id="discovery.kids.br" tvg-name="Discovery Kids Alternativo HD" tvg-logo="http://printv.esy.es/server/Discovery%20Kids%20HD.png" group-title="Canais Infantis",Discovery Kids Alternativo HD
+http://icego.club:80/vanderlei12/vanderlei12/47063
+#EXTINF:-1 tvg-id="discovery.kids.br" tvg-name="Discovery Kids Alternativo" tvg-logo="http://printv.esy.es/server/Discovery%20Kids.png" group-title="Canais Infantis",Discovery Kids Alternativo
+http://icego.club:80/vanderlei12/vanderlei12/46904
+#EXTINF:-1 tvg-id="disney.br" tvg-name="Disney Channel FHD" tvg-logo="http://printv.esy.es/server/Disney%20Channel%20HD.png" group-title="Canais Infantis",Disney Channel FHD
+http://icego.club:80/vanderlei12/vanderlei12/45692
+#EXTINF:-1 tvg-id="disney.br" tvg-name="Disney Channel HD" tvg-logo="http://printv.esy.es/server/Disney%20Channel%20HD.png" group-title="Canais Infantis",Disney Channel HD
+http://icego.club:80/vanderlei12/vanderlei12/45892
+#EXTINF:-1 tvg-id="disney.br" tvg-name="Disney Channel" tvg-logo="http://printv.esy.es/server/Disney%20Channel.png" group-title="Canais Infantis",Disney Channel
+http://icego.club:80/vanderlei12/vanderlei12/45891
+#EXTINF:-1 tvg-id="disney.br" tvg-name="Disney Channel Alternativo HD" tvg-logo="http://printv.esy.es/server/Disney%20Channel%20HD.png" group-title="Canais Infantis",Disney Channel Alternativo HD
+http://icego.club:80/vanderlei12/vanderlei12/47065
+#EXTINF:-1 tvg-id="disney.br" tvg-name="Disney Channel Alternativo" tvg-logo="http://printv.esy.es/server/Disney%20Channel.png" group-title="Canais Infantis",Disney Channel Alternativo
+http://icego.club:80/vanderlei12/vanderlei12/46953
+#EXTINF:-1 tvg-id="disney.junior.br" tvg-name="Disney Jr FHD" tvg-logo="http://printv.esy.es/server/Disney%20Jr..png" group-title="Canais Infantis",Disney Jr FHD
+http://icego.club:80/vanderlei12/vanderlei12/45686
+#EXTINF:-1 tvg-id="disney.junior.br" tvg-name="Disney Jr HD" tvg-logo="http://printv.esy.es/server/Disney%20Jr..png" group-title="Canais Infantis",Disney Jr HD
+http://icego.club:80/vanderlei12/vanderlei12/46063
+#EXTINF:-1 tvg-id="disney.junior.br" tvg-name="Disney Jr" tvg-logo="http://printv.esy.es/server/Disney%20Jr..png" group-title="Canais Infantis",Disney Jr
+http://icego.club:80/vanderlei12/vanderlei12/45893
+#EXTINF:-1 tvg-id="disney.junior.br" tvg-name="Disney JR Alternativo HD" tvg-logo="http://printv.esy.es/server/Disney%20J%C3%BAnior%20HD.png" group-title="Canais Infantis",Disney JR Alternativo HD
+http://icego.club:80/vanderlei12/vanderlei12/47066
+#EXTINF:-1 tvg-id="disney.junior.brazil.br" tvg-name="Disney Jr Alternativo" tvg-logo="http://printv.esy.es/server/Disney%20Jr..png" group-title="Canais Infantis",Disney Jr Alternativo
+http://icego.club:80/vanderlei12/vanderlei12/46954
+#EXTINF:-1 tvg-id="boomerang.br" tvg-name="Boomerang HD" tvg-logo="http://printv.esy.es/server/Boomerang%20HD.png" group-title="Canais Infantis",Boomerang HD
+http://icego.club:80/vanderlei12/vanderlei12/45861
+#EXTINF:-1 tvg-id="boomerang.br" tvg-name="Boomerang" tvg-logo="http://printv.esy.es/server/Boomerang.png" group-title="Canais Infantis",Boomerang
+http://icego.club:80/vanderlei12/vanderlei12/45860
+#EXTINF:-1 tvg-id="boomerang.br" tvg-name="Boomerang Alternativo HD" tvg-logo="http://printv.esy.es/server/Boomerang%20HD.png" group-title="Canais Infantis",Boomerang Alternativo HD
+http://icego.club:80/vanderlei12/vanderlei12/47060
+#EXTINF:-1 tvg-id="boomerang.br" tvg-name="Boomerang Alternativo" tvg-logo="http://printv.esy.es/server/Boomerang.png" group-title="Canais Infantis",Boomerang Alternativo
+http://icego.club:80/vanderlei12/vanderlei12/46948
+#EXTINF:-1 tvg-id="nick.br" tvg-name="Nickelodeon FHD" tvg-logo="http://printv.esy.es/server/Nickelodeon.png" group-title="Canais Infantis",Nickelodeon FHD
+http://icego.club:80/vanderlei12/vanderlei12/45667
+#EXTINF:-1 tvg-id="nick.br" tvg-name="Nickelodeon HD" tvg-logo="http://printv.esy.es/server/Nickelodeon.png" group-title="Canais Infantis",Nickelodeon HD
+http://icego.club:80/vanderlei12/vanderlei12/45977
+#EXTINF:-1 tvg-id="nick.br" tvg-name="Nickelodeon" tvg-logo="http://printv.esy.es/server/Nickelodeon.png" group-title="Canais Infantis",Nickelodeon
+http://icego.club:80/vanderlei12/vanderlei12/45976
+#EXTINF:-1 tvg-id="nick.br" tvg-name="Nickelodeon Alternativo HD" tvg-logo="http://printv.esy.es/server/Nickelodeon.png" group-title="Canais Infantis",Nickelodeon Alternativo HD
+http://icego.club:80/vanderlei12/vanderlei12/47073
+#EXTINF:-1 tvg-id="nick.br" tvg-name="Nickelodeon Alternativo" tvg-logo="http://printv.esy.es/server/Nickelodeon.png" group-title="Canais Infantis",Nickelodeon Alternativo
+http://icego.club:80/vanderlei12/vanderlei12/46927
+#EXTINF:-1 tvg-id="nick.jr.br" tvg-name="Nick Jr FHD" tvg-logo="http://printv.esy.es/server/Nick%20Jr.%20HD.png" group-title="Canais Infantis",Nick Jr FHD
+http://icego.club:80/vanderlei12/vanderlei12/45666
+#EXTINF:-1 tvg-id="nick.jr.br" tvg-name="Nick Jr HD" tvg-logo="http://printv.esy.es/server/Nick%20Jr.%20HD.png" group-title="Canais Infantis",Nick Jr HD
+http://icego.club:80/vanderlei12/vanderlei12/45975
+#EXTINF:-1 tvg-id="nick.jr.br" tvg-name="Nick Jr" tvg-logo="http://printv.esy.es/server/Nick%20Jr..png" group-title="Canais Infantis",Nick Jr
+http://icego.club:80/vanderlei12/vanderlei12/45974
+#EXTINF:-1 tvg-id="nick.jr.br" tvg-name="Nick JR Alternativo HD" tvg-logo="http://printv.esy.es/server/Nick%20Jr.%20HD.png" group-title="Canais Infantis",Nick JR Alternativo HD
+http://icego.club:80/vanderlei12/vanderlei12/47074
+#EXTINF:-1 tvg-id="nick.jr.br" tvg-name="Nick Jr Alternativo" tvg-logo="http://printv.esy.es/server/Nick%20Jr..png" group-title="Canais Infantis",Nick Jr Alternativo
+http://icego.club:80/vanderlei12/vanderlei12/46970
+#EXTINF:-1 tvg-id="gloobinho.br" tvg-name="Gloobinho FHD" tvg-logo="http://printv.esy.es/server/Gloobinho.png" group-title="Canais Infantis",Gloobinho FHD
+http://icego.club:80/vanderlei12/vanderlei12/45646
+#EXTINF:-1 tvg-id="gloobinho.br" tvg-name="Gloobinho HD" tvg-logo="http://printv.esy.es/server/Gloobinho.png" group-title="Canais Infantis",Gloobinho HD
+http://icego.club:80/vanderlei12/vanderlei12/45929
+#EXTINF:-1 tvg-id="gloobinho.br" tvg-name="Gloobinho" tvg-logo="http://printv.esy.es/server/Gloobinho.png" group-title="Canais Infantis",Gloobinho
+http://icego.club:80/vanderlei12/vanderlei12/45930
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="Gloob FHD" tvg-logo="http://printv.esy.es/server/Gloob.png" group-title="Canais Infantis",Gloob FHD
+http://icego.club:80/vanderlei12/vanderlei12/45699
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="Gloob HD" tvg-logo="http://printv.esy.es/server/Gloob.png" group-title="Canais Infantis",Gloob HD
+http://icego.club:80/vanderlei12/vanderlei12/45928
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="Gloob" tvg-logo="http://printv.esy.es/server/Gloob.png" group-title="Canais Infantis",Gloob
+http://icego.club:80/vanderlei12/vanderlei12/45927
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="Gloob Alternativo HD" tvg-logo="http://printv.esy.es/server/Gloob.png" group-title="Canais Infantis",Gloob Alternativo HD
+http://icego.club:80/vanderlei12/vanderlei12/47070
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="Gloob Alternativo" tvg-logo="http://printv.esy.es/server/Gloob.png" group-title="Canais Infantis",Gloob Alternativo
+http://icego.club:80/vanderlei12/vanderlei12/46915
+#EXTINF:-1 tvg-id="nat.geo.kids.br" tvg-name="Nat Geo Kids FHD" tvg-logo="http://printv.esy.es/server/Nat%20Geo%20Kids.png" group-title="Canais Infantis",Nat Geo Kids FHD
+http://icego.club:80/vanderlei12/vanderlei12/45664
+#EXTINF:-1 tvg-id="nat.geo.kids.br" tvg-name="Nat Geo Kids HD" tvg-logo="http://printv.esy.es/server/Nat%20Geo%20Kids.png" group-title="Canais Infantis",Nat Geo Kids HD
+http://icego.club:80/vanderlei12/vanderlei12/45970
+#EXTINF:-1 tvg-id="nat.geo.kids.br" tvg-name="Nat Geo Kids" tvg-logo="http://printv.esy.es/server/Nat%20Geo%20Kids.png" group-title="Canais Infantis",Nat Geo Kids
+http://icego.club:80/vanderlei12/vanderlei12/45969
+#EXTINF:-1 tvg-id="nat.geo.kids.br" tvg-name="Nat Geo Kids Alternativo HD" tvg-logo="http://printv.esy.es/server/Nat%20Geo%20Kids.png" group-title="Canais Infantis",Nat Geo Kids Alternativo HD
+http://icego.club:80/vanderlei12/vanderlei12/47072
+#EXTINF:-1 tvg-id="natgeo.kids.br" tvg-name="Nat Geo Kids Alternativo" tvg-logo="http://printv.esy.es/server/Nat%20Geo%20Kids.png" group-title="Canais Infantis",Nat Geo Kids Alternativo
+http://icego.club:80/vanderlei12/vanderlei12/46968
+#EXTINF:-1 tvg-id="ra.tim.bum.br" tvg-name="TV Ra Tim Bum FHD" tvg-logo="http://printv.esy.es/server/TV%20R%C3%A1%20Tim%20Bum.png" group-title="Canais Infantis",TV Ra Tim Bum FHD
+http://icego.club:80/vanderlei12/vanderlei12/45681
+#EXTINF:-1 tvg-id="ra.tim.bum.br" tvg-name="TV Ra Tim Bum HD" tvg-logo="http://printv.esy.es/server/TV%20R%C3%A1%20Tim%20Bum.png" group-title="Canais Infantis",TV Ra Tim Bum HD
+http://icego.club:80/vanderlei12/vanderlei12/46049
+#EXTINF:-1 tvg-id="ra.tim.bum.br" tvg-name="TV Ra Tim Bum" tvg-logo="http://printv.esy.es/server/TV%20R%C3%A1%20Tim%20Bum.png" group-title="Canais Infantis",TV Ra Tim Bum
+http://icego.club:80/vanderlei12/vanderlei12/46048
+#EXTINF:-1 tvg-id="ra.tim.bum.br" tvg-name="TV Ra Tim Bum Alternativo" tvg-logo="http://printv.esy.es/server/TV%20R%C3%A1%20Tim%20Bum.png" group-title="Canais Infantis",TV Ra Tim Bum Alternativo
+http://icego.club:80/vanderlei12/vanderlei12/46973
+#EXTINF:-1 tvg-id="PlayKids" tvg-name="Playkids FHD" tvg-logo="http://printv.esy.es/server/PlayKids.png" group-title="Canais Infantis",Playkids FHD
+http://icego.club:80/vanderlei12/vanderlei12/45722
+#EXTINF:-1 tvg-id="PlayKids" tvg-name="Playkids HD" tvg-logo="http://printv.esy.es/server/PlayKids.png" group-title="Canais Infantis",Playkids HD
+http://icego.club:80/vanderlei12/vanderlei12/46073
+#EXTINF:-1 tvg-id="PlayKids" tvg-name="Playkids " tvg-logo="http://printv.esy.es/server/PlayKids.png" group-title="Canais Infantis",Playkids 
+http://icego.club:80/vanderlei12/vanderlei12/46074
+#EXTINF:-1 tvg-id="baby.br" tvg-name="Baby TV FHD " tvg-logo="http://printv.esy.es/server/Baby%20TV.png" group-title="Canais Infantis",Baby TV FHD 
+http://icego.club:80/vanderlei12/vanderlei12/47166
+#EXTINF:-1 tvg-id="baby.br" tvg-name="Baby TV HD " tvg-logo="http://printv.esy.es/server/Baby%20TV.png" group-title="Canais Infantis",Baby TV HD 
+http://icego.club:80/vanderlei12/vanderlei12/47165
+#EXTINF:-1 tvg-id="baby.br" tvg-name="Baby TV " tvg-logo="http://printv.esy.es/server/Baby%20TV.png" group-title="Canais Infantis",Baby TV 
+http://icego.club:80/vanderlei12/vanderlei12/46897
+#EXTINF:-1 tvg-id="tooncast.br" tvg-name="Tooncast" tvg-logo="http://printv.esy.es/server/Tooncast.png" group-title="Canais Infantis",Tooncast
+http://icego.club:80/vanderlei12/vanderlei12/46040
+#EXTINF:-1 tvg-id="tooncast.br" tvg-name="Tooncast" tvg-logo="http://printv.esy.es/server/Tooncast.png" group-title="Canais Infantis",Tooncast
+http://icego.club:80/vanderlei12/vanderlei12/47096
+#EXTINF:-1 tvg-id="zoomoo.br" tvg-name="Zoomoo" tvg-logo="http://printv.esy.es/server/ZooMoo.png" group-title="Canais Infantis",Zoomoo
+http://icego.club:80/vanderlei12/vanderlei12/46087
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky Play 1 " tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="Canais Cine Sky",Cine Sky Play 1 
+http://icego.club:80/vanderlei12/vanderlei12/46263
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky Play 2 " tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="Canais Cine Sky",Cine Sky Play 2 
+http://icego.club:80/vanderlei12/vanderlei12/46264
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky Play 3 " tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="Canais Cine Sky",Cine Sky Play 3 
+http://icego.club:80/vanderlei12/vanderlei12/46265
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky Play 4 " tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="Canais Cine Sky",Cine Sky Play 4 
+http://icego.club:80/vanderlei12/vanderlei12/46266
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky Play 5" tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="Canais Cine Sky",Cine Sky Play 5
+http://icego.club:80/vanderlei12/vanderlei12/46267
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky Play 6" tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="Canais Cine Sky",Cine Sky Play 6
+http://icego.club:80/vanderlei12/vanderlei12/46268
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky Play 7" tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="Canais Cine Sky",Cine Sky Play 7
+http://icego.club:80/vanderlei12/vanderlei12/46269
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky Play 8 " tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="Canais Cine Sky",Cine Sky Play 8 
+http://icego.club:80/vanderlei12/vanderlei12/46270
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky Play 9 " tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="Canais Cine Sky",Cine Sky Play 9 
+http://icego.club:80/vanderlei12/vanderlei12/46271
+#EXTINF:-1 tvg-id="US: Nick Jr." tvg-name="[24h] 3 Palavrinhas" tvg-logo="https://imgur.com/8AHg0m5.jpg" group-title="Canais Desenhos 24Hs",[24h] 3 Palavrinhas
+http://icego.club:80/vanderlei12/vanderlei12/67076
+#EXTINF:-1 tvg-id="US: Nick Jr." tvg-name="[24h] A turma do Perna Longa" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGIzNDViMjAtYzYwZS00MzJlLTkyZTUtYzZlOWFkYmEyMTdlXkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_UY268_CR0,0,182,268_AL_.jpg" group-title="Canais Desenhos 24Hs",[24h] A turma do Perna Longa
+http://icego.club:80/vanderlei12/vanderlei12/67119
+#EXTINF:-1 tvg-id="US: Nick Jr." tvg-name="[24h] Ben 10" tvg-logo="https://imgur.com/PbAhK0I.jpg" group-title="Canais Desenhos 24Hs",[24h] Ben 10
+http://icego.club:80/vanderlei12/vanderlei12/67059
+#EXTINF:-1 tvg-id="US: Nick Jr." tvg-name="[24h] BeyBlade" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGIzNDViMjAtYzYwZS00MzJlLTkyZTUtYzZlOWFkYmEyMTdlXkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_UY268_CR0,0,182,268_AL_.jpg" group-title="Canais Desenhos 24Hs",[24h] BeyBlade
+http://icego.club:80/vanderlei12/vanderlei12/67118
+#EXTINF:-1 tvg-id="US: Nick Jr." tvg-name="[24h] Bob Esponja" tvg-logo="https://imgur.com/IZS6qZ0.jpg" group-title="Canais Desenhos 24Hs",[24h] Bob Esponja
+http://icego.club:80/vanderlei12/vanderlei12/67060
+#EXTINF:-1 tvg-id="US: Nick Jr." tvg-name="[24h] Castelo Rá-Tim-Bum" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTllYmZmNDAtZTU2ZC00MWVhLWIzYzUtMjQzYmEwYTgwNDNkXkEyXkFqcGdeQXVyMTY2MzYyNzA@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Canais Programas de TV 24hs",[24h] Castelo Rá-Tim-Bum
+http://icego.club:80/vanderlei12/vanderlei12/67117
+#EXTINF:-1 tvg-id="US: Nick Jr." tvg-name="[24h] Cavalo de Fogo" tvg-logo="https://i.pinimg.com/564x/53/fe/8a/53fe8aab56e1f273ba10b579e320d048.jpg" group-title="Canais Desenhos 24Hs",[24h] Cavalo de Fogo
+http://icego.club:80/vanderlei12/vanderlei12/67116
+#EXTINF:-1 tvg-id="US: Nick Jr." tvg-name="[24h] Chaves Desenho" tvg-logo="https://imgur.com/Zpfxf5W.jpg" group-title="Canais Desenhos 24Hs",[24h] Chaves Desenho
+http://icego.club:80/vanderlei12/vanderlei12/67075
+#EXTINF:-1 tvg-id="US: Nick Jr." tvg-name="[24h] Dick Vigarista e Muttley" tvg-logo="https://imgur.com/JOArqc3.jpg" group-title="Canais Desenhos 24Hs",[24h] Dick Vigarista e Muttley
+http://icego.club:80/vanderlei12/vanderlei12/67064
+#EXTINF:-1 tvg-id="US: Nick Jr." tvg-name="[24h] Dois Homens e meio" tvg-logo="https://imgur.com/e8E8b6Q.jpg" group-title="Canais Programas de TV 24hs",[24h] Dois Homens e meio
+http://icego.club:80/vanderlei12/vanderlei12/67094
+#EXTINF:-1 tvg-id="US: Nick Jr." tvg-name="[24h] Doug Funnie" tvg-logo="https://imgur.com/bqOXETJ.jpg" group-title="Canais Desenhos 24Hs",[24h] Doug Funnie
+http://icego.club:80/vanderlei12/vanderlei12/67066
+#EXTINF:-1 tvg-id="US: Nick Jr." tvg-name="[24h] Dragon Ball GT" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzY3YjhiYTMtNDQ4OS00ZGI0LWE0ODQtOGM1N2M5OTQyNjk1XkEyXkFqcGdeQXVyMjc2Nzg5OTQ@._V1_UY1200_CR65,0,630,1200_AL_.jpg" group-title="Canais Desenhos 24Hs",[24h] Dragon Ball GT
+http://icego.club:80/vanderlei12/vanderlei12/67099
+#EXTINF:-1 tvg-id="US: Nick Jr." tvg-name="[24h] Friends" tvg-logo="https://imgur.com/3f5nvsn.jpg" group-title="Canais Programas de TV 24hs",[24h] Friends
+http://icego.club:80/vanderlei12/vanderlei12/67091
+#EXTINF:-1 tvg-id="US: Nick Jr." tvg-name="[24h] Heman" tvg-logo="https://imgur.com/kwbHi70.jpg" group-title="Canais Desenhos 24Hs",[24h] Heman
+http://icego.club:80/vanderlei12/vanderlei12/67067
+#EXTINF:-1 tvg-id="US: Nick Jr." tvg-name="[24h] Jiraya" tvg-logo="https://imgur.com/pEB9OAo.jpg" group-title="Canais Programas de TV 24hs",[24h] Jiraya
+http://icego.club:80/vanderlei12/vanderlei12/67093
+#EXTINF:-1 tvg-id="US: Nick Jr." tvg-name="[24h] Jonny Quest" tvg-logo="https://imgur.com/9bWsR2X.jpg" group-title="Canais Desenhos 24Hs",[24h] Jonny Quest
+http://icego.club:80/vanderlei12/vanderlei12/67068
+#EXTINF:-1 tvg-id="US: Nick Jr." tvg-name="[24h] Masha e Urso" tvg-logo="https://imgur.com/nH4ZjJj.jpg" group-title="Canais Desenhos 24Hs",[24h] Masha e Urso
+http://icego.club:80/vanderlei12/vanderlei12/67062
+#EXTINF:-1 tvg-id="US: Nick Jr." tvg-name="[24h] O Pequeno Principe" tvg-logo="https://imgur.com/hmxIlBo.jpg" group-title="Canais Desenhos 24Hs",[24h] O Pequeno Principe
+http://icego.club:80/vanderlei12/vanderlei12/67069
+#EXTINF:-1 tvg-id="US: Nick Jr." tvg-name="[24h] O Poderoso Chefinho" tvg-logo="https://imgur.com/XY8bMqs.jpg" group-title="Canais Desenhos 24Hs",[24h] O Poderoso Chefinho
+http://icego.club:80/vanderlei12/vanderlei12/67063
+#EXTINF:-1 tvg-id="US: Nick Jr." tvg-name="[24h] O Show da Luna" tvg-logo="https://saopauloparacriancas.com.br/wp-content/uploads/2016/07/marcas__0016_show_da_luna-350x350.jpg" group-title="Canais Desenhos 24Hs",[24h] O Show da Luna
+http://icego.club:80/vanderlei12/vanderlei12/67082
+#EXTINF:-1 tvg-id="US: Nick Jr." tvg-name="[24h] Os Flistons" tvg-logo="https://www.vhv.rs/dpng/d/611-6114382_transparent-flintstones-png-flintstones-png-png-download.png" group-title="Canais Desenhos 24Hs",[24h] Os Flistons
+http://icego.club:80/vanderlei12/vanderlei12/67112
+#EXTINF:-1 tvg-id="US: Nick Jr." tvg-name="[24h] Os Jetsons" tvg-logo="https://imgur.com/kiNfPyJ.jpg" group-title="Canais Desenhos 24Hs",[24h] Os Jetsons
+http://icego.club:80/vanderlei12/vanderlei12/67061
+#EXTINF:-1 tvg-id="US: Nick Jr." tvg-name="[24h] Padrinhos Mágicos" tvg-logo="https://i.pinimg.com/564x/ee/ee/b3/eeeeb375d57898d4b73818818fa633fa.jpg" group-title="Canais Desenhos 24Hs",[24h] Padrinhos Mágicos
+http://icego.club:80/vanderlei12/vanderlei12/67111
+#EXTINF:-1 tvg-id="US: Nick Jr." tvg-name="[24h] Pegadinhas" tvg-logo="http://4.bp.blogspot.com/_2TQKBVGxH7Y/TNf1vd36ijI/AAAAAAAAAmo/O8WRAqNS5ug/s320/pegadinhas+silvio+santos+e+joa+kleber.jpg" group-title="Canais Programas de TV 24hs",[24h] Pegadinhas
+http://icego.club:80/vanderlei12/vanderlei12/67110
+#EXTINF:-1 tvg-id="US: Nick Jr." tvg-name="[24h] Pinky e Cérebro" tvg-logo="https://imgur.com/JvrA5fw.jpg" group-title="Canais Desenhos 24Hs",[24h] Pinky e Cérebro
+http://icego.club:80/vanderlei12/vanderlei12/67074
+#EXTINF:-1 tvg-id="US: Nick Jr." tvg-name="[24h] Popeye" tvg-logo="https://imgur.com/MY5hS9E.jpg" group-title="Canais Desenhos 24Hs",[24h] Popeye
+http://icego.club:80/vanderlei12/vanderlei12/67070
+#EXTINF:-1 tvg-id="US: Nick Jr." tvg-name="[24h] Rick e Morty" tvg-logo="https://imgur.com/4VK4xCT.jpg" group-title="Canais Desenhos 24Hs",[24h] Rick e Morty
+http://icego.club:80/vanderlei12/vanderlei12/67058
+#EXTINF:-1 tvg-id="US: Nick Jr." tvg-name="[24h] Rugrats" tvg-logo="https://gray-kosa-prod.cdn.arcpublishing.com/resizer/o2tiB1RkZhG2BeUeDkMU29QZgsY=/1200x675/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/VYOVGAQQ4ZLN5JG4LR5KXKRBSM.jpg" group-title="Canais Programas de TV 24hs",[24h] Rugrats
+http://icego.club:80/vanderlei12/vanderlei12/67109
+#EXTINF:-1 tvg-id="US: Nick Jr." tvg-name="[24h] She-Ra" tvg-logo="https://imgur.com/W1SsLlL.jpg" group-title="Canais Desenhos 24Hs",[24h] She-Ra
+http://icego.club:80/vanderlei12/vanderlei12/67073
+#EXTINF:-1 tvg-id="US: Nick Jr." tvg-name="[24h] Sonic Boom" tvg-logo="https://i.pinimg.com/564x/af/75/62/af756209e792a29ef1b4e11574f1dc47.jpg" group-title="Canais Desenhos 24Hs",[24h] Sonic Boom
+http://icego.club:80/vanderlei12/vanderlei12/67107
+#EXTINF:-1 tvg-id="US: Nick Jr." tvg-name="[24h] Speed Racer" tvg-logo="https://img04.mgo-images.com/image/thumbnail?id=1MVef85c1d593179a991590ac2a1620c89e&ql=70&sizes=310x465" group-title="Canais Desenhos 24Hs",[24h] Speed Racer
+http://icego.club:80/vanderlei12/vanderlei12/67106
+#EXTINF:-1 tvg-id="US: Nick Jr." tvg-name="[24h] Street Fighter" tvg-logo="https://imgur.com/kIfJGSp.jpg" group-title="Canais Desenhos 24Hs",[24h] Street Fighter
+http://icego.club:80/vanderlei12/vanderlei12/67098
+#EXTINF:-1 tvg-id="US: Nick Jr." tvg-name="[24h] Super Choque" tvg-logo="https://i.pinimg.com/564x/07/26/21/0726212a7a25527ae8ce84933d7e28df.jpg" group-title="Canais Desenhos 24Hs",[24h] Super Choque
+http://icego.club:80/vanderlei12/vanderlei12/67105
+#EXTINF:-1 tvg-id="US: Nick Jr." tvg-name="[24h] Timão e Pumba" tvg-logo="https://imgur.com/wGQURzj.jpg" group-title="Canais Desenhos 24Hs",[24h] Timão e Pumba
+http://icego.club:80/vanderlei12/vanderlei12/67072
+#EXTINF:-1 tvg-id="US: Nick Jr." tvg-name="[24h] Toma lá da Cá" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/6/6f/Toma_L%C3%A1%2C_D%C3%A1_C%C3%A1_logo.jpg/265px-Toma_L%C3%A1%2C_D%C3%A1_C%C3%A1_logo.jpg" group-title="Canais Programas de TV 24hs",[24h] Toma lá da Cá
+http://icego.club:80/vanderlei12/vanderlei12/67104
+#EXTINF:-1 tvg-id="US: Nick Jr." tvg-name="[24h] Três espiãs Demais" tvg-logo="https://imgur.com/Ue9lPBt.jpg" group-title="Canais Desenhos 24Hs",[24h] Três espiãs Demais
+http://icego.club:80/vanderlei12/vanderlei12/67078
+#EXTINF:-1 tvg-id="US: Nick Jr." tvg-name="[24h] Ursinhos Carinhosos" tvg-logo="https://i.pinimg.com/564x/7b/6b/1f/7b6b1f29030279cfa1cfb39147f79d02.jpg" group-title="Canais Desenhos 24Hs",[24h] Ursinhos Carinhosos
+http://icego.club:80/vanderlei12/vanderlei12/67103
+#EXTINF:-1 tvg-id="US: Nick Jr." tvg-name="[24h] X-Men Classic" tvg-logo="https://imgur.com/WPpfGJq.jpg" group-title="Canais Desenhos 24Hs",[24h] X-Men Classic
+http://icego.club:80/vanderlei12/vanderlei12/67071
+#EXTINF:-1 tvg-id="US: Nick Jr." tvg-name="[24h] Young Sheldon" tvg-logo="https://imgur.com/yIYxw9o.jpg" group-title="Canais Programas de TV 24hs",[24h] Young Sheldon
+http://icego.club:80/vanderlei12/vanderlei12/67092
+#EXTINF:-1 tvg-id="US: Nick Jr." tvg-name="[24h] Zé Buscapé" tvg-logo="https://imgur.com/ByYjrqO.jpg" group-title="Canais Desenhos 24Hs",[24h] Zé Buscapé
+http://icego.club:80/vanderlei12/vanderlei12/67065
+#EXTINF:-1 tvg-id="US: Nick Jr." tvg-name="[24h] Zé Colmeia" tvg-logo="https://i.pinimg.com/564x/2a/d7/38/2ad738df732ee76ec9cc294fb05580a4.jpg" group-title="Canais Desenhos 24Hs",[24h] Zé Colmeia
+http://icego.club:80/vanderlei12/vanderlei12/67102
+#EXTINF:-1 tvg-id="US: Nick Jr." tvg-name="[[24H]] A Pequena Sereia" tvg-logo="https://imgur.com/BMqQwBQ.jpg" group-title="Canais Desenhos 24Hs",[[24H]] A Pequena Sereia
+http://icego.club:80/vanderlei12/vanderlei12/67056
+#EXTINF:-1 tvg-id="US: Nick Jr." tvg-name="[[24H]] A Vaca e o Frango" tvg-logo="https://imgur.com/HaW86Y7.jpg" group-title="Canais Desenhos 24Hs",[[24H]] A Vaca e o Frango
+http://icego.club:80/vanderlei12/vanderlei12/67057
+#EXTINF:-1 tvg-id="US: Nick Jr." tvg-name="[[24H]] As Aventuras de Jackie Chan" tvg-logo="https://media.fstatic.com/XC0COApitHa1fRkhTnQlB9GCdVc=/fit-in/290x478/smart/media/movies/covers/2010/07/f1ab14b3c3125ccdd001bae4e3aedaa0.jpg" group-title="Canais Desenhos 24Hs",[[24H]] As Aventuras de Jackie Chan
+http://icego.club:80/vanderlei12/vanderlei12/67051
+#EXTINF:-1 tvg-id="US: Nick Jr." tvg-name="[[24H]] As Meninas Super Poderosas" tvg-logo="https://media.fstatic.com/Hz0Etk22HyiqYxVq_2EZRdjn23k=/fit-in/290x478/smart/media/movies/covers/2018/08/MV5BODdmZmFlMGUtZWE5NC00NmU5LTg3NzItOTNjNDc4ZTc2YzI1XkEyXkFqcGdeQX_j9nsGsO.jpg" group-title="Canais Desenhos 24Hs",[[24H]] As Meninas Super Poderosas
+http://icego.club:80/vanderlei12/vanderlei12/67050
+#EXTINF:-1 tvg-id="US: Nick Jr." tvg-name="[[24H]] Chapolin" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/517vDa3kSEL._SY445_.jpg" group-title="Canais Programas de TV 24hs",[[24H]] Chapolin
+http://icego.club:80/vanderlei12/vanderlei12/67088
+#EXTINF:-1 tvg-id="US: Nick Jr." tvg-name="[[24H]] Chaves Canal 1" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51-YR1Ka9ZL._SY445_.jpg" group-title="Canais Programas de TV 24hs",[[24H]] Chaves Canal 1
+http://icego.club:80/vanderlei12/vanderlei12/67086
+#EXTINF:-1 tvg-id="US: Nick Jr." tvg-name="[[24H]] Chaves Canal 2" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51-YR1Ka9ZL._SY445_.jpg" group-title="Canais Programas de TV 24hs",[[24H]] Chaves Canal 2
+http://icego.club:80/vanderlei12/vanderlei12/67087
+#EXTINF:-1 tvg-id="US: Nick Jr." tvg-name="[[24H]] Denis O Pimentinha" tvg-logo="http://statics.livrariacultura.net.br/products/capas_lg/935/3204935.jpg" group-title="Canais Desenhos 24Hs",[[24H]] Denis O Pimentinha
+http://icego.club:80/vanderlei12/vanderlei12/67044
+#EXTINF:-1 tvg-id="US: Nick Jr." tvg-name="[[24H]] Drake e Josh" tvg-logo="https://dg31sz3gwrwan.cloudfront.net/poster/79357/1141066-4-optimized.jpg" group-title="Canais Programas de TV 24hs",[[24H]] Drake e Josh
+http://icego.club:80/vanderlei12/vanderlei12/67089
+#EXTINF:-1 tvg-id="US: Nick Jr." tvg-name="[[24H]] Futurama" tvg-logo="http://canaissd.ddns.net:25461/InfinitySD/CZZo6PrD97/202" group-title="Canais Desenhos 24Hs",[[24H]] Futurama
+http://icego.club:80/vanderlei12/vanderlei12/67055
+#EXTINF:-1 tvg-id="" tvg-name="[[24H]] Futurama" tvg-logo="https://media.fstatic.com/MWsx05UCqls9zddFATf7pe2tm7I=/fit-in/290x478/smart/media/movies/covers/2012/02/f0d4523baca55a1d4cd815fee1bcdbbd.jpg" group-title="Canais Desenhos 24Hs",[[24H]] Futurama
+http://icego.club:80/vanderlei12/vanderlei12/46147
+#EXTINF:-1 tvg-id="US: Nick Jr." tvg-name="[[24H]] Kenan e Kel" tvg-logo="https://i.pinimg.com/originals/9b/e4/b9/9be4b9731b428481844708967fc80abb.jpg" group-title="Canais Programas de TV 24hs",[[24H]] Kenan e Kel
+http://icego.club:80/vanderlei12/vanderlei12/67083
+#EXTINF:-1 tvg-id="" tvg-name="[[24H]] Kenan e Kel" tvg-logo="https://i.pinimg.com/originals/9b/e4/b9/9be4b9731b428481844708967fc80abb.jpg" group-title="Canais Programas de TV 24hs",[[24H]] Kenan e Kel
+http://icego.club:80/vanderlei12/vanderlei12/46148
+#EXTINF:-1 tvg-id="US: Nick Jr." tvg-name="[[24H]] Mickey e Donald" tvg-logo="https://media.fstatic.com/VGz7F-kJ1tHqGij5L1HNNTm_k_k=/fit-in/290x478/smart/media/movies/covers/2011/04/d2dafeb0d4501a3c93419f9c004af3c7.jpg" group-title="Canais Desenhos 24Hs",[[24H]] Mickey e Donald
+http://icego.club:80/vanderlei12/vanderlei12/67049
+#EXTINF:-1 tvg-id="US: Nick Jr." tvg-name="[[24H]] Mickey e seus Amigos" tvg-logo="https://bumerangbrinquedos.vteximg.com.br/arquivos/ids/174951/MICKEY-M.jpg?v=636756494581070000" group-title="Canais Desenhos 24Hs",[[24H]] Mickey e seus Amigos
+http://icego.club:80/vanderlei12/vanderlei12/67053
+#EXTINF:-1 tvg-id="US: Nick Jr." tvg-name="[[24H]] Naruto" tvg-logo="http://stream20gbps.ml:80/thiagoinfinity/nG3XZyk68a/425]"" group-title="Canais Desenhos 24Hs",[[24H]] Naruto
+http://icego.club:80/vanderlei12/vanderlei12/67096
+#EXTINF:-1 tvg-id="" tvg-name="[[24H]] Os Trapalhoes" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Trapalhoes.jpg/250px-Trapalhoes.jpg" group-title="Canais Programas de TV 24hs",[[24H]] Os Trapalhoes
+http://icego.club:80/vanderlei12/vanderlei12/46149
+#EXTINF:-1 tvg-id="US: Nick Jr." tvg-name="[[24H]] South Park" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGE2YWUzMDItNTg2Ny00NTUzLTlmZGYtNWMyNzVjMjQ3MThkXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UY268_CR0,0,182,268_AL_.jpg" group-title="Canais Desenhos 24Hs",[[24H]] South Park
+http://icego.club:80/vanderlei12/vanderlei12/67047
+#EXTINF:-1 tvg-id="US: Nick Jr." tvg-name="[[24H]] The Big Bang Theory" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2FmZTY5YTktOWRlYy00NmIyLWE0ZmQtZDg2YjlmMzczZDZiXkEyXkFqcGdeQXVyNjg4NzAyOTA@._V1_.jpg" group-title="Canais Programas de TV 24hs",[[24H]] The Big Bang Theory
+http://icego.club:80/vanderlei12/vanderlei12/67084
+#EXTINF:-1 tvg-id="" tvg-name="[[24H]] The Big Bang Theory" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2FmZTY5YTktOWRlYy00NmIyLWE0ZmQtZDg2YjlmMzczZDZiXkEyXkFqcGdeQXVyNjg4NzAyOTA@._V1_.jpg" group-title="Canais Programas de TV 24hs",[[24H]] The Big Bang Theory
+http://icego.club:80/vanderlei12/vanderlei12/46150
+#EXTINF:-1 tvg-id="US: Nick Jr." tvg-name="[[24H]] Tico e Teco" tvg-logo="http://canaissd.ddns.net:25461/InfinitySD/CZZo6PrD97/206]"" group-title="Canais Desenhos 24Hs",[[24H]] Tico e Teco
+http://icego.club:80/vanderlei12/vanderlei12/67054
+#EXTINF:-1 tvg-id="US: Nick Jr." tvg-name="[[24H]] Todo Mundo Odeia o Cris" tvg-logo="https://fotos.ewmix.com/9298/cx146404.jpg" group-title="Canais Programas de TV 24hs",[[24H]] Todo Mundo Odeia o Cris
+http://icego.club:80/vanderlei12/vanderlei12/67090
+#EXTINF:-1 tvg-id="US: Nick Jr." tvg-name="[[24H]] Tom e Jerry" tvg-logo="http://stream20gbps.ml:80/thiagoinfinity/nG3XZyk68a/454]"" group-title="Canais Desenhos 24Hs",[[24H]] Tom e Jerry
+http://icego.club:80/vanderlei12/vanderlei12/67045
+#EXTINF:-1 tvg-id="US: Nick Jr." tvg-name="[[24H]] Um Maluco no Pedaco" tvg-logo="https://media.fstatic.com/8KOqv8DhJMU9mDJPpMbe_j5LzjA=/fit-in/290x478/smart/media/movies/covers/2011/10/fab165e11eeb5fcc4912b604ff559465.jpg" group-title="Canais Programas de TV 24hs",[[24H]] Um Maluco no Pedaco
+http://icego.club:80/vanderlei12/vanderlei12/67085
+#EXTINF:-1 tvg-id="" tvg-name="[[24H]] Um Maluco no Pedaco" tvg-logo="https://media.fstatic.com/8KOqv8DhJMU9mDJPpMbe_j5LzjA=/fit-in/290x478/smart/media/movies/covers/2011/10/fab165e11eeb5fcc4912b604ff559465.jpg" group-title="Canais Programas de TV 24hs",[[24H]] Um Maluco no Pedaco
+http://icego.club:80/vanderlei12/vanderlei12/46151
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="Multishow FHD" tvg-logo="http://printv.esy.es/server/Multishow%20HD.png" group-title="Canais Variedades & Musicas",Multishow FHD
+http://icego.club:80/vanderlei12/vanderlei12/45661
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="Multishow HD" tvg-logo="http://printv.esy.es/server/Multishow%20HD.png" group-title="Canais Variedades & Musicas",Multishow HD
+http://icego.club:80/vanderlei12/vanderlei12/45964
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="Multishow" tvg-logo="http://printv.esy.es/server/Multishow.png" group-title="Canais Variedades & Musicas",Multishow
+http://icego.club:80/vanderlei12/vanderlei12/45963
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="Multishow Alternativo HD" tvg-logo="http://printv.esy.es/server/Multishow%20HD.png" group-title="Canais Variedades & Musicas",Multishow Alternativo HD
+http://icego.club:80/vanderlei12/vanderlei12/47029
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="Multishow Alternativo" tvg-logo="http://printv.esy.es/server/Multishow.png" group-title="Canais Variedades & Musicas",Multishow Alternativo
+http://icego.club:80/vanderlei12/vanderlei12/46966
+#EXTINF:-1 tvg-id="viva.br" tvg-name="Viva FHD" tvg-logo="http://printv.esy.es/server/Viva%20HD.png" group-title="Canais Variedades & Musicas",Viva FHD
+http://icego.club:80/vanderlei12/vanderlei12/45716
+#EXTINF:-1 tvg-id="viva.br" tvg-name="Viva HD" tvg-logo="http://printv.esy.es/server/Viva%20HD.png" group-title="Canais Variedades & Musicas",Viva HD
+http://icego.club:80/vanderlei12/vanderlei12/46058
+#EXTINF:-1 tvg-id="viva.br" tvg-name="Viva" tvg-logo="http://printv.esy.es/server/Viva.png" group-title="Canais Variedades & Musicas",Viva
+http://icego.club:80/vanderlei12/vanderlei12/46057
+#EXTINF:-1 tvg-id="viva.br" tvg-name="Viva Alternativo HD" tvg-logo="http://printv.esy.es/server/Viva%20HD.png" group-title="Canais Variedades & Musicas",Viva Alternativo HD
+http://icego.club:80/vanderlei12/vanderlei12/47038
+#EXTINF:-1 tvg-id="viva.br" tvg-name="Viva Alternativa" tvg-logo="http://printv.esy.es/server/Viva.png" group-title="Canais Variedades & Musicas",Viva Alternativa
+http://icego.club:80/vanderlei12/vanderlei12/46994
+#EXTINF:-1 tvg-id="+.globosat.br" tvg-name="Mais Globosat FHD" tvg-logo="http://printv.esy.es/server/Globosat%20HD.png" group-title="Canais Variedades & Musicas",Mais Globosat FHD
+http://icego.club:80/vanderlei12/vanderlei12/45717
+#EXTINF:-1 tvg-id="+.globosat.br" tvg-name="Mais GloboSat Alternativo HD" tvg-logo="http://printv.esy.es/server/Globosat%20HD.png" group-title="Canais Variedades & Musicas",Mais GloboSat Alternativo HD
+http://icego.club:80/vanderlei12/vanderlei12/47071
+#EXTINF:-1 tvg-id="+.globosat.br" tvg-name="Mais GloboSat Alternativo" tvg-logo="http://printv.esy.es/server/Globosat.png" group-title="Canais Variedades & Musicas",Mais GloboSat Alternativo
+http://icego.club:80/vanderlei12/vanderlei12/46923
+#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT FHD" tvg-logo="http://printv.esy.es/server/GNT%20HD.png" group-title="Canais Variedades & Musicas",GNT FHD
+http://icego.club:80/vanderlei12/vanderlei12/45647
+#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT HD" tvg-logo="http://printv.esy.es/server/GNT%20HD.png" group-title="Canais Variedades & Musicas",GNT HD
+http://icego.club:80/vanderlei12/vanderlei12/45932
+#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT" tvg-logo="http://printv.esy.es/server/GNT.png" group-title="Canais Variedades & Musicas",GNT
+http://icego.club:80/vanderlei12/vanderlei12/45931
+#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT Alternativo HD" tvg-logo="http://printv.esy.es/server/GNT%20HD.png" group-title="Canais Variedades & Musicas",GNT Alternativo HD
+http://icego.club:80/vanderlei12/vanderlei12/47028
+#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT Alternativo" tvg-logo="http://printv.esy.es/server/GNT.png" group-title="Canais Variedades & Musicas",GNT Alternativo
+http://icego.club:80/vanderlei12/vanderlei12/46959
+#EXTINF:-1 tvg-id="off.br" tvg-name="OFF FHD" tvg-logo="http://printv.esy.es/server/Canal%20Off.png" group-title="Canais Variedades & Musicas",OFF FHD
+http://icego.club:80/vanderlei12/vanderlei12/45668
+#EXTINF:-1 tvg-id="off.br" tvg-name="OFF HD" tvg-logo="http://printv.esy.es/server/Canal%20Off.png" group-title="Canais Variedades & Musicas",OFF HD
+http://icego.club:80/vanderlei12/vanderlei12/45979
+#EXTINF:-1 tvg-id="off.br" tvg-name="OFF Alternativo HD" tvg-logo="http://printv.esy.es/server/Canal%20Off.png" group-title="Canais Variedades & Musicas",OFF Alternativo HD
+http://icego.club:80/vanderlei12/vanderlei12/47053
+#EXTINF:-1 tvg-id="off.br" tvg-name="Off Alternativo" tvg-logo="http://printv.esy.es/server/Canal%20Off.png" group-title="Canais Variedades & Musicas",Off Alternativo
+http://icego.club:80/vanderlei12/vanderlei12/46928
+#EXTINF:-1 tvg-id="bis.br" tvg-name="Bis FHD" tvg-logo="http://printv.esy.es/server/Bis.png" group-title="Canais Variedades & Musicas",Bis FHD
+http://icego.club:80/vanderlei12/vanderlei12/45689
+#EXTINF:-1 tvg-id="bis.br" tvg-name="Bis HD" tvg-logo="http://printv.esy.es/server/Bis.png" group-title="Canais Variedades & Musicas",Bis HD
+http://icego.club:80/vanderlei12/vanderlei12/45858
+#EXTINF:-1 tvg-id="bis.br" tvg-name="Bis" tvg-logo="http://printv.esy.es/server/Bis.png" group-title="Canais Variedades & Musicas",Bis
+http://icego.club:80/vanderlei12/vanderlei12/45857
+#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS Alternativo HD" tvg-logo="http://printv.esy.es/server/Bis.png" group-title="Canais Variedades & Musicas",BIS Alternativo HD
+http://icego.club:80/vanderlei12/vanderlei12/47022
+#EXTINF:-1 tvg-id="bis.br" tvg-name="Bis Alternativo" tvg-logo="http://printv.esy.es/server/Bis.png" group-title="Canais Variedades & Musicas",Bis Alternativo
+http://icego.club:80/vanderlei12/vanderlei12/46899
+#EXTINF:-1 tvg-id="lifetime.br" tvg-name="Lifetime FHD" tvg-logo="http://printv.esy.es/server/Lifetime.png" group-title="Canais Variedades & Musicas",Lifetime FHD
+http://icego.club:80/vanderlei12/vanderlei12/45654
+#EXTINF:-1 tvg-id="lifetime.br" tvg-name="Lifetime HD" tvg-logo="http://printv.esy.es/server/Lifetime.png" group-title="Canais Variedades & Musicas",Lifetime HD
+http://icego.club:80/vanderlei12/vanderlei12/45950
+#EXTINF:-1 tvg-id="lifetime.br" tvg-name="Lifetime" tvg-logo="http://printv.esy.es/server/Lifetime.png" group-title="Canais Variedades & Musicas",Lifetime
+http://icego.club:80/vanderlei12/vanderlei12/45949
+#EXTINF:-1 tvg-id="lifetime.br" tvg-name="Lifetime Alternativo HD" tvg-logo="http://printv.esy.es/server/Lifetime.png" group-title="Canais Variedades & Musicas",Lifetime Alternativo HD
+http://icego.club:80/vanderlei12/vanderlei12/46996
+#EXTINF:-1 tvg-id="lifetime.br" tvg-name="Lifetime Alternativo" tvg-logo="http://printv.esy.es/server/Lifetime.png" group-title="Canais Variedades & Musicas",Lifetime Alternativo
+http://icego.club:80/vanderlei12/vanderlei12/46922
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC FHD" tvg-logo="http://printv.esy.es/server/TLC%20HD.png" group-title="Canais Variedades & Musicas",TLC FHD
+http://icego.club:80/vanderlei12/vanderlei12/45677
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC HD" tvg-logo="http://printv.esy.es/server/TLC%20HD.png" group-title="Canais Variedades & Musicas",TLC HD
+http://icego.club:80/vanderlei12/vanderlei12/46035
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC" tvg-logo="http://printv.esy.es/server/TLC.png" group-title="Canais Variedades & Musicas",TLC
+http://icego.club:80/vanderlei12/vanderlei12/46034
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC Alternativo HD" tvg-logo="http://printv.esy.es/server/TLC%20HD.png" group-title="Canais Variedades & Musicas",TLC Alternativo HD
+http://icego.club:80/vanderlei12/vanderlei12/47075
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC Alternativo" tvg-logo="http://printv.esy.es/server/TLC.png" group-title="Canais Variedades & Musicas",TLC Alternativo
+http://icego.club:80/vanderlei12/vanderlei12/46988
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E FHD" tvg-logo="http://printv.esy.es/server/A%26E%20HD.png" group-title="Canais Variedades & Musicas",A&E FHD
+http://icego.club:80/vanderlei12/vanderlei12/45616
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E HD" tvg-logo="http://printv.esy.es/server/A%26E%20HD.png" group-title="Canais Variedades & Musicas",A&E HD
+http://icego.club:80/vanderlei12/vanderlei12/45842
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E" tvg-logo="http://printv.esy.es/server/A%26E.png" group-title="Canais Variedades & Musicas",A&E
+http://icego.club:80/vanderlei12/vanderlei12/45841
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E Alternativo HD" tvg-logo="http://printv.esy.es/server/A%26E%20HD.png" group-title="Canais Variedades & Musicas",A&E Alternativo HD
+http://icego.club:80/vanderlei12/vanderlei12/47039
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E Alternativo" tvg-logo="http://printv.esy.es/server/A%26E.png" group-title="Canais Variedades & Musicas",A&E Alternativo
+http://icego.club:80/vanderlei12/vanderlei12/46944
+#EXTINF:-1 tvg-id="comedy.central.br" tvg-name="Comedy Central FHD" tvg-logo="http://printv.esy.es/server/Comedy%20Central.png" group-title="Canais Variedades & Musicas",Comedy Central FHD
+http://icego.club:80/vanderlei12/vanderlei12/45627
+#EXTINF:-1 tvg-id="comedy.central.br" tvg-name="Comedy Central HD" tvg-logo="http://printv.esy.es/server/Comedy%20Central.png" group-title="Canais Variedades & Musicas",Comedy Central HD
+http://icego.club:80/vanderlei12/vanderlei12/45874
+#EXTINF:-1 tvg-id="comedy.central.br" tvg-name="Comedy Central" tvg-logo="http://printv.esy.es/server/Comedy%20Central.png" group-title="Canais Variedades & Musicas",Comedy Central
+http://icego.club:80/vanderlei12/vanderlei12/45873
+#EXTINF:-1 tvg-id="comedy.central.br" tvg-name="Comedy Central Alternativo" tvg-logo="http://printv.esy.es/server/Comedy%20Central.png" group-title="Canais Variedades & Musicas",Comedy Central Alternativo
+http://icego.club:80/vanderlei12/vanderlei12/46951
+#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV FHD" tvg-logo="http://printv.esy.es/server/MTV%20HD.png" group-title="Canais Variedades & Musicas",MTV FHD
+http://icego.club:80/vanderlei12/vanderlei12/45659
+#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV HD" tvg-logo="http://printv.esy.es/server/MTV%20HD.png" group-title="Canais Variedades & Musicas",MTV HD
+http://icego.club:80/vanderlei12/vanderlei12/45962
+#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV" tvg-logo="http://printv.esy.es/server/MTV.png" group-title="Canais Variedades & Musicas",MTV
+http://icego.club:80/vanderlei12/vanderlei12/45961
+#EXTINF:-1 tvg-id="" tvg-name="MTV Live FHD" tvg-logo="http://printv.esy.es/server/MTV%20Live%20HD.png" group-title="Canais Variedades & Musicas",MTV Live FHD
+http://icego.club:80/vanderlei12/vanderlei12/45660
+#EXTINF:-1 tvg-id="mtv.brasil.br" tvg-name="MTV Live HD" tvg-logo="http://printv.esy.es/server/MTV%20Live%20HD.png" group-title="Canais Variedades & Musicas",MTV Live HD
+http://icego.club:80/vanderlei12/vanderlei12/46065
+#EXTINF:-1 tvg-id="" tvg-name="MTV Live" tvg-logo="http://printv.esy.es/server/MTV%20Live.png" group-title="Canais Variedades & Musicas",MTV Live
+http://icego.club:80/vanderlei12/vanderlei12/46064
+#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV Alternativo" tvg-logo="http://printv.esy.es/server/MTV.png" group-title="Canais Variedades & Musicas",MTV Alternativo
+http://icego.club:80/vanderlei12/vanderlei12/46925
+#EXTINF:-1 tvg-id="vh1.br" tvg-name="VH1 FHD" tvg-logo="http://printv.esy.es/server/VH1%20HD.png" group-title="Canais Variedades & Musicas",VH1 FHD
+http://icego.club:80/vanderlei12/vanderlei12/45683
+#EXTINF:-1 tvg-id="vh1.br" tvg-name="VH1 HD" tvg-logo="http://printv.esy.es/server/VH1%20HD.png" group-title="Canais Variedades & Musicas",VH1 HD
+http://icego.club:80/vanderlei12/vanderlei12/46055
+#EXTINF:-1 tvg-id="vh1.br" tvg-name="VH1" tvg-logo="http://printv.esy.es/server/VH1.png" group-title="Canais Variedades & Musicas",VH1
+http://icego.club:80/vanderlei12/vanderlei12/46054
+#EXTINF:-1 tvg-id="vh1.br" tvg-name="VH1 Alternativo" tvg-logo="http://printv.esy.es/server/VH1.png" group-title="Canais Variedades & Musicas",VH1 Alternativo
+http://icego.club:80/vanderlei12/vanderlei12/46993
+#EXTINF:-1 tvg-id="vh1.megahits.br" tvg-name="VH1 Mega Hits" tvg-logo="http://printv.esy.es/server/VH1%20Mega%20Hits.png" group-title="Canais Variedades & Musicas",VH1 Mega Hits
+http://icego.club:80/vanderlei12/vanderlei12/46056
+#EXTINF:-1 tvg-id="music.box.brasil.br" tvg-name="Music Box Brasil FHD" tvg-logo="http://printv.esy.es/server/Music%20Box%20Brazil%20HD.png" group-title="Canais Variedades & Musicas",Music Box Brasil FHD
+http://icego.club:80/vanderlei12/vanderlei12/45662
+#EXTINF:-1 tvg-id="music.box.brasil.br" tvg-name="Music Box Brasil HD" tvg-logo="http://printv.esy.es/server/Music%20Box%20Brazil%20HD.png" group-title="Canais Variedades & Musicas",Music Box Brasil HD
+http://icego.club:80/vanderlei12/vanderlei12/45966
+#EXTINF:-1 tvg-id="music.box.brasil.br" tvg-name="Music Box Brasil" tvg-logo="http://printv.esy.es/server/Music%20Box%20Brazil.png" group-title="Canais Variedades & Musicas",Music Box Brasil
+http://icego.club:80/vanderlei12/vanderlei12/45965
+#EXTINF:-1 tvg-id="music.box.brasil.br" tvg-name="Music Box Brasil Alternativo" tvg-logo="http://printv.esy.es/server/Music%20Box%20Brazil.png" group-title="Canais Variedades & Musicas",Music Box Brasil Alternativo
+http://icego.club:80/vanderlei12/vanderlei12/46926
+#EXTINF:-1 tvg-id="prime.box.brazil.br" tvg-name="Prime Box Brasil FHD" tvg-logo="http://printv.esy.es/server/Prime%20Box%20Brazil%20HD.png" group-title="Canais Variedades & Musicas",Prime Box Brasil FHD
+http://icego.club:80/vanderlei12/vanderlei12/45670
+#EXTINF:-1 tvg-id="prime.box.brazil.br" tvg-name="Prime Box Brasil HD" tvg-logo="http://printv.esy.es/server/Prime%20Box%20Brazil%20HD.png" group-title="Canais Variedades & Musicas",Prime Box Brasil HD
+http://icego.club:80/vanderlei12/vanderlei12/45997
+#EXTINF:-1 tvg-id="prime.box.brazil.br" tvg-name="Prime Box Brasil" tvg-logo="http://printv.esy.es/server/Prime%20Box%20Brazil.png" group-title="Canais Variedades & Musicas",Prime Box Brasil
+http://icego.club:80/vanderlei12/vanderlei12/45996
+#EXTINF:-1 tvg-id="" tvg-name="Trace Brazuka FHD " tvg-logo="http://printv.esy.es/server/Trace%20Brazuca.png" group-title="Canais Variedades & Musicas",Trace Brazuka FHD 
+http://icego.club:80/vanderlei12/vanderlei12/46176
+#EXTINF:-1 tvg-id="" tvg-name="Trace Brazuka HD " tvg-logo="http://printv.esy.es/server/Trace%20Brazuca.png" group-title="Canais Variedades & Musicas",Trace Brazuka HD 
+http://icego.club:80/vanderlei12/vanderlei12/46177
+#EXTINF:-1 tvg-id="" tvg-name="Trace Brazuka " tvg-logo="http://printv.esy.es/server/Trace%20Brazuca.png" group-title="Canais Variedades & Musicas",Trace Brazuka 
+http://icego.club:80/vanderlei12/vanderlei12/46178
+#EXTINF:-1 tvg-id="curta.br" tvg-name="Curta! FHD" tvg-logo="http://printv.esy.es/server/Curta%21.png" group-title="Canais Variedades & Musicas",Curta! FHD
+http://icego.club:80/vanderlei12/vanderlei12/45628
+#EXTINF:-1 tvg-id="curta.br" tvg-name="Curta! HD" tvg-logo="http://printv.esy.es/server/Curta%21.png" group-title="Canais Variedades & Musicas",Curta! HD
+http://icego.club:80/vanderlei12/vanderlei12/45876
+#EXTINF:-1 tvg-id="curta.br" tvg-name="Curta!" tvg-logo="http://printv.esy.es/server/Curta%21.png" group-title="Canais Variedades & Musicas",Curta!
+http://icego.club:80/vanderlei12/vanderlei12/45875
+#EXTINF:-1 tvg-id="curta.br" tvg-name="Curta! Alterntativo" tvg-logo="http://printv.esy.es/server/Curta%21.png" group-title="Canais Variedades & Musicas",Curta! Alterntativo
+http://icego.club:80/vanderlei12/vanderlei12/46952
+#EXTINF:-1 tvg-id="arte.1.br" tvg-name="Arte 1 FHD" tvg-logo="http://printv.esy.es/server/Arte1.png" group-title="Canais Variedades & Musicas",Arte 1 FHD
+http://icego.club:80/vanderlei12/vanderlei12/45619
+#EXTINF:-1 tvg-id="arte.1.br" tvg-name="Arte 1 HD" tvg-logo="http://printv.esy.es/server/Arte1.png" group-title="Canais Variedades & Musicas",Arte 1 HD
+http://icego.club:80/vanderlei12/vanderlei12/45848
+#EXTINF:-1 tvg-id="arte.1.br" tvg-name="Arte 1" tvg-logo="http://printv.esy.es/server/Arte1.png" group-title="Canais Variedades & Musicas",Arte 1
+http://icego.club:80/vanderlei12/vanderlei12/45847
+#EXTINF:-1 tvg-id="arte.1.br" tvg-name="Arte 1 Alternativo" tvg-logo="http://printv.esy.es/server/Arte1.png" group-title="Canais Variedades & Musicas",Arte 1 Alternativo
+http://icego.club:80/vanderlei12/vanderlei12/46895
+#EXTINF:-1 tvg-id="trutv.br" tvg-name="Trutv FHD" tvg-logo="http://printv.esy.es/server/Tru%20TV%20HD.png" group-title="Canais Variedades & Musicas",Trutv FHD
+http://icego.club:80/vanderlei12/vanderlei12/45680
+#EXTINF:-1 tvg-id="trutv.br" tvg-name="TruTV HD" tvg-logo="http://printv.esy.es/server/Tru%20TV%20HD.png" group-title="Canais Variedades & Musicas",TruTV HD
+http://icego.club:80/vanderlei12/vanderlei12/46051
+#EXTINF:-1 tvg-id="trutv.br" tvg-name="TruTV" tvg-logo="http://printv.esy.es/server/Tru%20TV.png" group-title="Canais Variedades & Musicas",TruTV
+http://icego.club:80/vanderlei12/vanderlei12/46050
+#EXTINF:-1 tvg-id="trutv.br" tvg-name="TruTV Alternativo" tvg-logo="http://printv.esy.es/server/Tru%20TV.png" group-title="Canais Variedades & Musicas",TruTV Alternativo
+http://icego.club:80/vanderlei12/vanderlei12/46991
+#EXTINF:-1 tvg-id="food.network.br" tvg-name="Food Network FHD" tvg-logo="http://printv.esy.es/server/Food%20Network%20HD.png" group-title="Canais Variedades & Musicas",Food Network FHD
+http://icego.club:80/vanderlei12/vanderlei12/45640
+#EXTINF:-1 tvg-id="food.network.br" tvg-name="Food Network HD" tvg-logo="http://printv.esy.es/server/Food%20Network%20HD.png" group-title="Canais Variedades & Musicas",Food Network HD
+http://icego.club:80/vanderlei12/vanderlei12/45908
+#EXTINF:-1 tvg-id="food.network.br" tvg-name="Food Network" tvg-logo="http://printv.esy.es/server/Food%20Network.png" group-title="Canais Variedades & Musicas",Food Network
+http://icego.club:80/vanderlei12/vanderlei12/45907
+#EXTINF:-1 tvg-id="food.network.br" tvg-name="Food Network Alternativo" tvg-logo="http://printv.esy.es/server/Food%20Network.png" group-title="Canais Variedades & Musicas",Food Network Alternativo
+http://icego.club:80/vanderlei12/vanderlei12/46908
+#EXTINF:-1 tvg-id="chef.br" tvg-name="Chef TV FHD " tvg-logo="http://printv.esy.es/server/Chef%20TV.png" group-title="Canais Variedades & Musicas",Chef TV FHD 
+http://icego.club:80/vanderlei12/vanderlei12/47137
+#EXTINF:-1 tvg-id="chef.br" tvg-name="Chef TV HD " tvg-logo="http://printv.esy.es/server/Chef%20TV.png" group-title="Canais Variedades & Musicas",Chef TV HD 
+http://icego.club:80/vanderlei12/vanderlei12/47138
+#EXTINF:-1 tvg-id="chef.br" tvg-name="Chef TV " tvg-logo="http://printv.esy.es/server/Chef%20TV.png" group-title="Canais Variedades & Musicas",Chef TV 
+http://icego.club:80/vanderlei12/vanderlei12/47139
+#EXTINF:-1 tvg-id="fishtv.br" tvg-name="Fish TV FHD" tvg-logo="http://printv.esy.es/server/Fish%20TV%20HD.png" group-title="Canais Variedades & Musicas",Fish TV FHD
+http://icego.club:80/vanderlei12/vanderlei12/47081
+#EXTINF:-1 tvg-id="fishtv.br" tvg-name="Fish TV HD" tvg-logo="http://printv.esy.es/server/Fish%20TV%20HD.png" group-title="Canais Variedades & Musicas",Fish TV HD
+http://icego.club:80/vanderlei12/vanderlei12/47090
+#EXTINF:-1 tvg-id="fishtv.br" tvg-name="Fish TV " tvg-logo="http://printv.esy.es/server/Fish%20TV.png" group-title="Canais Variedades & Musicas",Fish TV 
+http://icego.club:80/vanderlei12/vanderlei12/47089
+#EXTINF:-1 tvg-id="fishtv.br" tvg-name="Fish TV FHD" tvg-logo="http://printv.esy.es/server/Fish%20TV%20HD.png" group-title="Canais Variedades & Musicas",Fish TV FHD
+http://icego.club:80/vanderlei12/vanderlei12/45639
+#EXTINF:-1 tvg-id="fishtv.br" tvg-name="Fish TV HD" tvg-logo="http://printv.esy.es/server/Fish%20TV%20HD.png" group-title="Canais Variedades & Musicas",Fish TV HD
+http://icego.club:80/vanderlei12/vanderlei12/45906
+#EXTINF:-1 tvg-id="fishtv.br" tvg-name="Fish TV " tvg-logo="http://printv.esy.es/server/Fish%20TV.png" group-title="Canais Variedades & Musicas",Fish TV 
+http://icego.club:80/vanderlei12/vanderlei12/45905
+#EXTINF:-1 tvg-id="fishtv.br" tvg-name="Fish TV Alternativo HD" tvg-logo="http://printv.esy.es/server/Fish%20TV%20HD.png" group-title="Canais Variedades & Musicas",Fish TV Alternativo HD
+http://icego.club:80/vanderlei12/vanderlei12/47068
+#EXTINF:-1 tvg-id="fishtv.br" tvg-name="Fish TV Alternativo" tvg-logo="http://printv.esy.es/server/Fish%20TV%20HD.png" group-title="Canais Variedades & Musicas",Fish TV Alternativo
+http://icego.club:80/vanderlei12/vanderlei12/46958
+#EXTINF:-1 tvg-id="woohoo.br" tvg-name="Woohoo FHD" tvg-logo="http://printv.esy.es/server/WooHoo.png" group-title="Canais Variedades & Musicas",Woohoo FHD
+http://icego.club:80/vanderlei12/vanderlei12/45685
+#EXTINF:-1 tvg-id="woohoo.br" tvg-name="Woohoo HD" tvg-logo="http://printv.esy.es/server/WooHoo.png" group-title="Canais Variedades & Musicas",Woohoo HD
+http://icego.club:80/vanderlei12/vanderlei12/46062
+#EXTINF:-1 tvg-id="woohoo.br" tvg-name="Woohoo" tvg-logo="http://printv.esy.es/server/WooHoo.png" group-title="Canais Variedades & Musicas",Woohoo
+http://icego.club:80/vanderlei12/vanderlei12/46061
+#EXTINF:-1 tvg-id="" tvg-name="Loading TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Loading_TV.svg/1200px-Loading_TV.svg.png" group-title="Canais Variedades & Musicas",Loading TV
+http://icego.club:80/vanderlei12/vanderlei12/47154
+#EXTINF:-1 tvg-id="e.br" tvg-name="E! FHD" tvg-logo="http://printv.esy.es/server/E%21%20Entertainment%20HD.png" group-title="Canais Variedades & Musicas",E! FHD
+http://icego.club:80/vanderlei12/vanderlei12/45636
+#EXTINF:-1 tvg-id="e.br" tvg-name="E! HD" tvg-logo="http://printv.esy.es/server/E%21%20Entertainment%20HD.png" group-title="Canais Variedades & Musicas",E! HD
+http://icego.club:80/vanderlei12/vanderlei12/45896
+#EXTINF:-1 tvg-id="e.br" tvg-name="E!" tvg-logo="http://printv.esy.es/server/E%21%20Entertainment.png" group-title="Canais Variedades & Musicas",E!
+http://icego.club:80/vanderlei12/vanderlei12/45895
+#EXTINF:-1 tvg-id="" tvg-name="E! Alternativo HD" tvg-logo="http://printv.esy.es/server/E%21%20Entertainment%20HD.png" group-title="Canais Variedades & Musicas",E! Alternativo HD
+http://icego.club:80/vanderlei12/vanderlei12/47067
+#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="Globo SP UHD " tvg-logo="http://printv.esy.es/server/Globo%20São%20Paulo.png" group-title="Canais 4K & Dual Audio ",Globo SP UHD 
+http://icego.club:80/vanderlei12/vanderlei12/46243
+#EXTINF:-1 tvg-id="record.br" tvg-name="RecordTV SP UHD " tvg-logo="http://printv.esy.es/server/Record%20HD.png" group-title="Canais 4K & Dual Audio ",RecordTV SP UHD 
+http://icego.club:80/vanderlei12/vanderlei12/46248
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT UHD " tvg-logo="http://printv.esy.es/server/SBT%20HD.png" group-title="Canais 4K & Dual Audio ",SBT UHD 
+http://icego.club:80/vanderlei12/vanderlei12/46244
+#EXTINF:-1 tvg-id="band.br" tvg-name="Band SP UHD " tvg-logo="http://printv.esy.es/server/Band%20HD.png" group-title="Canais 4K & Dual Audio ",Band SP UHD 
+http://icego.club:80/vanderlei12/vanderlei12/46245
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN UHD" tvg-logo="http://printv.esy.es/server/AXN%20HD.png" group-title="Canais 4K & Dual Audio ",AXN UHD
+http://icego.club:80/vanderlei12/vanderlei12/46171
+#EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="Cartoon Network UHD " tvg-logo="http://printv.esy.es/server/Cartoon%20Network%20HD.png" group-title="Canais 4K & Dual Audio ",Cartoon Network UHD 
+http://icego.club:80/vanderlei12/vanderlei12/46258
+#EXTINF:-1 tvg-id="cnn.br" tvg-name="CNN Brasil UHD " tvg-logo="http://printv.esy.es/server/CNN%20Brasil.png" group-title="Canais 4K & Dual Audio ",CNN Brasil UHD 
+http://icego.club:80/vanderlei12/vanderlei12/46247
+#EXTINF:-1 tvg-id="comedy.central.br" tvg-name="Comedy Central UHD " tvg-logo="http://printv.esy.es/server/Comedy%20Central%20HD.png" group-title="Canais 4K & Dual Audio ",Comedy Central UHD 
+http://icego.club:80/vanderlei12/vanderlei12/46256
+#EXTINF:-1 tvg-id="the.discovery.br" tvg-name="Discovery Channel UHD " tvg-logo="http://printv.esy.es/server/Discovery%20Channel%20HD.png" group-title="Canais 4K & Dual Audio ",Discovery Channel UHD 
+http://icego.club:80/vanderlei12/vanderlei12/46253
+#EXTINF:-1 tvg-id="discovery.home.health.br" tvg-name="Discovery H&H UHD " tvg-logo="http://printv.esy.es/server/Discovery%20Home%20%26%20Health%20HD.png" group-title="Canais 4K & Dual Audio ",Discovery H&H UHD 
+http://icego.club:80/vanderlei12/vanderlei12/46252
+#EXTINF:-1 tvg-id="discovery.turbo.br" tvg-name="Discovery Turbo UHD " tvg-logo="http://printv.esy.es/server/Discovery%20Turbo%20HD.png" group-title="Canais 4K & Dual Audio ",Discovery Turbo UHD 
+http://icego.club:80/vanderlei12/vanderlei12/46257
+#EXTINF:-1 tvg-id="disney.br" tvg-name="Disney Channel HD Dual " tvg-logo="http://printv.esy.es/server/Disney%20Channel%20HD.png" group-title="Canais 4K & Dual Audio ",Disney Channel HD Dual 
+http://icego.club:80/vanderlei12/vanderlei12/47145
+#EXTINF:-1 tvg-id="disney.junior.br" tvg-name="Disney Jr HD Dual " tvg-logo="http://printv.esy.es/server/Disney%20J%C3%BAnior%20HD.png" group-title="Canais 4K & Dual Audio ",Disney Jr HD Dual 
+http://icego.club:80/vanderlei12/vanderlei12/47146
+#EXTINF:-1 tvg-id="e.br" tvg-name="E! HD Dual" tvg-logo="http://printv.esy.es/server/E%21%20Entertainment%20HD.png" group-title="Canais 4K & Dual Audio ",E! HD Dual
+http://icego.club:80/vanderlei12/vanderlei12/47147
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN Brasil UHD " tvg-logo="http://printv.esy.es/server/ESPN%20Brasil%20HD.png" group-title="Canais 4K & Dual Audio ",ESPN Brasil UHD 
+http://icego.club:80/vanderlei12/vanderlei12/46262
+#EXTINF:-1 tvg-id="fishtv.br" tvg-name="Fish TV Dual " tvg-logo="http://printv.esy.es/server/Fish%20TV%20HD.png" group-title="Canais 4K & Dual Audio ",Fish TV Dual 
+http://icego.club:80/vanderlei12/vanderlei12/47148
+#EXTINF:-1 tvg-id="fox.sports.br" tvg-name="FOX Sports UHD " tvg-logo="http://printv.esy.es/server/Fox%20Sports%20HD.png" group-title="Canais 4K & Dual Audio ",FOX Sports UHD 
+http://icego.club:80/vanderlei12/vanderlei12/46251
+#EXTINF:-1 tvg-id="globo.news.br" tvg-name="Globo News UHD " tvg-logo="http://printv.esy.es/server/Globo%20News%20HD.png" group-title="Canais 4K & Dual Audio ",Globo News UHD 
+http://icego.club:80/vanderlei12/vanderlei12/46246
+#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT UHD " tvg-logo="http://printv.esy.es/server/GNT%20HD.png" group-title="Canais 4K & Dual Audio ",GNT UHD 
+http://icego.club:80/vanderlei12/vanderlei12/46260
+#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="Planeta Animal UHD " tvg-logo="http://printv.esy.es/server/Animal%20Planet.png" group-title="Canais 4K & Dual Audio ",Planeta Animal UHD 
+http://icego.club:80/vanderlei12/vanderlei12/46255
+#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="Premiere Clubes UHD " tvg-logo="http://printv.esy.es/server/Premiere%20Clubes%20HD.png" group-title="Canais 4K & Dual Audio ",Premiere Clubes UHD 
+http://icego.club:80/vanderlei12/vanderlei12/46250
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV UHD " tvg-logo="http://printv.esy.es/server/SporTV.png" group-title="Canais 4K & Dual Audio ",SporTV UHD 
+http://icego.club:80/vanderlei12/vanderlei12/46249
+#EXTINF:-1 tvg-id="fox.br" tvg-name="Star Channel UHD " tvg-logo="http://printv.esy.es/server/Fox%20HD.png" group-title="Canais 4K & Dual Audio ",Star Channel UHD 
+http://icego.club:80/vanderlei12/vanderlei12/46259
+#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="Telecine Action UHD " tvg-logo="http://printv.esy.es/server/Telecine%20Action.png" group-title="Canais 4K & Dual Audio ",Telecine Action UHD 
+http://icego.club:80/vanderlei12/vanderlei12/46261
+#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="Telecine Pipoca UHD " tvg-logo="http://printv.esy.es/server/Telecine%20Pipoca.png" group-title="Canais 4K & Dual Audio ",Telecine Pipoca UHD 
+http://icego.club:80/vanderlei12/vanderlei12/46172
+#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="Telecine Premium UHD " tvg-logo="http://printv.esy.es/server/Telecine%20Premium.png" group-title="Canais 4K & Dual Audio ",Telecine Premium UHD 
+http://icego.club:80/vanderlei12/vanderlei12/46173
+#EXTINF:-1 tvg-id="viva.br" tvg-name="Viva UHD " tvg-logo="http://printv.esy.es/server/Viva%20HD.png" group-title="Canais 4K & Dual Audio ",Viva UHD 
+http://icego.club:80/vanderlei12/vanderlei12/46254
